@@ -11,18 +11,6 @@ Email: zhangzj20@tsinghua.edu.cn \n
 \[[https://scholar.google.com/citations?user=OUAuynUAAAAJ&hl=en Google Scholar]\] \n
 ~~~
 
-#{326px}{245px}
-#at Baton Rouge, Louisiana, USA. (March 19, 2021)
-#at Grand Isle State Park, Louisiana, USA. (Oct 6, 2018)
-
-#== News
-#- \[05-15-2020\] "List-wise fairness criterion for point processes" is accepted by KDD'20!
-#- \[05-04-2020\] Defended my Ph.D. dissertation titled "Predictive modeling of asynchronous event sequence data"!
-#- \[05-25-2019\] An extention of our ICDM'18 work "Local low-rank Hawkes processes for modeling temporal user-item interactions" is accepted by Knowledge and Information Systems(KAIS)!
-#- \[10-31-2018\] "Geometric Hawkes processes with graph convolutional recurrent neural networks" is accepted by AAAI'19! 
-#- \[08-18-2018\] "Local low-rank Hawkes processes for temporal user-item interactions" is accepted by ICDM'18!
-#- \[08-18-2018\] "Demographic inference via knowledge transfer in cross-domain recommender systems" is accepted by ICDM'18!
-
 == Welcome
 Zijian Zhang received the B.E. degree in electronic engineering from Tsinghua University (THU), Beijing, China, in 2020. He is currently working toward the Ph.D. degree in electronic engineering from THU, under the guidance of Prof. [http://oa.ee.tsinghua.edu.cn/dailinglong/index.html Linglong Dai]. His research interests include physical-layer signal processing for massive MIMO and reconfigurable intelligent surfaces (RIS). He has received the National Scholarship in 2019 and the Excellent Undergraduate Thesis Award in 2020.
 
@@ -36,9 +24,13 @@ Zijian Zhang received the B.E. degree in electronic engineering from Tsinghua Un
 - Reconfigurable intelligent surface, Large intelligent surface
 - Network Localization, Navigation
 
-# == Visitors
+== Academic Services
+- TPC member: IEEE GLOBECOM (2022),  IEEE VTC (2022 Fall).
+- Journal reviewer: IEEE TSP, IEEE TCOM, IEEE TWC, IEEE COMMAG, IEEE VTM, etc.
+- Conference reviewer: IEEE ICC, IEEE GLOBECOM, IEEE VTC, IEEE WCNC, IEEE SPAWC, etc.
+
 ~~~
 {}{raw}
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=weAawplBogRZm4707J2DPkv1Pn3WYzslKBDineUl-bw'></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Xsdst3YMv72cOG5wWF8oZX09DUAuXwo6UeVCI3H-whc&cl=ffffff&w=a"></script>
 ~~~
 
