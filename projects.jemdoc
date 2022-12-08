@@ -6,8 +6,8 @@
 {}{img_left}{photos/CF.jpg}{alt text}{300px}
 - We propose the concept of RIS-aided cell-free network to improve the capacity with low cost and power consumption. The key idea is to replace some of the required BSs by low-cost
 and energy-efficient RISs. Most of the scenarios considered in existing works are special cases of the general scenario studied in this paper, and the proposed joint precoding framework can serve as a general solution to maximize the capacity in most existing RIS-aided scenarios.
--- *Z. Zhang* and L. Dai, "A joint precoding framework for wideband reconfigurable intelligent surface aided cell-free network," /IEEE Transactions on Signal Processing/, vol. 69, pp. 4085-4101, Aug. 2021. \[[pubs\Journal_paper\TSP.pdf Paper]\]
--- *Z. Zhang* and L. Dai, "Capacity improvement in wideband reconfigurable intelligent surface-aided cell-free network," in /Proc. IEEE 21st International Workshop on Signal Processing Advances in Wireless Communications (IEEE SPAWC'20)/, Atlanta, USA, May 2020. \[[pubs\Conference_paper\SPAWC.pdf Paper]\]
+-- *Z. Zhang* and L. Dai, "A joint precoding framework for wideband reconfigurable intelligent surface aided cell-free network," /IEEE Transactions on Signal Processing/, vol. 69, pp. 4085-4101, Aug. 2021. \[[pubs\Journal_paper\TSP.pdf Paper]\] \[[codes\TSP.pdf Codes]\]
+-- *Z. Zhang* and L. Dai, "Capacity improvement in wideband reconfigurable intelligent surface-aided cell-free network," in /Proc. IEEE 21st International Workshop on Signal Processing Advances in Wireless Communications (IEEE SPAWC'20)/, Atlanta, USA, May 2020. \[[pubs\Conference_paper\SPAWC.pdf Paper]\] \[[codes\SPAWC.pdf Codes]\]
 -- K. Liu and *Z. Zhang*, "On the energy-efficiency fairness of reconfigurable intelligent surface-aided cell-free network," in /Proc. 2021 IEEE 93rd Vehicular Technology Conference (IEEE VTC'21 Spring)/, Helsinki, Finland, Apr. 2021. \[[pubs\Conference_paper\VTC_k.pdf Paper]\]
 ~~~
 
@@ -17,7 +17,7 @@ and energy-efficient RISs. Most of the scenarios considered in existing works ar
 - Due to the "multiplicative fading" effect, the existing passive RISs only achieve a negligible capacity gain in environments with strong direct links. We propose the concept of active RISs to overcome this fundamental limitation.  We verify the signal model of active RISs through the experimental measurements on a fabricated active RIS element. Based on the verified signal model, we formulate
 the sum-rate maximization problem for an active RIS aided MU-MISO system and a joint transmit precoding and reflect beamforming algorithm is proposed to solve this problem. Finally, we develop a 64-element active RIS aided wireless communication prototype, and the significant gain of active RISs is validated by field test.
 --  *Z. Zhang*, L. Dai, X. Chen, C. Liu, F. Yang, R. Schober, and H. V. Poor, "Active RIS vs. passive RIS: Which will prevail in 6G?," /arXiv preprint arXiv:2103.15154/, Mar. 2021.
--- K. Liu, *Z. Zhang*, L. Dai, S. Xu, and F. Yang, "Active reconfigurable intelligent surface: Fully-connected or sub-connected?," /IEEE Communication Letters/, vol. 26, no. 1, pp. 167-171, Jan. 2022. \[[pubs\Journal_paper\CL_k.pdf Paper]\]
+-- K. Liu, *Z. Zhang*, L. Dai, S. Xu, and F. Yang, "Active reconfigurable intelligent surface: Fully-connected or sub-connected?," /IEEE Communication Letters/, vol. 26, no. 1, pp. 167-171, Jan. 2022. \[[pubs\Journal_paper\CL_k.pdf Paper]\] \[[codes\CL_k.pdf Codes]\]
 -- *Z. Zhang*, L. Dai, X. Chen, C. Liu, F. Yang, R. Schober, and H. V. Poor, "Active RISs: Signal modeling, asymptotic analysis, and beamforming design," in /Proc. 2022 IEEE Global Communications Conference (IEEE GLOBECOM'22)/, Rio de Janeiro, Brazil, Dec. 2022.
 ~~~
 
@@ -37,6 +37,6 @@ severely degrade the ranging accuracy. Two-way ranging methods are commonly adop
 - In recent years, thanks to the advances in metamaterials, the concept of continuous-aperture MIMO (CAP-MIMO) is reinvestigated to achieve improved communication performance with limited antenna apertures. The pattern design is the key factor to determine the communication performance of CAP-MIMO, but it has not been well studied in the literature. In this paper, we develop pattern-division
 multiplexing (PDM) to design the patterns for CAP-MIMO. Specifically, we first study and model a typical multi-user CAP-MIMO system, which allows us to formulate the sum-rate maximization problem. Then, we develop a general PDM technique to transform the design of the continuous pattern functions to the design of their projection lengths on finite orthogonal bases, which can overcome the challenge of functional programming.
 --  *Z. Zhang* and L. Dai, "Continuous-aperture MIMO for electromagnetic information theory," /arXiv preprint arXiv: 2111.08630/, Nov. 2021.
--- *Z. Zhang* and L. Dai, "Pattern-division multiplexing for continuous-aperture MIMO," in /Proc. 2022 IEEE International Conference on Communications (IEEE ICC'22)/, Gangnam-gu, Seoul, South Korea, May 2022. \[[pubs\Conference_paper\ICC.pdf Paper]\]
+-- *Z. Zhang* and L. Dai, "Pattern-division multiplexing for continuous-aperture MIMO," in /Proc. 2022 IEEE International Conference on Communications (IEEE ICC'22)/, Gangnam-gu, Seoul, South Korea, May 2022. \[[pubs\Conference_paper\ICC.pdf Paper]\] \[[codes\ICC.pdf Codes]\]
 
 ~~~

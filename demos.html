@@ -1,0 +1,98 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<link rel="shortcut icon" type="image/x-icon" href="Tsinghua.ico" />
+<title>Demos</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Home</div>
+<div class="menu-item"><a href="index.html">About&nbsp;me</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+<div class="menu-item"><a href="projects.html">Projects</a></div>
+<div class="menu-item"><a href="awards.html" class="current">Awards</a></div>
+<div class="menu-category">Others</div>
+<div class="menu-item"><a href="demos.html">Demos</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Demos</h1>
+</div>
+<table class="imgtable"><tr><td>
+<img src="demos/Tinker.png" alt="alt text" width="400px" />&nbsp;</td>
+<td align="left"><ul>
+<li><p>In addition to the research works on physical-layer signal processing for 5G/6G communications, <a href="https://zhangzij15.github.io">Zijian Zhang</a> (Second from the right in the photo) is also an amateur in robotics. </p>
+</li>
+<li><p>In the past few years, he has designed or co-designed several interesting robot demos, and he has  participated  in many extra curricular academic competitions.</p>
+</li>
+<li><p>He has participated in the <a href="https://2019.robocup.org/">RoboCup</a>, one of the world's largest demonstrations of robotics, in Sydney Australia in 2019.</p>
+</li>
+</ul>
+</td></tr></table>
+<h2>Demo1: Human tracking vehicle based on UWB localization</h2>
+<table class="imgtable"><tr><td>
+<img src="demos/UWB_car.gif" alt="alt text" width="400px" />&nbsp;</td>
+<td align="left"><ul>
+<li><p>Designed by <b>Zijian Zhang</b>, XiaoXiang Li, and Tianyu Wang.</p>
+</li>
+<li><p>Based on the UWB localization, we have designed and DIY a small unmanned vehicle to realize human tracking. The vehicle is equipped with a 3-antenna array terminated with a UWB chip (Decasewave DW1000) and an inertial measurement unit (IMU). The person to be tracked wears a tag, which transmits UWB signals to the vehicle. Then, the direction of arrival (DOA) is estimated at the vehicle so that the vehicle can track the person in real time.</p>
+</li>
+</ul>
+</td></tr></table>
+<h2>Demo2: UAV formation based on UWB localization and inertial guidance </h2>
+<table class="imgtable"><tr><td>
+<img src="demos/UWB_UAV.gif" alt="alt text" width="400px" />&nbsp;</td>
+<td align="left"><ul>
+<li><p>Designed by <b>Zijian Zhang</b> and Cuijie Xu.</p>
+</li>
+<li><p>By using the data fusion technique to realization cooperative localization, we have designed an autonomous and controllable UAV formation. The positions of the four UAVs remain relatively unchanged, then the formation can be led by an arbitrary UAV. All UAVs are connected by ZigBee, are each UAV is equipped with an IMU, a UWB, an optical-flow sensor, and a barometer. The Extended Kalman Filter (EKF) is employed to realize the cooperative localization of UAVs. Each UAV is also connected to a controller, so that we can control any one in a manual way.</p>
+</li>
+</ul>
+</td></tr></table>
+<h2>Demo3: Intelligent medical mechanical arm </h2>
+<table class="imgtable"><tr><td>
+<img src="demos/Arm.gif" alt="alt text" width="400px" />&nbsp;</td>
+<td align="left"><ul>
+<li><p>Designed by <b>Zijian Zhang</b>.</p>
+</li>
+<li><p>During my internship at EBOND in Beijing, I designed and DIY a high-flexible mechanical arm, including its mechanical part, circuit part and coding part. The mechanical arm can achieve precise control at the centimeter level. It contains three high-resolution stepping motors, which are powered by a 48V source and controlled by an MCU (STM32H7).  The mechanical arm can be programmed for automatic control or be manually controlled by a wireless controller.</p>
+</li>
+</ul>
+</td></tr></table>
+<h2>Demo4: Network sensor node for the fault detection of motors</h2>
+<table class="imgtable"><tr><td>
+<img src="demos/Node.gif" alt="alt text" width="400px" />&nbsp;</td>
+<td align="left"><ul>
+<li><p>Designed by <b>Zijian Zhang</b>.</p>
+</li>
+<li><p>During my internship at Pi2Star Technology Ltd. in Beijing, I designed and DIY a network sensor node for motor fault detection, which can be used as a node of the internet of things (IoT). Equipped with IMU, magnetic sensor, infrared sensor, temperature sensor, and Bluetooth, the node can collect the physical data of the surrounding environment and send the data to the upper computer. After deploying the node on an industrial motor, the upper computer will receive the collected working data of the motor and analyze the state of the motor.</p>
+</li>
+</ul>
+</td></tr></table>
+<h2>Demo5: Intelligent household robot Tinker</h2>
+<table class="imgtable"><tr><td>
+<img src="demos/Robot.gif" alt="alt text" width="400px" />&nbsp;</td>
+<td align="left"><ul>
+<li><p>Designed by Tinker in Tsinghua University (Team member: Jianghao Huo, Han Zhang, Lubin Ye, Haocheng Ma, Cuijie Xu, <b>Zijian Zhang</b>, Tengfei Zhang, Haitian Shi, Xinyu Han). </p>
+</li>
+<li><p>We have designed an intelligent robot named Tinker of Tsinghua University, China, including itsmechanical system, hardware system and software system. Tinker is designed to be an autonomous robot in domestic environment, capable of navigating and manipulating in complicated environment with friendly interaction interface, aiming to accomplish the tasks of @Home League of World RoboCup 2019. The following paper gives the hardware and software design we have proposed and implemented.</p>
+<ul>
+<li><p>J. Huo, X. Han, J. Bi, H. Ma, R. Ma, C. Xu, L. Ye, H. Zhang, T. Zhang, <b>Z. Zhang</b> and Y. Jiang, &ldquo;Tinker@Home 2019 team description paper&rdquo;, in <i>Proc. 2019 Robot World Cup (RoboCup&rsquo;19)</i>, Sydney Australia, Jul. 2019. [<a href="pubs\Conference_paper\Tinker.pdf">Paper</a>] [<a href="https://www.youtube.com/watch?v=IS0VIExTx0k">Video</a>]</p>
+</li>
+</ul>
+
+</li>
+</ul>
+</td></tr></table>
+</td>
+</tr>
+</table>
+</body>
+</html>
