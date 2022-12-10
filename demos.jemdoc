@@ -3,7 +3,7 @@
 
 ~~~
 {}{img_left}{demos/Tinker.png}{alt text}{400px}
-- In addition to the research works on physical-layer signal processing for 5G/6G communications, [https://zhangzij15.github.io Zijian Zhang] (Second from the right in the photo) is also an amateur in robotics. 
+- In addition to the research works on physical-layer signal processing for 5G/6G communications, [https://zhangzij15.github.io Zijian Zhang] (second from the right in the photo) is also an amateur in robotics. 
 - In the past few years, he has designed or co-designed several interesting robot demos, and he has  participated  in many extra curricular academic competitions.
 - He has participated in the [https://2019.robocup.org/ RoboCup], one of the world's largest demonstrations of robotics, in Sydney Australia in 2019.
 ~~~
@@ -39,7 +39,7 @@
 ==  Demo5: Intelligent household robot Tinker
 ~~~
 {}{img_left}{demos/Robot.gif}{alt text}{400px}
-- Designed by Tinker in Tsinghua University (Team member: Jianghao Huo, Han Zhang, Lubin Ye, Haocheng Ma, Cuijie Xu, *Zijian Zhang*, Tengfei Zhang, Haitian Shi, Xinyu Han). 
+- Designed by Tinker in Tsinghua University (team member: Jianghao Huo, Han Zhang, Lubin Ye, Haocheng Ma, Cuijie Xu, *Zijian Zhang*, Tengfei Zhang, Haitian Shi, Xinyu Han). 
 -  We have designed an intelligent robot named Tinker of Tsinghua University, China, including itsmechanical system, hardware system and software system. Tinker is designed to be an autonomous robot in domestic environment, capable of navigating and manipulating in complicated environment with friendly interaction interface, aiming to accomplish the tasks of @Home League of World RoboCup 2019. The following paper gives the hardware and software design we have proposed and implemented.
 -- J. Huo, X. Han, J. Bi, H. Ma, R. Ma, C. Xu, L. Ye, H. Zhang, T. Zhang, *Z. Zhang* and Y. Jiang, "Tinker@Home 2019 team description paper", in /Proc. 2019 Robot World Cup (RoboCup'19)/, Sydney Australia, Jul. 2019. \[[pubs\Conference_paper\Tinker.pdf Paper]\] \[[https://www.youtube.com/watch?v=IS0VIExTx0k Video]\]
 ~~~
