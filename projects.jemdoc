@@ -7,7 +7,7 @@
 - We propose the concept of RIS-aided cell-free network to improve the capacity with low cost and power consumption. The key idea is to replace some of the required BSs by low-cost
 and energy-efficient RISs. Most of the scenarios considered in existing works are special cases of the general scenario studied in this paper, and the proposed joint precoding framework can serve as a general solution to maximize the capacity in most existing RIS-aided scenarios.
 -- *Z. Zhang* and L. Dai, "A joint precoding framework for wideband reconfigurable intelligent surface aided cell-free network," /IEEE Transactions on Signal Processing/, vol. 69, pp. 4085-4101, Aug. 2021. \[[pubs\Journal_paper\TSP.pdf Paper]\] \[[codes\TSP.zip Codes]\]
--- *Z. Zhang* and L. Dai, "Capacity improvement in wideband reconfigurable intelligent surface-aided cell-free network," in /Proc. IEEE 21st International Workshop on Signal Processing Advances in Wireless Communications (IEEE SPAWC'20)/, Atlanta, USA, May 2020. \[[pubs\Conference_paper\SPAWC.pdf Paper]\] \[[codes\SPAWC.zip Codes]\]
+-- *Z. Zhang* and L. Dai, "Capacity improvement in wideband reconfigurable intelligent surface-aided cell-free network," in /Proc. 2020 IEEE 21st International Workshop on Signal Processing Advances in Wireless Communications (IEEE SPAWC'20)/, Atlanta, USA, May 2020. \[[pubs\Conference_paper\SPAWC.pdf Paper]\] \[[codes\SPAWC.zip Codes]\]
 -- K. Liu and *Z. Zhang*, "On the energy-efficiency fairness of reconfigurable intelligent surface-aided cell-free network," in /Proc. 2021 IEEE 93rd Vehicular Technology Conference (IEEE VTC'21 Spring)/, Helsinki, Finland, Apr. 2021. \[[pubs\Conference_paper\VTC_k.pdf Paper]\]
 ~~~
 
