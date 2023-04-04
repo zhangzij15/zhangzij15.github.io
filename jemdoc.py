@@ -685,7 +685,7 @@ def br(b, f, tableblock=False):
 
   # Deal with *bold* + red.
   r = re.compile(r'(?<!\\)\!(.*?)(?<!\\)\!', re.M + re.S)
-  b = re.sub(r, r'<b style=\"color:red;\">\1</b>', b)
+  b = re.sub(r, r'<span style=\"color:red;\">\1</span>', b)
 
   # Deal with +monospace+.
   r = re.compile(r'(?<!\\)\+(.*?)(?<!\\)\+', re.M + re.S)
