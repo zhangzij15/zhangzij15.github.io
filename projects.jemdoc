@@ -36,7 +36,7 @@ severely degrade the ranging accuracy. Two-way ranging methods are commonly adop
 {}{img_left}{photos/CAP-MIMO.jpg}{alt text}{300px}
 - In recent years, thanks to the advances in metamaterials, the concept of continuous-aperture MIMO (CAP-MIMO) is reinvestigated to achieve improved communication performance with limited antenna apertures. The pattern design is the key factor to determine the communication performance of CAP-MIMO, but it has not been well studied in the literature. In this paper, we develop pattern-division
 multiplexing (PDM) to design the patterns for CAP-MIMO. Specifically, we first study and model a typical multi-user CAP-MIMO system, which allows us to formulate the sum-rate maximization problem. Then, we develop a general PDM technique to transform the design of the continuous pattern functions to the design of their projection lengths on finite orthogonal bases, which can overcome the challenge of functional programming.
---  *Z. Zhang* and L. Dai, "Pattern-division multiplexing for multi-user continuous-aperture MIMO," /arXiv preprint arXiv: 2111.08630/, Nov. 2021.
+--  *Z. Zhang* and L. Dai, "Pattern-division multiplexing for multi-user continuous-aperture MIMO," /IEEE Journal on Selected Areas in Communications/, May 2023.
 -- *Z. Zhang* and L. Dai, "Pattern-division multiplexing for continuous-aperture MIMO," in /Proc. 2022 IEEE International Conference on Communications (IEEE ICC'22)/, Gangnam-gu, Seoul, South Korea, May 2022. \[[pubs\Conference_paper\ICC.pdf Paper]\] \[[codes\ICC.zip Codes]\]
 
 ~~~
