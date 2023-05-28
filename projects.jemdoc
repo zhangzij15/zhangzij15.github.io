@@ -26,8 +26,8 @@ the sum-rate maximization problem for an active RIS aided MU-MISO system and a j
 {}{img_left}{photos/SM-NR.jpg}{alt text}{300px}
 - Precise range information is essential for high-precision network localization, where clock drifts will
 severely degrade the ranging accuracy. Two-way ranging methods are commonly adopted to mitigate those effects in localization networks but requiring a large amount of signal transmission to measure the distance between all pairs of nodes.  We design a signal-multiplexing network measuring scheme, which can measure all node-pair distances with a minimum number of signal transmissions. In this way, the signal overhead is reduced from O(N^2) to N+1 for a N-node network. 
---  *Z. Zhang*, H. Zhao, J. Wang and Y. Shen, "Signal-multiplexing ranging for network localization," /IEEE Transactions on Wireless Communications/, vol. 21, no. 3, pp. 1694-1709, Mar. 2022. \[[pubs\Journal_paper\TWC.pdf Paper]\] \[[codes\TWC.zip Codes]\]
--- H. Zhao, *Z. Zhang*, J. Wang, Z. Zhang and Y. Shen, "A signal-multiplexing ranging scheme for integrated localization and sensing," /IEEE Wireless Communications Letters/, vol. 11, no. 8, pp. 1609-1613, Aug. 2022. \[[pubs\Journal_paper\WCL_z.pdf Paper]\] \[[codes\WCL_z.zip Codes]\]
+--  *Z. Zhang*, H. Zhao, J. Wang, and Y. Shen, "Signal-multiplexing ranging for network localization," /IEEE Transactions on Wireless Communications/, vol. 21, no. 3, pp. 1694-1709, Mar. 2022. \[[pubs\Journal_paper\TWC.pdf Paper]\] \[[codes\TWC.zip Codes]\]
+-- H. Zhao, *Z. Zhang*, J. Wang, Z. Zhang, and Y. Shen, "A signal-multiplexing ranging scheme for integrated localization and sensing," /IEEE Wireless Communications Letters/, vol. 11, no. 8, pp. 1609-1613, Aug. 2022. \[[pubs\Journal_paper\WCL_z.pdf Paper]\] \[[codes\WCL_z.zip Codes]\]
 -- *Z. Zhang*, H. Zhao, and Y. Shen, "High-Efficient ranging algorithms for wireless sensor network," in /Proc. 2019 11th International Conference on Wireless Communications and Signal Processing (WCSP'19)/, Xi'an, P.R. China, Oct. 2019. \[[pubs\Conference_paper\WCSP.pdf Paper]\]
 ~~~
 
