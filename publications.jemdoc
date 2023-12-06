@@ -1,6 +1,9 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 = Publications 
 
+== Book Chapter
+. *Z. Zhang*, Y. Chen, Q. Yu, and L. Dai, "IRS Architecture and Hardware Design," in /Intelligent Surfaces Empowered 6G Wireless Network/, Wiley-IEEE Press, Dec. 2023. \[[https://www.wiley.com/en-sg/Intelligent+Surfaces+Empowered+6G+Wireless+Network-p-9781119913092 Book]\]
+
 == Journal
 . *Z. Zhang* and L. Dai, "A joint precoding framework for wideband reconfigurable intelligent surface aided cell-free network," /IEEE Transactions on Signal Processing/, vol. 69, pp. 4085-4101, Aug. 2021. \[[pubs\Journal_paper\TSP.pdf Paper]\] \[[codes\TSP.zip Codes]\] (!ESI Highly Cited Paper!)
 . *Z. Zhang*, H. Zhao, J. Wang, and Y. Shen, "Signal-multiplexing ranging for network localization," /IEEE Transactions on Wireless Communications/, vol. 21, no. 3, pp. 1694-1709, Mar. 2022. \[[pubs\Journal_paper\TWC.pdf Paper]\] \[[codes\TWC.zip Codes]\]
