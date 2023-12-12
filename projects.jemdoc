@@ -39,5 +39,4 @@ multiplexing (PDM) to design the patterns for CAP-MIMO. Specifically, we first s
 --  *Z. Zhang* and L. Dai, "Pattern-division multiplexing for multi-user continuous-aperture MIMO," /IEEE Journal on Selected Areas in Communications/, vol. 41, no. 8, pp. 1-17, Aug. 2023. \[[pubs\Journal_paper\JSAC.pdf Paper]\] \[[codes\JSAC.zip Codes]\]
 -- Z. Wan, J. Zhu, *Z. Zhang*, L. Dai, and C. B. Chae, "Mutual information for electromagnetic information theory based on random fields," /IEEE Transactions on Communications/, vol. 71, no. 4, pp. 1982-1996, Apr. 2023. \[[pubs\Journal_paper\TCOM_wan.pdf Paper]\] \[[codes\TCOM_wan.zip Codes]\]
 -- *Z. Zhang* and L. Dai, "Pattern-division multiplexing for continuous-aperture MIMO," in /Proc. 2022 IEEE International Conference on Communications (IEEE ICC'22)/, Gangnam-gu, Seoul, South Korea, May 2022. \[[pubs\Conference_paper\ICC.pdf Paper]\] \[[codes\ICC.zip Codes]\]
-
 ~~~
