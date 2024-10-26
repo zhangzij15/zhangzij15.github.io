@@ -19,13 +19,18 @@
 . H. Zhao, *Z. Zhang*, L. Xu, Y. Wang, and Y. Shen, "Enhancing timeliness in asynchronous vehicle localization: A signal-multiplexing network measuring approach," /IEEE Transactions on Intelligent Transportation Systems/, vol. 25, no. 10, pp. 13729-13743, Oct. 2024. \[[pubs\Journal_paper\TITS_z.pdf Paper]\]
 . D. Shen, *Z. Zhang*, and L. Dai, "Joint beamforming design for RIS-assisted cell-free network with multi-hop transmissions", /Tsinghua Science and Technology/, vol. 28, no. 6, pp. 1115-1127, Dec. 2023. \[[pubs\Journal_paper\TST_s.pdf Paper]\]
 . Z. Wan, J. Zhu, *Z. Zhang*, L. Dai, and C. B. Chae, "Mutual information for electromagnetic information theory based on random fields," /IEEE Transactions on Communications/, vol. 71, no. 4, pp. 1982-1996, Apr. 2023. \[[pubs\Journal_paper\TCOM_wan.pdf Paper]\] \[[codes\TCOM_wan.zip Codes]\]
-. Y. Lu, *Z. Zhang*, and L. Dai, "Hierarchical beam training for extremely large-scale MIMO: From far-field to near-field," /IEEE Transactions on Communications/, vol. 72, no. 4, pp. 2247-2259, Apr. 2024. \[[pubs\Journal_paper\TCOM_l.pdf Paper]\]
-. *Z. Zhang*, J. Zhu, L. Dai, and R. Heath, "Successive Bayesian reconstructor for channel estimation in fluid antenna systems," /arXiv preprint arXiv:2312.06551/, Dec. 2023. (IEEE TWC, Major Revision)
-. *Z. Zhang* and M. Cui, "Channel estimation for densifying MIMO via two-dimensional ice filling", Submitted to /IEEE Transactions on Signal Processing/, Oct. 2024.
-. M. Cui, *Z. Zhang**, L. Dai, K. Huang, "Near-optimal channel estimation for dense array systems," /arXiv preprint arXiv:2404.06806/, Apr. 2024.
-. R. Su, *Z. Zhang*, and L. Dai, "Multi-beam design: From passive RIS to active RIS", Submitted to /Science China-Information Sciences/, Apr. 2023. \[[pubs\Journal_paper\SCI.pdf Paper]\] (SCIS, Major Revision)
+. Y. Lu, *Z. Zhang*, and L. Dai, "Hierarchical beam training for extremely large-scale MIMO: From far-field to near-field," /IEEE Transactions on Communications/, vol. 72, no. 4, pp. 2247-2259, Apr. 2024. \[[pubs\Journal_paper\TCOM_l.pdf Paper]\] \[[codes\TCOM_l.rar Codes]\]
+
+== Papers Under Review
+- {{<b>Note: *=Corresponding author </b>}}
+. *Z. Zhang*, J. Zhu, L. Dai, and R. Heath, "Successive Bayesian reconstructor for channel estimation in fluid antenna systems," /arXiv preprint arXiv:2312.06551/, Dec. 2023. (Under Review in IEEE TWC, Major Revision)
+. *Z. Zhang* and M. Cui, "Channel estimation for densifying MIMO via two-dimensional ice filling", Submitted to /IEEE Transactions on Signal Processing/, Oct. 2024. (Under Review in IEEE TSP)
+. M. Cui, *Z. Zhang**, L. Dai, K. Huang, "Near-optimal channel estimation for dense array systems," /arXiv preprint arXiv:2404.06806/, Apr. 2024. (Under Review in IEEE TWC)
+. R. Su, *Z. Zhang*, and L. Dai, "Multi-beam design: From passive RIS to active RIS", Submitted to /Science China-Information Sciences/, Apr. 2023. \[[pubs\Journal_paper\SCI.pdf Paper]\] (Under Review in SCIS, Major Revision)
 . Z. Wu, M. Cui, *Z. Zhang*, and L. Dai, "Distance-aware precoding for near-field capacity improvement," /arXiv preprint arXiv:2112.14598/, Dec. 2021.
-. X. Chen, X. Zhong, *Z. Zhang*, L. Dai, and S. Zhou, "High-efficiency urban 3D radio map estimation based on sparse measurements," /arXiv preprint arXiv:2408.04205/, Aug. 2024.
+. X. Chen, X. Zhong, *Z. Zhang*, L. Dai, and S. Zhou, "High-efficiency urban 3D radio map estimation based on sparse measurements," /arXiv preprint arXiv:2408.04205/, Aug. 2024. (Under Review in IEEE TVT, Major Revision)
+. *Z. Zhang* and M. Cui, "Two-dimensional ice filling based channel estimation in densifying MIMO systems", Submitted to /2025 IEEE International Conference on Communications (IEEE ICC'25)/, Montreal, Canada, Jun. 2025. \[[pubs\Supp\ICC_supp.pdf Supplementary Materials]\] (Under Review in IEEE ICC)
+. M. Cui, *Z. Zhang**, L. Dai, and K. Huang, "Channel estimation for dense array systems via ice-filling", Submitted to /2025 IEEE International Conference on Communications (IEEE ICC'25)/, Montreal, Canada, Jun. 2025. (Under Review in IEEE ICC)
 
 == Conference Papers
 - {{<b>Note: *=Corresponding author </b>}}
@@ -40,8 +45,6 @@
 . Y. Chen, *Z. Zhang*, M. Cui, and L. Dai, "Channel estimation for non-stationary extremely large-scale MIMO," in /Proc. 2023 IEEE 97th Vehicular Technology Conference (IEEE VTC'23 Spring)/, Florence, Italy, Jun. 2023. \[[pubs\Conference_paper\VTC_c.pdf Paper]\]
 . Y. Lu, *Z. Zhang*, and L. Dai, "Near-field 2D hierarchical beam training for extremely large-scale MIMO," in /Proc. 2023 IEEE Global Communications Conference (IEEE GLOBECOM'23)/, Kuala Lumpur, Malaysia, Dec. 2023. \[[pubs\Conference_paper\GLOBECOM_l.pdf Paper]\]
 . Z. Wu, M. Cui, *Z. Zhang*, and L. Dai, "Distance-aware precoding for near-field capacity improvement in XL-MIMO," in /Proc. 2022 IEEE 95th Vehicular Technology Conference (IEEE VTC'22 Fall)/, Helsinki, Finland, Aug. 2022. \[[pubs\Conference_paper\VTC_w.pdf Paper]\] \[[codes\VTC_w.zip Codes]\] 
-. *Z. Zhang* and M. Cui, "Two-dimensional ice filling based channel estimation in densifying MIMO systems", Submitted to /2025 IEEE International Conference on Communications (IEEE ICC'25)/, Montreal, Canada, Jun. 2025. \[[pubs\Supp\ICC_supp.pdf Supplementary Materials]\]
-. M. Cui, *Z. Zhang**, L. Dai, and K. Huang, "Channel estimation for dense array systems via ice-filling", Submitted to /2025 IEEE International Conference on Communications (IEEE ICC'25)/, Montreal, Canada, Jun. 2025.
 
 == Others
 . *Z. Zhang*, Y. Chen, Z. Peng, and L. Dai, “Active reconfigurable intelligent surface aided wireless communication prototype,” in /Proc. 2022 IEEE Global Communications Conference (IEEE GLOBECOM'22, Demo Session)/, Rio de Janeiro, Brazil, Dec. 2022. \[[pubs\Conference_paper\GLOBECOM_demo.pdf Slides]\]
