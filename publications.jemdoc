@@ -12,6 +12,7 @@
 . *Z. Zhang* and L. Dai, "Pattern-division multiplexing for multi-user continuous-aperture MIMO," /IEEE Journal on Selected Areas in Communications/, vol. 41, no. 8, pp. 2350-2366, Aug. 2023. \[[pubs\Journal_paper\JSAC.pdf Paper]\] \[[codes\JSAC.zip Codes]\]
 . *Z. Zhang*, H. Zhao, J. Wang, and Y. Shen, "Signal-multiplexing ranging for network localization," /IEEE Transactions on Wireless Communications/, vol. 21, no. 3, pp. 1694-1709, Mar. 2022. \[[pubs\Journal_paper\TWC.pdf Paper]\] \[[codes\TWC.zip Codes]\]
 . *Z. Zhang* and L. Dai, "Reconfigurable intelligent surfaces for 6G: Nine fundamental issues and one critical problem," /Tsinghua Science and Technology/, vol. 28, no. 5, pp. 929-939, Oct. 2023. \[[pubs\Journal_paper\TST.pdf Paper]\] \[[codes\TST.zip Codes]\] (!Invited Paper!)
+. *Z. Zhang*, J. Zhu, L. Dai, and R. Heath, "Successive Bayesian reconstructor for channel estimation in fluid antenna systems," /IEEE Transactions on Wireless Communications/, Dec. 2024.
 . J. Zhang, Z. Li, and *Z. Zhang**, "Wideband active RISs: Architecture, modeling, and beamforming design", /IEEE Communications Letters/, vol. 27, no. 7, pp. 1899-1903, Jul. 2023. \[[pubs\Journal_paper\CL_z.pdf Paper]\]
 . K. Liu, *Z. Zhang*, L. Dai, and L. Hanzo, "Compact user-specific reconfigurable intelligent surfaces for uplink transmission," /IEEE Transactions on Communications/, vol. 70, no. 1, pp. 680-692, Jan. 2022. \[[pubs\Journal_paper\TCOM_k.pdf Paper]\] \[[codes\TCOM_k.zip Codes]\]
 . K. Liu, *Z. Zhang*, L. Dai, S. Xu, and F. Yang, "Active reconfigurable intelligent surface: Fully-connected or sub-connected?," /IEEE Communications Letters/, vol. 26, no. 1, pp. 167-171, Jan. 2022. \[[pubs\Journal_paper\CL_k.pdf Paper]\] \[[codes\CL_k.zip Codes]\] (!ESI Top 1% Highly Cited Paper!)
@@ -23,7 +24,6 @@
 
 == Papers Under Review
 - {{<b>Note: *=Corresponding author </b>}}
-. *Z. Zhang*, J. Zhu, L. Dai, and R. Heath, "Successive Bayesian reconstructor for channel estimation in fluid antenna systems," /arXiv preprint arXiv:2312.06551/, Dec. 2023. (Under Review in IEEE TWC, Major Revision)
 . *Z. Zhang* and M. Cui, "Channel estimation for densifying MIMO via two-dimensional ice filling", Submitted to /IEEE Transactions on Signal Processing/, Oct. 2024. (Under Review in IEEE TSP)
 . M. Cui, *Z. Zhang**, L. Dai, K. Huang, "Near-optimal channel estimation for dense array systems," /arXiv preprint arXiv:2404.06806/, Apr. 2024. (Under Review in IEEE TWC)
 . Z. Xu, *Z. Zhang*, and L. Dai, "Near-optimal near-field beam training: From searching to inference," Submitted to /IEEE Transactions on Wireless Communications/, Nov. 2024. (Under Review in IEEE TWC)
