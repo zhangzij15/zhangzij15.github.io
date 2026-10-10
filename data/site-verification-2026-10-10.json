@@ -1,0 +1,243 @@
+{
+  "checked_as_of": "2026-10-10",
+  "result": "passed",
+  "pages": [
+    {
+      "file": "index.html",
+      "balanced_html": true,
+      "local_references_valid": true,
+      "all_original_resource_links_preserved": true
+    },
+    {
+      "file": "publications.html",
+      "balanced_html": true,
+      "local_references_valid": true,
+      "all_original_resource_links_preserved": true
+    },
+    {
+      "file": "projects.html",
+      "balanced_html": true,
+      "local_references_valid": true,
+      "all_original_resource_links_preserved": true
+    },
+    {
+      "file": "demos.html",
+      "balanced_html": true,
+      "local_references_valid": true,
+      "all_original_resource_links_preserved": true
+    },
+    {
+      "file": "awards.html",
+      "balanced_html": true,
+      "local_references_valid": true,
+      "all_original_resource_links_preserved": true
+    },
+    {
+      "file": "zijianzhang.html",
+      "balanced_html": true,
+      "local_references_valid": true,
+      "all_original_resource_links_preserved": true
+    }
+  ],
+  "local_reference_occurrences_checked": 285,
+  "publication_and_patent_entries": 57,
+  "journal_figures": 21,
+  "verified_doi_links": 36,
+  "conference_papers_with_pages": 14,
+  "patent_grant_badges": 10,
+  "published_application_badges": 7,
+  "project_categories": 7,
+  "project_summaries": 11,
+  "project_papers_per_category": [
+    3,
+    1,
+    2,
+    3,
+    3,
+    3,
+    1
+  ],
+  "B2_original_entry_retained": true,
+  "publication_project_metadata_consistent": true,
+  "corresponding_author_markers_preserved": true,
+  "source_and_HTML_metadata_consistent": true,
+  "issues": [],
+  "browser_layout_checks": [
+    {
+      "brokenImages": [],
+      "navigationLinks": [
+        "About",
+        "Publications",
+        "Projects",
+        "Demos",
+        "Awards"
+      ],
+      "page": "/index.html",
+      "patentBadges": [],
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "brokenImages": [],
+      "navigationLinks": [
+        "About",
+        "Publications",
+        "Projects",
+        "Demos",
+        "Awards"
+      ],
+      "page": "/publications.html",
+      "patentBadges": [
+        "Published application",
+        "Published application",
+        "Published application",
+        "Published application",
+        "Granted",
+        "Granted",
+        "Published application",
+        "Granted",
+        "Granted",
+        "Granted",
+        "Granted",
+        "Granted",
+        "Granted",
+        "Published application",
+        "Granted",
+        "Published application",
+        "Granted"
+      ],
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "brokenImages": [],
+      "navigationLinks": [
+        "About",
+        "Publications",
+        "Projects",
+        "Demos",
+        "Awards"
+      ],
+      "page": "/projects.html",
+      "patentBadges": [],
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "brokenImages": [],
+      "navigationLinks": [
+        "About",
+        "Publications",
+        "Projects",
+        "Demos",
+        "Awards"
+      ],
+      "page": "/demos.html",
+      "patentBadges": [],
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "brokenImages": [],
+      "navigationLinks": [
+        "About",
+        "Publications",
+        "Projects",
+        "Demos",
+        "Awards"
+      ],
+      "page": "/awards.html",
+      "patentBadges": [],
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "brokenImages": [],
+      "navigationLinks": [
+        "About",
+        "Publications",
+        "Projects",
+        "Demos",
+        "Awards"
+      ],
+      "page": "/index.html",
+      "patentBadges": [],
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "navigationLinks": [
+        "About",
+        "Publications",
+        "Projects",
+        "Demos",
+        "Awards"
+      ],
+      "page": "/publications.html",
+      "patentBadges": [
+        "Published application",
+        "Published application",
+        "Published application",
+        "Published application",
+        "Granted",
+        "Granted",
+        "Published application",
+        "Granted",
+        "Granted",
+        "Granted",
+        "Granted",
+        "Granted",
+        "Granted",
+        "Published application",
+        "Granted",
+        "Published application",
+        "Granted"
+      ],
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "navigationLinks": [
+        "About",
+        "Publications",
+        "Projects",
+        "Demos",
+        "Awards"
+      ],
+      "page": "/projects.html",
+      "patentBadges": [],
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "navigationLinks": [
+        "About",
+        "Publications",
+        "Projects",
+        "Demos",
+        "Awards"
+      ],
+      "page": "/demos.html",
+      "patentBadges": [],
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "navigationLinks": [
+        "About",
+        "Publications",
+        "Projects",
+        "Demos",
+        "Awards"
+      ],
+      "page": "/awards.html",
+      "patentBadges": [],
+      "scrollWidth": 375,
+      "width": 390
+    }
+  ]
+}

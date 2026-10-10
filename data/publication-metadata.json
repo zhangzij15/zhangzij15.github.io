@@ -1,0 +1,3117 @@
+{
+  "checked_as_of": "2026-10-10",
+  "records": [
+    {
+      "id": "B1",
+      "title": "IRS Architecture and Hardware Design",
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Yuhao",
+          "family": "Chen"
+        },
+        {
+          "given": "Qiumo",
+          "family": "Yu"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "old_title": "IRS Architecture and Hardware Design",
+      "old_authors": "Z. Zhang , Y. Chen, Q. Yu, and L. Dai",
+      "old_venue": "in Intelligent Surfaces Empowered 6G Wireless Network , Chapter 2, pp.15-36, Wiley-IEEE Press, Dec. 2023.",
+      "venue": "Intelligent Surfaces Empowered 6G Wireless Network",
+      "volume": null,
+      "issue": null,
+      "pages": "15-36",
+      "article_number": null,
+      "year": 2023,
+      "month": 12,
+      "doi": "10.1002/9781119913122.ch2",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "Wiley",
+      "online_date": [
+        [
+          2023,
+          12
+        ]
+      ],
+      "print_date": [
+        [
+          2023,
+          12,
+          27
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1002%2F9781119913122.ch2",
+        "https://onlinelibrary.wiley.com/doi/10.1002/9781119913122.ch2",
+        "https://doi.org/10.1002/9781119913122.ch2",
+        "https://www.wiley-vch.de/en/areas-interest/engineering/intelligent-surfaces-empowered-6g-wireless-network-978-1-119-91309-2"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record.",
+        "Wiley Online Library confirms Chapter 2, author order, first online 1 Dec. 2023 and print 27 Dec. 2023; Wiley-VCH table of contents corroborates chapter start p.15."
+      ],
+      "changes": [
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1002/9781119913122.ch2"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "recommended_venue_html": "in <i>Intelligent Surfaces Empowered 6G Wireless Network</i>, Chapter 2, pp. 15–36, Wiley-IEEE Press, Dec. 2023.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "B2",
+      "title": "Optimization of Active Metasurfaces",
+      "authors": [],
+      "old_title": "Optimization of Active Metasurfaces",
+      "old_authors": "Z. Zhang , Z. Xu, H. Li, and L. Dai",
+      "old_venue": "in Reconfigurable Metasurfaces for Wireless Communications: Architectures, Modeling, and Optimization , Part B, Springer Nature, 2024.",
+      "venue": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "article_number": null,
+      "year": null,
+      "month": null,
+      "doi": null,
+      "status": "unverified",
+      "publication_status": "not_verified",
+      "publisher": null,
+      "online_date": null,
+      "print_date": null,
+      "source_urls": [
+        "https://api.crossref.org/works?query.title=Optimization%20of%20Active%20Metasurfaces&rows=6",
+        "https://link.springer.com/book/10.1007/978-981-95-1814-2"
+      ],
+      "evidence": [
+        "Exact title searches, Crossref title search, and Springer searches did not locate this exact chapter/author list. The best Crossref candidate is an unrelated 2014 SPIE item and is rejected. A superficially similar Springer book (10.1007/978-981-95-1814-2, published July 2026) contains Active RISs: Modeling and Optimization pp.227–268 by Tasci/Gavriilidis/Basar/Alexandropoulos, not Zhang/Xu/Li/Dai. Do not use that book or chapter metadata for B2. Existing 2024 citation is supplied content, not verified publication evidence."
+      ],
+      "changes": [],
+      "unverified_fields": [
+        "publisher record for this exact chapter",
+        "DOI",
+        "final book title",
+        "publication status",
+        "year",
+        "chapter number",
+        "pages",
+        "author list"
+      ],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 0.72,
+      "rejected_candidate_doi": "10.1117/12.2040372",
+      "authors_supplied": "Z. Zhang , Z. Xu, H. Li, and L. Dai",
+      "recommended_venue_html": null,
+      "website_action": "Original entry and supplied 2024 information retained unchanged at the user's request on 2026-10-10; no unverified metadata added."
+    },
+    {
+      "id": "J1",
+      "title": "Active RIS vs. Passive RIS: Which Will Prevail in 6G?",
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        },
+        {
+          "given": "Xibi",
+          "family": "Chen"
+        },
+        {
+          "given": "Changhao",
+          "family": "Liu"
+        },
+        {
+          "given": "Fan",
+          "family": "Yang"
+        },
+        {
+          "given": "Robert",
+          "family": "Schober"
+        },
+        {
+          "given": "H. Vincent",
+          "family": "Poor"
+        }
+      ],
+      "old_title": "Active RIS vs. passive RIS: Which will prevail in 6G?",
+      "old_authors": "Z. Zhang , L. Dai, X. Chen, C. Liu, F. Yang, R. Schober, and H. V. Poor",
+      "old_venue": "IEEE Transactions on Communications , vol. 71, no. 3, pp. 1707-1725, Mar. 2023.",
+      "venue": "IEEE Transactions on Communications",
+      "volume": "71",
+      "issue": "3",
+      "pages": "1707-1725",
+      "article_number": null,
+      "year": 2023,
+      "month": 3,
+      "doi": "10.1109/tcomm.2022.3231893",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "online_date": null,
+      "print_date": [
+        [
+          2023,
+          3
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Ftcomm.2022.3231893",
+        "https://ieeexplore.ieee.org/document/9998527/",
+        "https://doi.org/10.1109/tcomm.2022.3231893"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "Active RIS vs. passive RIS: Which will prevail in 6G?",
+          "new": "Active RIS vs. Passive RIS: Which Will Prevail in 6G?",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/tcomm.2022.3231893"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "recommended_venue_html": "<i>IEEE Transactions on Communications</i>, vol. 71, no. 3, pp. 1707–1725, Mar. 2023.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "J2",
+      "title": "A Joint Precoding Framework for Wideband Reconfigurable Intelligent Surface-Aided Cell-Free Network",
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "old_title": "A joint precoding framework for wideband reconfigurable intelligent surface aided cell-free network",
+      "old_authors": "Z. Zhang  and L. Dai",
+      "old_venue": "IEEE Transactions on Signal Processing , vol. 69, pp. 4085-4101, Aug. 2021.",
+      "venue": "IEEE Transactions on Signal Processing",
+      "volume": "69",
+      "issue": null,
+      "pages": "4085-4101",
+      "article_number": null,
+      "year": 2021,
+      "month": null,
+      "doi": "10.1109/tsp.2021.3088755",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "online_date": null,
+      "print_date": [
+        [
+          2021
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Ftsp.2021.3088755",
+        "https://ieeexplore.ieee.org/document/9459505/",
+        "https://doi.org/10.1109/tsp.2021.3088755"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record.",
+        "Continuously paginated annual volume; no issue exists in the Crossref record. Recommended citation uses the year only; do not manufacture an issue or confuse initial online month with issue date."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "A joint precoding framework for wideband reconfigurable intelligent surface aided cell-free network",
+          "new": "A Joint Precoding Framework for Wideband Reconfigurable Intelligent Surface-Aided Cell-Free Network",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/tsp.2021.3088755"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "recommended_venue_html": "<i>IEEE Transactions on Signal Processing</i>, vol. 69, pp. 4085–4101, 2021.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "J3",
+      "title": "Pattern-Division Multiplexing for Multi-User Continuous-Aperture MIMO",
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "old_title": "Pattern-division multiplexing for multi-user continuous-aperture MIMO",
+      "old_authors": "Z. Zhang  and L. Dai",
+      "old_venue": "IEEE Journal on Selected Areas in Communications , vol. 41, no. 8, pp. 2350-2366, Aug. 2023.",
+      "venue": "IEEE Journal on Selected Areas in Communications",
+      "volume": "41",
+      "issue": "8",
+      "pages": "2350-2366",
+      "article_number": null,
+      "year": 2023,
+      "month": 8,
+      "doi": "10.1109/jsac.2023.3288244",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "online_date": null,
+      "print_date": [
+        [
+          2023,
+          8
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Fjsac.2023.3288244",
+        "https://ieeexplore.ieee.org/document/10158997/",
+        "https://doi.org/10.1109/jsac.2023.3288244"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "Pattern-division multiplexing for multi-user continuous-aperture MIMO",
+          "new": "Pattern-Division Multiplexing for Multi-User Continuous-Aperture MIMO",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/jsac.2023.3288244"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "recommended_venue_html": "<i>IEEE Journal on Selected Areas in Communications</i>, vol. 41, no. 8, pp. 2350–2366, Aug. 2023.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "J4",
+      "title": "Signal-Multiplexing Ranging for Network Localization",
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Hanying",
+          "family": "Zhao"
+        },
+        {
+          "given": "Jian",
+          "family": "Wang"
+        },
+        {
+          "given": "Yuan",
+          "family": "Shen"
+        }
+      ],
+      "old_title": "Signal-multiplexing ranging for network localization",
+      "old_authors": "Z. Zhang , H. Zhao, J. Wang, and Y. Shen",
+      "old_venue": "IEEE Transactions on Wireless Communications , vol. 21, no. 3, pp. 1694-1709, Mar. 2022.",
+      "venue": "IEEE Transactions on Wireless Communications",
+      "volume": "21",
+      "issue": "3",
+      "pages": "1694-1709",
+      "article_number": null,
+      "year": 2022,
+      "month": 3,
+      "doi": "10.1109/twc.2021.3106172",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "online_date": null,
+      "print_date": [
+        [
+          2022,
+          3
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Ftwc.2021.3106172",
+        "https://ieeexplore.ieee.org/document/9523760/",
+        "https://doi.org/10.1109/twc.2021.3106172"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "Signal-multiplexing ranging for network localization",
+          "new": "Signal-Multiplexing Ranging for Network Localization",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/twc.2021.3106172"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "recommended_venue_html": "<i>IEEE Transactions on Wireless Communications</i>, vol. 21, no. 3, pp. 1694–1709, Mar. 2022.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "J5",
+      "title": "Reconfigurable Intelligent Surfaces for 6G: Nine Fundamental Issues and One Critical Problem",
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "old_title": "Reconfigurable intelligent surfaces for 6G: Nine fundamental issues and one critical problem",
+      "old_authors": "Z. Zhang  and L. Dai",
+      "old_venue": "Tsinghua Science and Technology , vol. 28, no. 5, pp. 929-939, Oct. 2023.",
+      "venue": "Tsinghua Science and Technology",
+      "volume": "28",
+      "issue": "5",
+      "pages": "929-939",
+      "article_number": null,
+      "year": 2023,
+      "month": 10,
+      "doi": "10.26599/tst.2023.9010001",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "Tsinghua University Press",
+      "online_date": null,
+      "print_date": [
+        [
+          2023,
+          10
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.26599%2Ftst.2023.9010001",
+        "https://ieeexplore.ieee.org/document/10130029/",
+        "https://doi.org/10.26599/tst.2023.9010001"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "Reconfigurable intelligent surfaces for 6G: Nine fundamental issues and one critical problem",
+          "new": "Reconfigurable Intelligent Surfaces for 6G: Nine Fundamental Issues and One Critical Problem",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.26599/tst.2023.9010001"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "recommended_venue_html": "<i>Tsinghua Science and Technology</i>, vol. 28, no. 5, pp. 929–939, Oct. 2023.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "J6",
+      "title": "Successive Bayesian Reconstructor for Channel Estimation in Fluid Antenna Systems",
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Jieao",
+          "family": "Zhu"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        },
+        {
+          "given": "Robert W.",
+          "family": "Heath"
+        }
+      ],
+      "old_title": "Successive Bayesian reconstructor for channel estimation in fluid antenna systems",
+      "old_authors": "Z. Zhang , J. Zhu, L. Dai, and R. W. Heath",
+      "old_venue": "IEEE Transactions on Wireless Communications , vol. 24, no. 3, pp. 1992-2006, Mar. 2025.",
+      "venue": "IEEE Transactions on Wireless Communications",
+      "volume": "24",
+      "issue": "3",
+      "pages": "1992-2006",
+      "article_number": null,
+      "year": 2025,
+      "month": 3,
+      "doi": "10.1109/twc.2024.3515135",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "online_date": null,
+      "print_date": [
+        [
+          2025,
+          3
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Ftwc.2024.3515135",
+        "https://ieeexplore.ieee.org/document/10807122/",
+        "https://doi.org/10.1109/twc.2024.3515135"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record.",
+        "Local IEEE publisher PDF explicitly gives Robert W. Heath Jr.; Crossref drops Jr. suffix."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "Successive Bayesian reconstructor for channel estimation in fluid antenna systems",
+          "new": "Successive Bayesian Reconstructor for Channel Estimation in Fluid Antenna Systems",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/twc.2024.3515135"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "recommended_venue_html": "<i>IEEE Transactions on Wireless Communications</i>, vol. 24, no. 3, pp. 1992–2006, Mar. 2025.",
+      "recommended_authors_html": "<b>Z. Zhang</b>, J. Zhu, L. Dai, and R. W. Heath, Jr.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "J7",
+      "title": "Observation Matrix Design for Densifying MIMO Channel Estimation via 2D Ice Filling",
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Mingyao",
+          "family": "Cui"
+        }
+      ],
+      "old_title": "Observation matrix design for densifying MIMO channel estimation via 2D ice filling",
+      "old_authors": "Z. Zhang  and M. Cui",
+      "old_venue": "IEEE Transactions on Signal Processing , vol. 74, pp. 798-814, Jan. 2026.",
+      "venue": "IEEE Transactions on Signal Processing",
+      "volume": "74",
+      "issue": null,
+      "pages": "798-814",
+      "article_number": null,
+      "year": 2026,
+      "month": null,
+      "doi": "10.1109/tsp.2026.3657342",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "online_date": null,
+      "print_date": [
+        [
+          2026
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Ftsp.2026.3657342",
+        "https://ieeexplore.ieee.org/document/11361567/",
+        "https://doi.org/10.1109/tsp.2026.3657342"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record.",
+        "Continuously paginated annual volume; no issue exists in the Crossref record. Recommended citation uses the year only; do not manufacture an issue or confuse initial online month with issue date."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "Observation matrix design for densifying MIMO channel estimation via 2D ice filling",
+          "new": "Observation Matrix Design for Densifying MIMO Channel Estimation via 2D Ice Filling",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/tsp.2026.3657342"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "recommended_venue_html": "<i>IEEE Transactions on Signal Processing</i>, vol. 74, pp. 798–814, 2026.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "J8",
+      "title": "Wavenumber-Domain Signal Processing for Holographic MIMO: Foundations, Methods, and Future Directions",
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "old_title": "Wavenumber-domain signal processing for holographic MIMO: Foundations, methods, and future directions",
+      "old_authors": "Z. Zhang  and L. Dai",
+      "old_venue": "IEEE Communications Standards Magazine , vol. 10, no. 2, pp. 127-133, Jun. 2026.",
+      "venue": "IEEE Communications Standards Magazine",
+      "volume": "10",
+      "issue": "2",
+      "pages": "127-133",
+      "article_number": null,
+      "year": 2026,
+      "month": 6,
+      "doi": "10.1109/mcomstd.2026.3663934",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "online_date": null,
+      "print_date": [
+        [
+          2026,
+          6
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Fmcomstd.2026.3663934",
+        "https://ieeexplore.ieee.org/document/11419078/",
+        "https://doi.org/10.1109/mcomstd.2026.3663934"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "Wavenumber-domain signal processing for holographic MIMO: Foundations, methods, and future directions",
+          "new": "Wavenumber-Domain Signal Processing for Holographic MIMO: Foundations, Methods, and Future Directions",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/mcomstd.2026.3663934"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "recommended_venue_html": "<i>IEEE Communications Standards Magazine</i>, vol. 10, no. 2, pp. 127–133, Jun. 2026.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "J9",
+      "title": "Enhancing Channel Estimation in RIS-aided Systems via Observation Matrix Design",
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Mingyao",
+          "family": "Cui"
+        }
+      ],
+      "old_title": "Enhancing channel estimation in RIS-aided systems via observation matrix design",
+      "old_authors": "Z. Zhang  and M. Cui",
+      "old_venue": "IEEE Transactions on Vehicular Technology , May 2026.",
+      "venue": "IEEE Transactions on Vehicular Technology",
+      "volume": null,
+      "issue": null,
+      "pages": "1-6",
+      "article_number": null,
+      "year": 2026,
+      "month": null,
+      "doi": "10.1109/tvt.2026.3697200",
+      "status": "partially_verified",
+      "publication_status": "early_access",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "online_date": null,
+      "print_date": [
+        [
+          2026
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Ftvt.2026.3697200",
+        "https://ieeexplore.ieee.org/document/11535312/",
+        "https://doi.org/10.1109/tvt.2026.3697200"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record.",
+        "IEEE-deposited Crossref record has no volume or issue and has page 1–6 only. IEEE Xplore resource is article 11535312. These provisional pages are not evidence of an assigned issue; do not fill a guessed vol.75 or final page range."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "Enhancing channel estimation in RIS-aided systems via observation matrix design",
+          "new": "Enhancing Channel Estimation in RIS-aided Systems via Observation Matrix Design",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/tvt.2026.3697200"
+        },
+        {
+          "field": "publication_status",
+          "old": "May 2026 (without qualification)",
+          "new": "Early Access, 2026 (no final volume/issue/pages verified)"
+        }
+      ],
+      "unverified_fields": [
+        "assigned volume",
+        "assigned issue",
+        "final page range",
+        "first online month/day"
+      ],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "recommended_venue_html": "<i>IEEE Transactions on Vehicular Technology</i>, Early Access, 2026.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "J10",
+      "title": "Ice-Filling: Near-Optimal Channel Estimation for Dense Array Systems",
+      "authors": [
+        {
+          "given": "Mingyao",
+          "family": "Cui"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        },
+        {
+          "given": "Kaibin",
+          "family": "Huang"
+        }
+      ],
+      "old_title": "Ice-filling: Near-optimal channel estimation for dense array systems",
+      "old_authors": "M. Cui,  Z. Zhang *, L. Dai, K. Huang",
+      "old_venue": "IEEE Transactions on Wireless Communications , vol. 24, no. 10, pp. 8551-8564, Oct. 2025.",
+      "venue": "IEEE Transactions on Wireless Communications",
+      "volume": "24",
+      "issue": "10",
+      "pages": "8551-8564",
+      "article_number": null,
+      "year": 2025,
+      "month": 10,
+      "doi": "10.1109/twc.2025.3567797",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "online_date": null,
+      "print_date": [
+        [
+          2025,
+          10
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Ftwc.2025.3567797",
+        "https://ieeexplore.ieee.org/document/11004483/",
+        "https://doi.org/10.1109/twc.2025.3567797"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "Ice-filling: Near-optimal channel estimation for dense array systems",
+          "new": "Ice-Filling: Near-Optimal Channel Estimation for Dense Array Systems",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/twc.2025.3567797"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "recommended_venue_html": "<i>IEEE Transactions on Wireless Communications</i>, vol. 24, no. 10, pp. 8551–8564, Oct. 2025.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "J11",
+      "title": "Wideband Active RISs: Architecture, Modeling, and Beamforming Design",
+      "authors": [
+        {
+          "given": "Jida",
+          "family": "Zhang"
+        },
+        {
+          "given": "Zhiyi",
+          "family": "Li"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        }
+      ],
+      "old_title": "Wideband active RISs: Architecture, modeling, and beamforming design",
+      "old_authors": "J. Zhang, Z. Li, and  Z. Zhang *",
+      "old_venue": "IEEE Communications Letters , vol. 27, no. 7, pp. 1899-1903, Jul. 2023.",
+      "venue": "IEEE Communications Letters",
+      "volume": "27",
+      "issue": "7",
+      "pages": "1899-1903",
+      "article_number": null,
+      "year": 2023,
+      "month": 7,
+      "doi": "10.1109/lcomm.2023.3274433",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "online_date": null,
+      "print_date": [
+        [
+          2023,
+          7
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Flcomm.2023.3274433",
+        "https://ieeexplore.ieee.org/document/10122216/",
+        "https://doi.org/10.1109/lcomm.2023.3274433"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "Wideband active RISs: Architecture, modeling, and beamforming design",
+          "new": "Wideband Active RISs: Architecture, Modeling, and Beamforming Design",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/lcomm.2023.3274433"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "recommended_venue_html": "<i>IEEE Communications Letters</i>, vol. 27, no. 7, pp. 1899–1903, Jul. 2023.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "J12",
+      "title": "Compact User-Specific Reconfigurable Intelligent Surfaces for Uplink Transmission",
+      "authors": [
+        {
+          "given": "Kunzan",
+          "family": "Liu"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        },
+        {
+          "given": "Lajos",
+          "family": "Hanzo"
+        }
+      ],
+      "old_title": "Compact user-specific reconfigurable intelligent surfaces for uplink transmission",
+      "old_authors": "K. Liu,  Z. Zhang , L. Dai, and L. Hanzo",
+      "old_venue": "IEEE Transactions on Communications , vol. 70, no. 1, pp. 680-692, Jan. 2022.",
+      "venue": "IEEE Transactions on Communications",
+      "volume": "70",
+      "issue": "1",
+      "pages": "680-692",
+      "article_number": null,
+      "year": 2022,
+      "month": 1,
+      "doi": "10.1109/tcomm.2021.3124953",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "online_date": null,
+      "print_date": [
+        [
+          2022,
+          1
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Ftcomm.2021.3124953",
+        "https://ieeexplore.ieee.org/document/9598898/",
+        "https://doi.org/10.1109/tcomm.2021.3124953"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "Compact user-specific reconfigurable intelligent surfaces for uplink transmission",
+          "new": "Compact User-Specific Reconfigurable Intelligent Surfaces for Uplink Transmission",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/tcomm.2021.3124953"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "recommended_venue_html": "<i>IEEE Transactions on Communications</i>, vol. 70, no. 1, pp. 680–692, Jan. 2022.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "J13",
+      "title": "Active Reconfigurable Intelligent Surface: Fully-Connected or Sub-Connected?",
+      "authors": [
+        {
+          "given": "Kunzan",
+          "family": "Liu"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        },
+        {
+          "given": "Shenheng",
+          "family": "Xu"
+        },
+        {
+          "given": "Fan",
+          "family": "Yang"
+        }
+      ],
+      "old_title": "Active reconfigurable intelligent surface: Fully-connected or sub-connected?",
+      "old_authors": "K. Liu,  Z. Zhang , L. Dai, S. Xu, and F. Yang",
+      "old_venue": "IEEE Communications Letters , vol. 26, no. 1, pp. 167-171, Jan. 2022.",
+      "venue": "IEEE Communications Letters",
+      "volume": "26",
+      "issue": "1",
+      "pages": "167-171",
+      "article_number": null,
+      "year": 2022,
+      "month": 1,
+      "doi": "10.1109/lcomm.2021.3119696",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "online_date": null,
+      "print_date": [
+        [
+          2022,
+          1
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Flcomm.2021.3119696",
+        "https://ieeexplore.ieee.org/document/9568854/",
+        "https://doi.org/10.1109/lcomm.2021.3119696"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "Active reconfigurable intelligent surface: Fully-connected or sub-connected?",
+          "new": "Active Reconfigurable Intelligent Surface: Fully-Connected or Sub-Connected?",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/lcomm.2021.3119696"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "recommended_venue_html": "<i>IEEE Communications Letters</i>, vol. 26, no. 1, pp. 167–171, Jan. 2022.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "J14",
+      "title": "A Signal-Multiplexing Ranging Scheme for Integrated Localization and Sensing",
+      "authors": [
+        {
+          "given": "Hanying",
+          "family": "Zhao"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Jian",
+          "family": "Wang"
+        },
+        {
+          "given": "Zexu",
+          "family": "Zhang"
+        },
+        {
+          "given": "Yuan",
+          "family": "Shen"
+        }
+      ],
+      "old_title": "A signal-multiplexing ranging scheme for integrated localization and sensing",
+      "old_authors": "H. Zhao,  Z. Zhang , J. Wang, Z. Zhang, and Y. Shen",
+      "old_venue": "IEEE Wireless Communications Letters , vol. 11, no. 8, pp. 1609-1613, Aug. 2022.",
+      "venue": "IEEE Wireless Communications Letters",
+      "volume": "11",
+      "issue": "8",
+      "pages": "1609-1613",
+      "article_number": null,
+      "year": 2022,
+      "month": 8,
+      "doi": "10.1109/lwc.2022.3168433",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "online_date": null,
+      "print_date": [
+        [
+          2022,
+          8
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Flwc.2022.3168433",
+        "https://ieeexplore.ieee.org/document/9759478/",
+        "https://doi.org/10.1109/lwc.2022.3168433"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "A signal-multiplexing ranging scheme for integrated localization and sensing",
+          "new": "A Signal-Multiplexing Ranging Scheme for Integrated Localization and Sensing",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/lwc.2022.3168433"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "recommended_venue_html": "<i>IEEE Wireless Communications Letters</i>, vol. 11, no. 8, pp. 1609–1613, Aug. 2022.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "J15",
+      "title": "Enhancing Timeliness in Asynchronous Vehicle Localization: A Signal-Multiplexing Network Measuring Approach",
+      "authors": [
+        {
+          "given": "Hanying",
+          "family": "Zhao"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Lingwei",
+          "family": "Xu"
+        },
+        {
+          "given": "Yu",
+          "family": "Wang"
+        },
+        {
+          "given": "Yuan",
+          "family": "Shen"
+        }
+      ],
+      "old_title": "Enhancing timeliness in asynchronous vehicle localization: A signal-multiplexing network measuring approach",
+      "old_authors": "H. Zhao,  Z. Zhang , L. Xu, Y. Wang, and Y. Shen",
+      "old_venue": "IEEE Transactions on Intelligent Transportation Systems , vol. 25, no. 10, pp. 13729-13743, Oct. 2024.",
+      "venue": "IEEE Transactions on Intelligent Transportation Systems",
+      "volume": "25",
+      "issue": "10",
+      "pages": "13729-13743",
+      "article_number": null,
+      "year": 2024,
+      "month": 10,
+      "doi": "10.1109/tits.2024.3404784",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "online_date": null,
+      "print_date": [
+        [
+          2024,
+          10
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Ftits.2024.3404784",
+        "https://ieeexplore.ieee.org/document/10565298/",
+        "https://doi.org/10.1109/tits.2024.3404784"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "Enhancing timeliness in asynchronous vehicle localization: A signal-multiplexing network measuring approach",
+          "new": "Enhancing Timeliness in Asynchronous Vehicle Localization: A Signal-Multiplexing Network Measuring Approach",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/tits.2024.3404784"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "recommended_venue_html": "<i>IEEE Transactions on Intelligent Transportation Systems</i>, vol. 25, no. 10, pp. 13729–13743, Oct. 2024.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "J16",
+      "title": "Joint Beamforming Design for RIS-Assisted Cell-Free Network with Multi-Hop Transmissions",
+      "authors": [
+        {
+          "given": "Decai",
+          "family": "Shen"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "old_title": "Joint beamforming design for RIS-assisted cell-free network with multi-hop transmissions",
+      "old_authors": "D. Shen,  Z. Zhang , and L. Dai",
+      "old_venue": "Tsinghua Science and Technology , vol. 28, no. 6, pp. 1115-1127, Dec. 2023.",
+      "venue": "Tsinghua Science and Technology",
+      "volume": "28",
+      "issue": "6",
+      "pages": "1115-1127",
+      "article_number": null,
+      "year": 2023,
+      "month": 12,
+      "doi": "10.26599/tst.2023.9010019",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "Tsinghua University Press",
+      "online_date": null,
+      "print_date": [
+        [
+          2023,
+          12
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.26599%2Ftst.2023.9010019",
+        "https://ieeexplore.ieee.org/document/10197193/",
+        "https://doi.org/10.26599/tst.2023.9010019"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "Joint beamforming design for RIS-assisted cell-free network with multi-hop transmissions",
+          "new": "Joint Beamforming Design for RIS-Assisted Cell-Free Network with Multi-Hop Transmissions",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.26599/tst.2023.9010019"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "recommended_venue_html": "<i>Tsinghua Science and Technology</i>, vol. 28, no. 6, pp. 1115–1127, Dec. 2023.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "J17",
+      "title": "Mutual Information for Electromagnetic Information Theory Based on Random Fields",
+      "authors": [
+        {
+          "given": "Zhongzhichao",
+          "family": "Wan"
+        },
+        {
+          "given": "Jieao",
+          "family": "Zhu"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        },
+        {
+          "given": "Chan-Byoung",
+          "family": "Chae"
+        }
+      ],
+      "old_title": "Mutual information for electromagnetic information theory based on random fields",
+      "old_authors": "Z. Wan, J. Zhu,  Z. Zhang , L. Dai, and C. B. Chae",
+      "old_venue": "IEEE Transactions on Communications , vol. 71, no. 4, pp. 1982-1996, Apr. 2023.",
+      "venue": "IEEE Transactions on Communications",
+      "volume": "71",
+      "issue": "4",
+      "pages": "1982-1996",
+      "article_number": null,
+      "year": 2023,
+      "month": 4,
+      "doi": "10.1109/tcomm.2023.3247725",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "online_date": null,
+      "print_date": [
+        [
+          2023,
+          4
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Ftcomm.2023.3247725",
+        "https://ieeexplore.ieee.org/document/10050124/",
+        "https://doi.org/10.1109/tcomm.2023.3247725"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "Mutual information for electromagnetic information theory based on random fields",
+          "new": "Mutual Information for Electromagnetic Information Theory Based on Random Fields",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/tcomm.2023.3247725"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "recommended_venue_html": "<i>IEEE Transactions on Communications</i>, vol. 71, no. 4, pp. 1982–1996, Apr. 2023.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "J18",
+      "title": "Hierarchical Beam Training for Extremely Large-Scale MIMO: From Far-Field to Near-Field",
+      "authors": [
+        {
+          "given": "Yu",
+          "family": "Lu"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "old_title": "Hierarchical beam training for extremely large-scale MIMO: From far-field to near-field",
+      "old_authors": "Y. Lu,  Z. Zhang , and L. Dai",
+      "old_venue": "IEEE Transactions on Communications , vol. 72, no. 4, pp. 2247-2259, Apr. 2024.",
+      "venue": "IEEE Transactions on Communications",
+      "volume": "72",
+      "issue": "4",
+      "pages": "2247-2259",
+      "article_number": null,
+      "year": 2024,
+      "month": 4,
+      "doi": "10.1109/tcomm.2023.3344600",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "online_date": null,
+      "print_date": [
+        [
+          2024,
+          4
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Ftcomm.2023.3344600",
+        "https://ieeexplore.ieee.org/document/10365224/",
+        "https://doi.org/10.1109/tcomm.2023.3344600"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "Hierarchical beam training for extremely large-scale MIMO: From far-field to near-field",
+          "new": "Hierarchical Beam Training for Extremely Large-Scale MIMO: From Far-Field to Near-Field",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/tcomm.2023.3344600"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "recommended_venue_html": "<i>IEEE Transactions on Communications</i>, vol. 72, no. 4, pp. 2247–2259, Apr. 2024.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "J19",
+      "title": "Near-Optimal Near-Field Beam Training: From Searching to Inference",
+      "authors": [
+        {
+          "given": "Zhuo",
+          "family": "Xu"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "old_title": "Near-optimal near-field beam training: From searching to inference",
+      "old_authors": "Z. Xu,  Z. Zhang , and L. Dai",
+      "old_venue": "IEEE Transactions on Wireless Communications , vol. 24, no. 11, pp. 9173-9185, Nov. 2025.",
+      "venue": "IEEE Transactions on Wireless Communications",
+      "volume": "24",
+      "issue": "11",
+      "pages": "9173-9185",
+      "article_number": null,
+      "year": 2025,
+      "month": 11,
+      "doi": "10.1109/twc.2025.3571488",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "online_date": null,
+      "print_date": [
+        [
+          2025,
+          11
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Ftwc.2025.3571488",
+        "https://ieeexplore.ieee.org/document/11017436/",
+        "https://doi.org/10.1109/twc.2025.3571488"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "Near-optimal near-field beam training: From searching to inference",
+          "new": "Near-Optimal Near-Field Beam Training: From Searching to Inference",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/twc.2025.3571488"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "recommended_venue_html": "<i>IEEE Transactions on Wireless Communications</i>, vol. 24, no. 11, pp. 9173–9185, Nov. 2025.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "J20",
+      "title": "High-Efficiency Urban 3D Radio Map Estimation Based on Sparse Measurements",
+      "authors": [
+        {
+          "given": "Xinwei",
+          "family": "Chen"
+        },
+        {
+          "given": "Xiaofeng",
+          "family": "Zhong"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        },
+        {
+          "given": "Shidong",
+          "family": "Zhou"
+        }
+      ],
+      "old_title": "High-efficiency urban 3D radio map estimation based on sparse measurements",
+      "old_authors": "X. Chen, X. Zhong,  Z. Zhang , L. Dai, and S. Zhou",
+      "old_venue": "IEEE Transactions on Vehicular Technology , vol. 74, no. 10, pp. 16488-16493, Oct. 2025.",
+      "venue": "IEEE Transactions on Vehicular Technology",
+      "volume": "74",
+      "issue": "10",
+      "pages": "16488-16493",
+      "article_number": null,
+      "year": 2025,
+      "month": 10,
+      "doi": "10.1109/tvt.2025.3573595",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "online_date": null,
+      "print_date": [
+        [
+          2025,
+          10
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Ftvt.2025.3573595",
+        "https://ieeexplore.ieee.org/document/11015096/",
+        "https://doi.org/10.1109/tvt.2025.3573595"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "High-efficiency urban 3D radio map estimation based on sparse measurements",
+          "new": "High-Efficiency Urban 3D Radio Map Estimation Based on Sparse Measurements",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/tvt.2025.3573595"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "recommended_venue_html": "<i>IEEE Transactions on Vehicular Technology</i>, vol. 74, no. 10, pp. 16488–16493, Oct. 2025.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "J21",
+      "title": "Rydberg Atomic Receivers for Net-Zero 6G Wireless Communication and Sensing: Progress, Experiments, and Sustainable Prospects",
+      "authors": [
+        {
+          "given": "Yi",
+          "family": "Tao"
+        },
+        {
+          "given": "Zhen",
+          "family": "Gao"
+        },
+        {
+          "given": "Zhiao",
+          "family": "Zhu"
+        },
+        {
+          "given": "De",
+          "family": "Mi"
+        },
+        {
+          "given": "Zhonghuai",
+          "family": "Wu"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Fusang",
+          "family": "Zhang"
+        },
+        {
+          "given": "Dezhi",
+          "family": "Zheng"
+        },
+        {
+          "given": "Sheng",
+          "family": "Chen"
+        }
+      ],
+      "old_title": "Rydberg atomic receivers for net-zero 6G wireless communication and sensing: Progress, experiments, and sustainable prospects",
+      "old_authors": "Y. Tao, Z. Gao, Z. Zhu, D. Mi, Z. Wu,  Z. Zhang  et al.",
+      "old_venue": "IEEE Communications Magazine , May 2026.",
+      "venue": "IEEE Communications Magazine",
+      "volume": "64",
+      "issue": "8",
+      "pages": "52-59",
+      "article_number": null,
+      "year": 2026,
+      "month": 8,
+      "doi": "10.1109/mcom.001.2500610",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "online_date": null,
+      "print_date": [
+        [
+          2026,
+          8
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Fmcom.001.2500610",
+        "https://ieeexplore.ieee.org/document/11523721/",
+        "https://doi.org/10.1109/mcom.001.2500610",
+        "https://dblp.dagstuhl.de/rec/journals/cm/TaoGZMWZZZC26.html"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record.",
+        "Crossref IEEE publisher deposit confirms the complete assigned issue citation, corroborated by DBLP metadata updated 11 Aug. 2026."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "Rydberg atomic receivers for net-zero 6G wireless communication and sensing: Progress, experiments, and sustainable prospects",
+          "new": "Rydberg Atomic Receivers for Net-Zero 6G Wireless Communication and Sensing: Progress, Experiments, and Sustainable Prospects",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/mcom.001.2500610"
+        },
+        {
+          "field": "citation",
+          "old": "IEEE Communications Magazine, May 2026",
+          "new": "IEEE Communications Magazine, vol. 64, no. 8, pp. 52–59, Aug. 2026"
+        },
+        {
+          "field": "authors",
+          "old": "Y. Tao, Z. Gao, Z. Zhu, D. Mi, Z. Wu, Z. Zhang et al.",
+          "new": "All 9 verified authors, in publisher order"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "recommended_venue_html": "<i>IEEE Communications Magazine</i>, vol. 64, no. 8, pp. 52–59, Aug. 2026.",
+      "recommended_authors_html": "Y. Tao, Z. Gao, Z. Zhu, D. Mi, Z. Wu, <b>Z. Zhang</b>, F. Zhang, D. Zheng, and S. Chen",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "C1",
+      "title": "Active RISs: Signal Modeling, Asymptotic Analysis, and Beamforming Design",
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        },
+        {
+          "given": "Xibi",
+          "family": "Chen"
+        },
+        {
+          "given": "Changhao",
+          "family": "Liu"
+        },
+        {
+          "given": "Fan",
+          "family": "Yang"
+        },
+        {
+          "given": "Robert",
+          "family": "Schober"
+        },
+        {
+          "given": "H. Vincent",
+          "family": "Poor"
+        }
+      ],
+      "old_title": "Active RISs: Signal modeling, asymptotic analysis, and beamforming design",
+      "old_authors": "Z. Zhang , L. Dai, X. Chen, C. Liu, F. Yang, R. Schober, and H. V. Poor",
+      "old_venue": "in Proc. 2022 IEEE Global Communications Conference (IEEE GLOBECOM’22) , Rio de Janeiro, Brazil, Dec. 2022.",
+      "venue": "GLOBECOM 2022 - 2022 IEEE Global Communications Conference",
+      "volume": null,
+      "issue": null,
+      "pages": "1618-1624",
+      "article_number": null,
+      "year": 2022,
+      "month": 12,
+      "doi": "10.1109/globecom48099.2022.10001687",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "IEEE",
+      "online_date": null,
+      "print_date": [
+        [
+          2022,
+          12,
+          4
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Fglobecom48099.2022.10001687",
+        "https://ieeexplore.ieee.org/document/10001687/",
+        "https://doi.org/10.1109/globecom48099.2022.10001687"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "Active RISs: Signal modeling, asymptotic analysis, and beamforming design",
+          "new": "Active RISs: Signal Modeling, Asymptotic Analysis, and Beamforming Design",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/globecom48099.2022.10001687"
+        },
+        {
+          "field": "pages",
+          "old": null,
+          "new": "1618-1624"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "conference_event": {
+        "name": "GLOBECOM 2022 - 2022 IEEE Global Communications Conference",
+        "location": "Rio de Janeiro, Brazil",
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              12,
+              4
+            ]
+          ]
+        },
+        "end": {
+          "date-parts": [
+            [
+              2022,
+              12,
+              8
+            ]
+          ]
+        }
+      },
+      "recommended_venue_html": "in <i>Proc. 2022 IEEE Global Communications Conference (GLOBECOM 2022)</i>, Rio de Janeiro, Brazil, pp. 1618–1624, Dec. 2022.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "C2",
+      "title": "Pattern-Division Multiplexing for Continuous-Aperture MIMO",
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "old_title": "Pattern-division multiplexing for continuous-aperture MIMO",
+      "old_authors": "Z. Zhang  and L. Dai",
+      "old_venue": "in Proc. 2022 IEEE International Conference on Communications (IEEE ICC’22) , Gangnam-gu, Seoul, South Korea, May 2022.",
+      "venue": "ICC 2022 - IEEE International Conference on Communications",
+      "volume": null,
+      "issue": null,
+      "pages": "3287-3292",
+      "article_number": null,
+      "year": 2022,
+      "month": 5,
+      "doi": "10.1109/icc45855.2022.9839220",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "IEEE",
+      "online_date": null,
+      "print_date": [
+        [
+          2022,
+          5,
+          16
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Ficc45855.2022.9839220",
+        "https://ieeexplore.ieee.org/document/9839220/",
+        "https://doi.org/10.1109/icc45855.2022.9839220"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "Pattern-division multiplexing for continuous-aperture MIMO",
+          "new": "Pattern-Division Multiplexing for Continuous-Aperture MIMO",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/icc45855.2022.9839220"
+        },
+        {
+          "field": "pages",
+          "old": null,
+          "new": "3287-3292"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "conference_event": {
+        "name": "ICC 2022 - IEEE International Conference on Communications",
+        "location": "Seoul, Korea, Republic of",
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              16
+            ]
+          ]
+        },
+        "end": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              20
+            ]
+          ]
+        }
+      },
+      "recommended_venue_html": "in <i>Proc. 2022 IEEE International Conference on Communications (ICC 2022)</i>, Seoul, South Korea, pp. 3287–3292, May 2022.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "C3",
+      "title": "Capacity Improvement in Wideband Reconfigurable Intelligent Surface-Aided Cell-Free Network",
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "old_title": "Capacity improvement in wideband reconfigurable intelligent surface-aided cell-free network",
+      "old_authors": "Z. Zhang  and L. Dai",
+      "old_venue": "in Proc. 2020 IEEE 21st International Workshop on Signal Processing Advances in Wireless Communications (IEEE SPAWC’20) , Atlanta, USA, May 2020.",
+      "venue": "2020 IEEE 21st International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)",
+      "volume": null,
+      "issue": null,
+      "pages": "1-5",
+      "article_number": null,
+      "year": 2020,
+      "month": 5,
+      "doi": "10.1109/spawc48557.2020.9154244",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "IEEE",
+      "online_date": null,
+      "print_date": [
+        [
+          2020,
+          5
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Fspawc48557.2020.9154244",
+        "https://ieeexplore.ieee.org/document/9154244/",
+        "https://doi.org/10.1109/spawc48557.2020.9154244"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "Capacity improvement in wideband reconfigurable intelligent surface-aided cell-free network",
+          "new": "Capacity Improvement in Wideband Reconfigurable Intelligent Surface-Aided Cell-Free Network",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/spawc48557.2020.9154244"
+        },
+        {
+          "field": "pages",
+          "old": null,
+          "new": "1-5"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "conference_event": {
+        "name": "2020 IEEE 21st International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)",
+        "location": "Atlanta, GA, USA",
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              5,
+              26
+            ]
+          ]
+        },
+        "end": {
+          "date-parts": [
+            [
+              2020,
+              5,
+              29
+            ]
+          ]
+        }
+      },
+      "recommended_venue_html": "in <i>Proc. 2020 IEEE 21st International Workshop on Signal Processing Advances in Wireless Communications (SPAWC 2020)</i>, Atlanta, GA, USA, pp. 1–5, May 2020.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "C4",
+      "title": "High-Efficient Ranging Algorithms for Wireless Sensor Network",
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Hanying",
+          "family": "Zhao"
+        },
+        {
+          "given": "Yuan",
+          "family": "Shen"
+        }
+      ],
+      "old_title": "High-Efficient ranging algorithms for wireless sensor network",
+      "old_authors": "Z. Zhang , H. Zhao, and Y. Shen",
+      "old_venue": "in Proc. 2019 11th International Conference on Wireless Communications and Signal Processing (WCSP’19) , Xi'an, P.R. China, Oct. 2019.",
+      "venue": "2019 11th International Conference on Wireless Communications and Signal Processing (WCSP)",
+      "volume": null,
+      "issue": null,
+      "pages": "1-6",
+      "article_number": null,
+      "year": 2019,
+      "month": 10,
+      "doi": "10.1109/wcsp.2019.8928120",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "IEEE",
+      "online_date": null,
+      "print_date": [
+        [
+          2019,
+          10
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Fwcsp.2019.8928120",
+        "https://ieeexplore.ieee.org/document/8928120/",
+        "https://doi.org/10.1109/wcsp.2019.8928120"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record.",
+        "Publisher title really reads “High-Efficient Ranging Algorithms for Wireless Sensor Network”; grammatical awkwardness must remain because it is the published title, not a website prose error."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "High-Efficient ranging algorithms for wireless sensor network",
+          "new": "High-Efficient Ranging Algorithms for Wireless Sensor Network",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/wcsp.2019.8928120"
+        },
+        {
+          "field": "pages",
+          "old": null,
+          "new": "1-6"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "conference_event": {
+        "name": "2019 11th International Conference on Wireless Communications and Signal Processing (WCSP)",
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              10,
+              23
+            ]
+          ]
+        },
+        "location": "Xi'an, China",
+        "end": {
+          "date-parts": [
+            [
+              2019,
+              10,
+              25
+            ]
+          ]
+        }
+      },
+      "recommended_venue_html": "in <i>Proc. 2019 11th International Conference on Wireless Communications and Signal Processing (WCSP 2019)</i>, Xi’an, China, pp. 1–6, Oct. 2019.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "C5",
+      "title": "Successive Bayesian Reconstructor for FAS Channel Estimation",
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Jieao",
+          "family": "Zhu"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        },
+        {
+          "given": "Robert W.",
+          "family": "Heath"
+        }
+      ],
+      "old_title": "Successive Bayesian reconstructor for FAS channel estimation",
+      "old_authors": "Z. Zhang , J. Zhu, L. Dai, and R. Heath",
+      "old_venue": "in Proc. 2024 IEEE Wireless Communications and Networking Conference (IEEE WCNC’24) , Dubai, United Arab Emirates, Apr. 2024.",
+      "venue": "2024 IEEE Wireless Communications and Networking Conference (WCNC)",
+      "volume": null,
+      "issue": null,
+      "pages": "1-5",
+      "article_number": null,
+      "year": 2024,
+      "month": 4,
+      "doi": "10.1109/wcnc57260.2024.10571302",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "IEEE",
+      "online_date": null,
+      "print_date": [
+        [
+          2024,
+          4,
+          21
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Fwcnc57260.2024.10571302",
+        "https://ieeexplore.ieee.org/document/10571302/",
+        "https://doi.org/10.1109/wcnc57260.2024.10571302"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record.",
+        "Local publisher PDF explicitly gives Robert W. Heath Jr.; Crossref confirms Robert W. Heath and author order."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "Successive Bayesian reconstructor for FAS channel estimation",
+          "new": "Successive Bayesian Reconstructor for FAS Channel Estimation",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/wcnc57260.2024.10571302"
+        },
+        {
+          "field": "pages",
+          "old": null,
+          "new": "1-5"
+        },
+        {
+          "field": "author abbreviation",
+          "old": "R. Heath",
+          "new": "R. W. Heath, Jr."
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "conference_event": {
+        "name": "2024 IEEE Wireless Communications and Networking Conference (WCNC)",
+        "location": "Dubai, United Arab Emirates",
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              4,
+              21
+            ]
+          ]
+        },
+        "end": {
+          "date-parts": [
+            [
+              2024,
+              4,
+              24
+            ]
+          ]
+        }
+      },
+      "recommended_venue_html": "in <i>Proc. 2024 IEEE Wireless Communications and Networking Conference (WCNC 2024)</i>, Dubai, United Arab Emirates, pp. 1–5, Apr. 2024.",
+      "recommended_authors_html": "<b>Z. Zhang</b>, J. Zhu, L. Dai, and R. W. Heath, Jr.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "C6",
+      "title": "Two-Dimensional Ice Filling Based Channel Estimation in Densifying MIMO Systems",
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Mingyao",
+          "family": "Cui"
+        }
+      ],
+      "old_title": "Two-dimensional ice filling based channel estimation in densifying MIMO systems",
+      "old_authors": "Z. Zhang  and M. Cui",
+      "old_venue": "in Proc. 2025 IEEE International Conference on Communications (IEEE ICC’25) , Montreal, Canada, Jun. 2025.",
+      "venue": "ICC 2025 - IEEE International Conference on Communications",
+      "volume": null,
+      "issue": null,
+      "pages": "4750-4755",
+      "article_number": null,
+      "year": 2025,
+      "month": 6,
+      "doi": "10.1109/icc52391.2025.11161466",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "IEEE",
+      "online_date": null,
+      "print_date": [
+        [
+          2025,
+          6,
+          8
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Ficc52391.2025.11161466",
+        "https://ieeexplore.ieee.org/document/11161466/",
+        "https://doi.org/10.1109/icc52391.2025.11161466"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "Two-dimensional ice filling based channel estimation in densifying MIMO systems",
+          "new": "Two-Dimensional Ice Filling Based Channel Estimation in Densifying MIMO Systems",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/icc52391.2025.11161466"
+        },
+        {
+          "field": "pages",
+          "old": null,
+          "new": "4750-4755"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "conference_event": {
+        "name": "ICC 2025 - IEEE International Conference on Communications",
+        "location": "Montreal, QC, Canada",
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              8
+            ]
+          ]
+        },
+        "end": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              12
+            ]
+          ]
+        }
+      },
+      "recommended_venue_html": "in <i>Proc. 2025 IEEE International Conference on Communications (ICC 2025)</i>, Montreal, Canada, pp. 4750–4755, Jun. 2025.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "C7",
+      "title": "User-Side RIS: Realizing Large-Scale Array at User Side",
+      "authors": [
+        {
+          "given": "Kunzan",
+          "family": "Liu"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "old_title": "User-side RIS: Realizing large-scale array at user side",
+      "old_authors": "K. Liu,  Z. Zhang , and L. Dai",
+      "old_venue": "in Proc. 2021 IEEE Global Communication Conference (IEEE GLOBECOM’21) , Madrid, Spain, Dec. 2021.",
+      "venue": "2021 IEEE Global Communications Conference (GLOBECOM)",
+      "volume": null,
+      "issue": null,
+      "pages": "01-06",
+      "article_number": null,
+      "year": 2021,
+      "month": 12,
+      "doi": "10.1109/globecom46510.2021.9685418",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "IEEE",
+      "online_date": null,
+      "print_date": [
+        [
+          2021,
+          12
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Fglobecom46510.2021.9685418",
+        "https://ieeexplore.ieee.org/document/9685418/",
+        "https://doi.org/10.1109/globecom46510.2021.9685418"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "User-side RIS: Realizing large-scale array at user side",
+          "new": "User-Side RIS: Realizing Large-Scale Array at User Side",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/globecom46510.2021.9685418"
+        },
+        {
+          "field": "pages",
+          "old": null,
+          "new": "01-06"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "conference_event": {
+        "name": "GLOBECOM 2021 - 2021 IEEE Global Communications Conference",
+        "location": "Madrid, Spain",
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              12,
+              7
+            ]
+          ]
+        },
+        "end": {
+          "date-parts": [
+            [
+              2021,
+              12,
+              11
+            ]
+          ]
+        }
+      },
+      "recommended_venue_html": "in <i>Proc. 2021 IEEE Global Communications Conference (GLOBECOM 2021)</i>, Madrid, Spain, pp. 1–6, Dec. 2021.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "C8",
+      "title": "On The Energy-Efficiency Fairness of Reconfigurable Intelligent Surface-Aided Cell-Free Network",
+      "authors": [
+        {
+          "given": "Kunzan",
+          "family": "Liu"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        }
+      ],
+      "old_title": "On the energy-efficiency fairness of reconfigurable intelligent surface-aided cell-free network",
+      "old_authors": "K. Liu and  Z. Zhang *",
+      "old_venue": "in Proc. 2021 IEEE 93rd Vehicular Technology Conference (IEEE VTC’21 Spring) , Helsinki, Finland, Apr. 2021.",
+      "venue": "2021 IEEE 93rd Vehicular Technology Conference (VTC2021-Spring)",
+      "volume": null,
+      "issue": null,
+      "pages": "1-6",
+      "article_number": null,
+      "year": 2021,
+      "month": 4,
+      "doi": "10.1109/vtc2021-spring51267.2021.9448858",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "IEEE",
+      "online_date": null,
+      "print_date": [
+        [
+          2021,
+          4
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Fvtc2021-spring51267.2021.9448858",
+        "https://ieeexplore.ieee.org/document/9448858/",
+        "https://doi.org/10.1109/vtc2021-spring51267.2021.9448858"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "On the energy-efficiency fairness of reconfigurable intelligent surface-aided cell-free network",
+          "new": "On The Energy-Efficiency Fairness of Reconfigurable Intelligent Surface-Aided Cell-Free Network",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/vtc2021-spring51267.2021.9448858"
+        },
+        {
+          "field": "pages",
+          "old": null,
+          "new": "1-6"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "conference_event": {
+        "name": "2021 IEEE 93rd Vehicular Technology Conference (VTC2021-Spring)",
+        "location": "Helsinki, Finland",
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              4,
+              25
+            ]
+          ]
+        },
+        "end": {
+          "date-parts": [
+            [
+              2021,
+              4,
+              28
+            ]
+          ]
+        }
+      },
+      "recommended_venue_html": "in <i>Proc. 2021 IEEE 93rd Vehicular Technology Conference (VTC 2021-Spring)</i>, Helsinki, Finland, pp. 1–6, Apr. 2021.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "C9",
+      "title": "Channel Estimation for Dense Array Systems via Ice-Filling",
+      "authors": [
+        {
+          "given": "Mingyao",
+          "family": "Cui"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        },
+        {
+          "given": "Kaibin",
+          "family": "Huang"
+        }
+      ],
+      "old_title": "Channel estimation for dense array systems via ice-filling",
+      "old_authors": "M. Cui,  Z. Zhang *, L. Dai, and K. Huang",
+      "old_venue": "in Proc. 2025 IEEE International Conference on Communications Workshop (IEEE ICC WkSp’25) , Montreal, Canada, Jun. 2025.",
+      "venue": "2025 IEEE International Conference on Communications Workshops (ICC Workshops)",
+      "volume": null,
+      "issue": null,
+      "pages": "794-799",
+      "article_number": null,
+      "year": 2025,
+      "month": 6,
+      "doi": "10.1109/iccworkshops67674.2025.11162249",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "IEEE",
+      "online_date": null,
+      "print_date": [
+        [
+          2025,
+          6,
+          8
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Ficcworkshops67674.2025.11162249",
+        "https://ieeexplore.ieee.org/document/11162249/",
+        "https://doi.org/10.1109/iccworkshops67674.2025.11162249"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "Channel estimation for dense array systems via ice-filling",
+          "new": "Channel Estimation for Dense Array Systems via Ice-Filling",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/iccworkshops67674.2025.11162249"
+        },
+        {
+          "field": "pages",
+          "old": null,
+          "new": "794-799"
+        },
+        {
+          "field": "conference name",
+          "old": "International Conference on Communications Workshop",
+          "new": "International Conference on Communications Workshops (official plural)"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "conference_event": {
+        "name": "2025 IEEE International Conference on Communications Workshops (ICC Workshops)",
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              8
+            ]
+          ]
+        },
+        "location": "Montreal, QC, Canada",
+        "end": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              12
+            ]
+          ]
+        }
+      },
+      "recommended_venue_html": "in <i>Proc. 2025 IEEE International Conference on Communications Workshops (ICC Workshops 2025)</i>, Montreal, Canada, pp. 794–799, Jun. 2025.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "C10",
+      "title": "On Finite-Time Mutual Information",
+      "authors": [
+        {
+          "given": "Jieao",
+          "family": "Zhu"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Zhongzhichao",
+          "family": "Wan"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "old_title": "On finite-time mutual information",
+      "old_authors": "J. Zhu,  Z. Zhang , Z. Wan, and L. Dai",
+      "old_venue": "in Proc. 2022 IEEE International Symposium on Information Theory (IEEE ISIT’22) , Espoo, Finland, Jun. 2022.",
+      "venue": "2022 IEEE International Symposium on Information Theory (ISIT)",
+      "volume": null,
+      "issue": null,
+      "pages": "2910-2915",
+      "article_number": null,
+      "year": 2022,
+      "month": 6,
+      "doi": "10.1109/isit50566.2022.9834758",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "IEEE",
+      "online_date": null,
+      "print_date": [
+        [
+          2022,
+          6,
+          26
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Fisit50566.2022.9834758",
+        "https://ieeexplore.ieee.org/document/9834758/",
+        "https://doi.org/10.1109/isit50566.2022.9834758"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "On finite-time mutual information",
+          "new": "On Finite-Time Mutual Information",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/isit50566.2022.9834758"
+        },
+        {
+          "field": "pages",
+          "old": null,
+          "new": "2910-2915"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "conference_event": {
+        "name": "2022 IEEE International Symposium on Information Theory (ISIT)",
+        "location": "Espoo, Finland",
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              6,
+              26
+            ]
+          ]
+        },
+        "end": {
+          "date-parts": [
+            [
+              2022,
+              7,
+              1
+            ]
+          ]
+        }
+      },
+      "recommended_venue_html": "in <i>Proc. 2022 IEEE International Symposium on Information Theory (ISIT 2022)</i>, Espoo, Finland, pp. 2910–2915, Jun. 2022.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "C11",
+      "title": "Channel Estimation for Non-Stationary Extremely Large-Scale MIMO",
+      "authors": [
+        {
+          "given": "Yuhao",
+          "family": "Chen"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Mingyao",
+          "family": "Cui"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "old_title": "Channel estimation for non-stationary extremely large-scale MIMO",
+      "old_authors": "Y. Chen,  Z. Zhang , M. Cui, and L. Dai",
+      "old_venue": "in Proc. 2023 IEEE 97th Vehicular Technology Conference (IEEE VTC’23 Spring) , Florence, Italy, Jun. 2023.",
+      "venue": "2023 IEEE 97th Vehicular Technology Conference (VTC2023-Spring)",
+      "volume": null,
+      "issue": null,
+      "pages": "1-5",
+      "article_number": null,
+      "year": 2023,
+      "month": 6,
+      "doi": "10.1109/vtc2023-spring57618.2023.10199467",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "IEEE",
+      "online_date": null,
+      "print_date": [
+        [
+          2023,
+          6
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Fvtc2023-spring57618.2023.10199467",
+        "https://ieeexplore.ieee.org/document/10199467/",
+        "https://doi.org/10.1109/vtc2023-spring57618.2023.10199467"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "Channel estimation for non-stationary extremely large-scale MIMO",
+          "new": "Channel Estimation for Non-Stationary Extremely Large-Scale MIMO",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/vtc2023-spring57618.2023.10199467"
+        },
+        {
+          "field": "pages",
+          "old": null,
+          "new": "1-5"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "conference_event": {
+        "name": "2023 IEEE 97th Vehicular Technology Conference (VTC2023-Spring)",
+        "location": "Florence, Italy",
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              6,
+              20
+            ]
+          ]
+        },
+        "end": {
+          "date-parts": [
+            [
+              2023,
+              6,
+              23
+            ]
+          ]
+        }
+      },
+      "recommended_venue_html": "in <i>Proc. 2023 IEEE 97th Vehicular Technology Conference (VTC 2023-Spring)</i>, Florence, Italy, pp. 1–5, Jun. 2023.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "C12",
+      "title": "Near-Field 2D Hierarchical Beam Training for Extremely Large-Scale MIMO",
+      "authors": [
+        {
+          "given": "Yu",
+          "family": "Lu"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "old_title": "Near-field 2D hierarchical beam training for extremely large-scale MIMO",
+      "old_authors": "Y. Lu,  Z. Zhang , and L. Dai",
+      "old_venue": "in Proc. 2023 IEEE Global Communications Conference (IEEE GLOBECOM’23) , Kuala Lumpur, Malaysia, Dec. 2023.",
+      "venue": "GLOBECOM 2023 - 2023 IEEE Global Communications Conference",
+      "volume": null,
+      "issue": null,
+      "pages": "7176-7181",
+      "article_number": null,
+      "year": 2023,
+      "month": 12,
+      "doi": "10.1109/globecom54140.2023.10437041",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "IEEE",
+      "online_date": null,
+      "print_date": [
+        [
+          2023,
+          12,
+          4
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Fglobecom54140.2023.10437041",
+        "https://ieeexplore.ieee.org/document/10437041/",
+        "https://doi.org/10.1109/globecom54140.2023.10437041"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "Near-field 2D hierarchical beam training for extremely large-scale MIMO",
+          "new": "Near-Field 2D Hierarchical Beam Training for Extremely Large-Scale MIMO",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/globecom54140.2023.10437041"
+        },
+        {
+          "field": "pages",
+          "old": null,
+          "new": "7176-7181"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "conference_event": {
+        "name": "GLOBECOM 2023 - 2023 IEEE Global Communications Conference",
+        "location": "Kuala Lumpur, Malaysia",
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              12,
+              4
+            ]
+          ]
+        },
+        "end": {
+          "date-parts": [
+            [
+              2023,
+              12,
+              8
+            ]
+          ]
+        }
+      },
+      "recommended_venue_html": "in <i>Proc. 2023 IEEE Global Communications Conference (GLOBECOM 2023)</i>, Kuala Lumpur, Malaysia, pp. 7176–7181, Dec. 2023.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "C13",
+      "title": "Distance-Aware Precoding for Near-Field Capacity Improvement in XL-MIMO",
+      "authors": [
+        {
+          "given": "Zidong",
+          "family": "Wu"
+        },
+        {
+          "given": "Mingyao",
+          "family": "Cui"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "old_title": "Distance-aware precoding for near-field capacity improvement in XL-MIMO",
+      "old_authors": "Z. Wu, M. Cui,  Z. Zhang , and L. Dai",
+      "old_venue": "in Proc. 2022 IEEE 95th Vehicular Technology Conference (IEEE VTC’22 Fall) , Helsinki, Finland, Aug. 2022.",
+      "venue": "2022 IEEE 95th Vehicular Technology Conference: (VTC2022-Spring)",
+      "volume": null,
+      "issue": null,
+      "pages": "1-5",
+      "article_number": null,
+      "year": 2022,
+      "month": 6,
+      "doi": "10.1109/vtc2022-spring54318.2022.9860745",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "IEEE",
+      "online_date": null,
+      "print_date": [
+        [
+          2022,
+          6
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Fvtc2022-spring54318.2022.9860745",
+        "https://ieeexplore.ieee.org/document/9860745/",
+        "https://doi.org/10.1109/vtc2022-spring54318.2022.9860745"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record.",
+        "IEEE Xplore official document 9860745 explicitly says 2022 IEEE 95th Vehicular Technology Conference (VTC2022-Spring), conference 19–22 June 2022, Helsinki, Finland; date added 25 Aug. 2022 is not conference date."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "Distance-aware precoding for near-field capacity improvement in XL-MIMO",
+          "new": "Distance-Aware Precoding for Near-Field Capacity Improvement in XL-MIMO",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/vtc2022-spring54318.2022.9860745"
+        },
+        {
+          "field": "pages",
+          "old": null,
+          "new": "1-5"
+        },
+        {
+          "field": "conference/date",
+          "old": "VTC 2022-Fall, Aug. 2022",
+          "new": "VTC 2022-Spring, Jun. 2022"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "conference_event": {
+        "name": "2022 IEEE 95th Vehicular Technology Conference (VTC2022-Spring)",
+        "location": "Helsinki, Finland",
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              6,
+              19
+            ]
+          ]
+        },
+        "end": {
+          "date-parts": [
+            [
+              2022,
+              6,
+              22
+            ]
+          ]
+        }
+      },
+      "recommended_venue_html": "in <i>Proc. 2022 IEEE 95th Vehicular Technology Conference (VTC 2022-Spring)</i>, Helsinki, Finland, pp. 1–5, Jun. 2022.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "C14",
+      "title": "Low-Overhead Near-Field Beam Training Based on Bayesian Regression",
+      "authors": [
+        {
+          "given": "Zhuo",
+          "family": "Xu"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "old_title": "Low-overhead near-field beam training based on Bayesian regression",
+      "old_authors": "Z. Xu,  Z. Zhang , and L. Dai",
+      "old_venue": "in Proc. 2025 IEEE International Conference on Communications (IEEE ICC’25) , Montreal, Canada, Jun. 2025.",
+      "venue": "ICC 2025 - IEEE International Conference on Communications",
+      "volume": null,
+      "issue": null,
+      "pages": "1724-1729",
+      "article_number": null,
+      "year": 2025,
+      "month": 6,
+      "doi": "10.1109/icc52391.2025.11161432",
+      "status": "verified",
+      "publication_status": "published",
+      "publisher": "IEEE",
+      "online_date": null,
+      "print_date": [
+        [
+          2025,
+          6,
+          8
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Ficc52391.2025.11161432",
+        "https://ieeexplore.ieee.org/document/11161432/",
+        "https://doi.org/10.1109/icc52391.2025.11161432"
+      ],
+      "evidence": [
+        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record."
+      ],
+      "changes": [
+        {
+          "field": "title",
+          "old": "Low-overhead near-field beam training based on Bayesian regression",
+          "new": "Low-Overhead Near-Field Beam Training Based on Bayesian Regression",
+          "kind": "publisher spelling/hyphenation/capitalization; do not rewrite official titles"
+        },
+        {
+          "field": "doi",
+          "old": null,
+          "new": "10.1109/icc52391.2025.11161432"
+        },
+        {
+          "field": "pages",
+          "old": null,
+          "new": "1724-1729"
+        }
+      ],
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "conference_event": {
+        "name": "ICC 2025 - IEEE International Conference on Communications",
+        "location": "Montreal, QC, Canada",
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              8
+            ]
+          ]
+        },
+        "end": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              12
+            ]
+          ]
+        }
+      },
+      "recommended_venue_html": "in <i>Proc. 2025 IEEE International Conference on Communications (ICC 2025)</i>, Montreal, Canada, pp. 1724–1729, Jun. 2025.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "O1",
+      "title": "Active reconfigurable intelligent surface aided wireless communication prototype",
+      "authors": [],
+      "old_title": "Active reconfigurable intelligent surface aided wireless communication prototype",
+      "old_authors": "Z. Zhang , Y. Chen, Z. Peng, and L. Dai",
+      "old_venue": "in Proc. 2022 IEEE Global Communications Conference (IEEE GLOBECOM’22, Demo Session) , Rio de Janeiro, Brazil, Dec. 2022.",
+      "venue": "IEEE GLOBECOM demo session",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "article_number": null,
+      "year": 2022,
+      "month": 12,
+      "doi": null,
+      "status": "partially_verified",
+      "publication_status": "demonstration (not verified as proceedings paper)",
+      "publisher": null,
+      "online_date": null,
+      "print_date": null,
+      "source_urls": [],
+      "evidence": [
+        "No exact Crossref proceedings record located. The high-scoring Crossref candidate 10.1109/TWC.2021.3064024 is an unrelated journal paper, not this demo, and is rejected. Original demo entry should be presented as a demonstration, not asserted as a paginated proceedings paper.",
+        "Local GLOBECOM_demo.pdf is a slide deck with matching title and author list (Zijian Zhang, Yuhao Chen, Zhenchen Peng, Linglong Dai); it is not a published paper."
+      ],
+      "changes": [],
+      "unverified_fields": [
+        "official archived demo program with exact title/authors",
+        "DOI/proceedings page range (not found; may not apply)"
+      ],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 0.927536231884058,
+      "rejected_candidate_doi": "10.1109/twc.2021.3064024",
+      "authors_supplied": "Z. Zhang , Y. Chen, Z. Peng, and L. Dai",
+      "recommended_venue_html": "Demonstration at <i>2022 IEEE Global Communications Conference (GLOBECOM 2022)</i>, Rio de Janeiro, Brazil, Dec. 2022.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "O2",
+      "title": "Active reconfigurable intelligent surface aided wireless communication prototype",
+      "authors": [],
+      "old_title": "Active reconfigurable intelligent surface aided wireless communication prototype",
+      "old_authors": "Z. Zhang , Y. Chen, Z. Wu, Y. Lu, Z. Wan, and L. Dai",
+      "old_venue": "in Proc. 2023 IEEE Global Communications Conference (IEEE GLOBECOM’23, Demo Session) , Kuala Lumpur, Malaysia, Dec. 2023.",
+      "venue": "IEEE GLOBECOM demo session",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "article_number": null,
+      "year": 2023,
+      "month": 12,
+      "doi": null,
+      "status": "unverified",
+      "publication_status": "demonstration (not verified as proceedings paper)",
+      "publisher": null,
+      "online_date": null,
+      "print_date": null,
+      "source_urls": [],
+      "evidence": [
+        "No exact Crossref proceedings record located. The high-scoring Crossref candidate 10.1109/TWC.2021.3064024 is an unrelated journal paper, not this demo, and is rejected. Original demo entry should be presented as a demonstration, not asserted as a paginated proceedings paper."
+      ],
+      "changes": [],
+      "unverified_fields": [
+        "official archived demo program with exact title/authors",
+        "DOI/proceedings page range (not found; may not apply)"
+      ],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 0.927536231884058,
+      "rejected_candidate_doi": "10.1109/twc.2021.3064024",
+      "authors_supplied": "Z. Zhang , Y. Chen, Z. Wu, Y. Lu, Z. Wan, and L. Dai",
+      "recommended_venue_html": "Demonstration at <i>2023 IEEE Global Communications Conference (GLOBECOM 2023)</i>, Kuala Lumpur, Malaysia, Dec. 2023.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    },
+    {
+      "id": "O3",
+      "title": "Tinker@Home 2019 team description paper",
+      "authors": [
+        {
+          "given": "Jianghao",
+          "family": "Huo"
+        },
+        {
+          "given": "Xinyu",
+          "family": "Han"
+        },
+        {
+          "given": "Junda",
+          "family": "Bi"
+        },
+        {
+          "given": "Haocheng",
+          "family": "Ma"
+        },
+        {
+          "given": "Renjie",
+          "family": "Ma"
+        },
+        {
+          "given": "Cuijie",
+          "family": "Xu"
+        },
+        {
+          "given": "Lubin",
+          "family": "Ye"
+        },
+        {
+          "given": "Han",
+          "family": "Zhang"
+        },
+        {
+          "given": "Tengfei",
+          "family": "Zhang"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Yao",
+          "family": "Jiang"
+        }
+      ],
+      "old_title": "Tinker@Home 2019 team description paper",
+      "old_authors": "J. Huo, X. Han, J. Bi, H. Ma, R. Ma, C. Xu, L. Ye, H. Zhang, T. Zhang,  Z. Zhang , and Y. Jiang",
+      "old_venue": "in Proc. 2019 Robot World Cup (RoboCup’19) , Sydney, Australia, Jul. 2019.",
+      "venue": "RoboCup@Home 2019, Open Platform League",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "article_number": null,
+      "year": 2019,
+      "month": null,
+      "doi": null,
+      "status": "partially_verified",
+      "publication_status": "official team description paper",
+      "publisher": null,
+      "online_date": null,
+      "print_date": null,
+      "source_urls": [
+        "https://tdp.robocup.org/tdp/2019-tdp-tinker-robocuphome-open-platform/",
+        "https://tdp.robocup.org/wp-content/uploads/tdp/robocup/2019/robocup-at-home-open-platform/tinker-40/robocup-2019-robocup-at-home-open-platform-tinkerjNfYZ18iXk.pdf"
+      ],
+      "evidence": [
+        "Official RoboCup TDP archive has year 2019, Tinker, Tsinghua University, RoboCup@Home Open Platform League, and the original PDF with exact title and all 11 authors. No DOI/paginated Springer proceedings chapter record was located; treat as a team description paper."
+      ],
+      "changes": [
+        {
+          "field": "publication type",
+          "old": "in Proc. 2019 Robot World Cup (RoboCup 2019)",
+          "new": "Team description paper, RoboCup@Home 2019, Open Platform League"
+        }
+      ],
+      "unverified_fields": [
+        "DOI/proceedings page range (not found; not needed for TDP)",
+        "conference month/location not independently checked in this audit"
+      ],
+      "checked_as_of": "2026-10-10",
+      "candidate_similarity": 0.7384615384615385,
+      "rejected_candidate_doi": "10.1007/3-540-45327-x_87",
+      "authors_supplied": "J. Huo, X. Han, J. Bi, H. Ma, R. Ma, C. Xu, L. Ye, H. Zhang, T. Zhang,  Z. Zhang , and Y. Jiang",
+      "recommended_venue_html": "Team description paper, <i>RoboCup@Home 2019, Open Platform League</i>, 2019.",
+      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+    }
+  ]
+}

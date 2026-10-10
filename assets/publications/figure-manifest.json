@@ -1,0 +1,383 @@
+{
+  "description": "Representative figures cropped from each journal article PDF. Source PDFs are unchanged.",
+  "papers": [
+    {
+      "journal_number": 1,
+      "pdf": "pubs/Journal_paper/TCOM.pdf",
+      "image": "assets/publications/TCOM.png",
+      "page": 3,
+      "figure": "1",
+      "caption": "Illustration of the hardware architectures of (a) a passive RIS and (b) an active RIS.",
+      "alt": "Passive and active RIS architectures and their reflecting-element circuits",
+      "crop": [
+        49,
+        58,
+        561,
+        370
+      ],
+      "width": 1280,
+      "height": 780,
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+    },
+    {
+      "journal_number": 2,
+      "pdf": "pubs/Journal_paper/TSP.pdf",
+      "image": "assets/publications/TSP.png",
+      "page": 3,
+      "figure": "1",
+      "caption": "The proposed concept of RIS-aided cell-free network.",
+      "alt": "A cell-free wireless network with distributed base stations and intelligent surfaces",
+      "crop": [
+        54,
+        61,
+        281,
+        184
+      ],
+      "width": 567,
+      "height": 308,
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+    },
+    {
+      "journal_number": 3,
+      "pdf": "pubs/Journal_paper/JSAC.pdf",
+      "image": "assets/publications/JSAC.png",
+      "page": 1,
+      "figure": "1",
+      "caption": "An example of CAP-MIMO based communication scenario.",
+      "alt": "Continuous-aperture MIMO surfaces serving users around a building",
+      "crop": [
+        324,
+        165,
+        557,
+        324
+      ],
+      "width": 582,
+      "height": 398,
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+    },
+    {
+      "journal_number": 4,
+      "pdf": "pubs/Journal_paper/TWC.pdf",
+      "image": "assets/publications/TWC.png",
+      "page": 1,
+      "figure": "1",
+      "caption": "An illustration of an asynchronous network and the geometrical relationship between absolute and differential ranges.",
+      "alt": "Active and silent nodes in an asynchronous ranging network and their range geometry",
+      "crop": [
+        312,
+        188,
+        567,
+        288
+      ],
+      "width": 638,
+      "height": 250,
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+    },
+    {
+      "journal_number": 5,
+      "pdf": "pubs/Journal_paper/TST.pdf",
+      "image": "assets/publications/TST.png",
+      "page": 2,
+      "figure": "1",
+      "caption": "Typical communication scenario where RISs enhance wireless transmissions via passive beamforming.",
+      "alt": "Intelligent surfaces directing wireless signals to vehicles and pedestrians",
+      "crop": [
+        51,
+        478,
+        540,
+        758
+      ],
+      "width": 1222,
+      "height": 700,
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+    },
+    {
+      "journal_number": 6,
+      "pdf": "pubs/Journal_paper/TWC_FAS.pdf",
+      "image": "assets/publications/TWC_FAS.png",
+      "page": 3,
+      "figure": "1",
+      "caption": "An illustration of channel estimation for an FAS, where one N-port base station equipped with M fluid antennas receives pilots from a user in the uplink.",
+      "alt": "Fluid antennas selecting receiving ports for uplink channel estimation",
+      "crop": [
+        49,
+        52,
+        298,
+        196
+      ],
+      "width": 623,
+      "height": 360,
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+    },
+    {
+      "journal_number": 7,
+      "pdf": "pubs/Journal_paper/TSP_2DIF.pdf",
+      "image": "assets/publications/TSP_2DIF.png",
+      "page": 8,
+      "figure": "2(a)",
+      "caption": "Pilot allocation of the proposed two-dimensional ice-filling algorithm to maximize mutual information.",
+      "alt": "Two-dimensional ice-filling pilot allocation illustrated with ice blocks",
+      "crop": [
+        40,
+        64,
+        549,
+        219
+      ],
+      "width": 1272,
+      "height": 388,
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+    },
+    {
+      "journal_number": 8,
+      "page": 3,
+      "figure": "2",
+      "caption": "a) The channel gains of a 64-antenna MIMO in the spatial domain and the DFT-sampled angular domain. b) The channel gains of a continuous-aperture H-MIMO in the spatial domain and the wavenumber domain.",
+      "alt": "Comparison of conventional MIMO and holographic MIMO channel gains in spatial, angular, and wavenumber domains.",
+      "pdf": "pubs/Journal_paper/STDCOMMAG.pdf",
+      "image": "assets/publications/STDCOMMAG.png",
+      "crop": [
+        38,
+        29,
+        443,
+        367
+      ],
+      "width": 1215,
+      "height": 1014,
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+    },
+    {
+      "journal_number": 9,
+      "page": 5,
+      "figure": "1",
+      "caption": "NMSE performance versus SNR for different schemes.",
+      "alt": "Channel estimation NMSE versus SNR comparing ARMO with kernel training, ideal-kernel ARMO, ice filling, MMSE, LS, and OMP.",
+      "pdf": "pubs/Journal_paper/TVT.pdf",
+      "image": "assets/publications/TVT.png",
+      "crop": [
+        318,
+        66,
+        565,
+        262
+      ],
+      "width": 741,
+      "height": 588,
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+    },
+    {
+      "journal_number": 10,
+      "page": 6,
+      "figure": "3 (ice-filling panel)",
+      "caption": "Comparison between water-filling and ice-filling. The rank of the prior kernel, the number of antennas, and the total pilot length are set as K = 6, M = 128, and Q = 16, respectively. The eigenvalues of the prior kernel are in descending order.",
+      "alt": "Ice-filling panel from the comparison with water-filling, illustrating discrete pilot allocation as ice blocks over the prior-kernel eigenmodes.",
+      "pdf": "pubs/Journal_paper/TWC_IF.pdf",
+      "image": "assets/publications/TWC_IF.png",
+      "crop": [
+        258,
+        56,
+        452,
+        231
+      ],
+      "width": 582,
+      "height": 525,
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+    },
+    {
+      "journal_number": 11,
+      "page": 2,
+      "figure": "1",
+      "caption": "Comparison between (a) narrowband active RIS and (b) wideband active RIS.",
+      "alt": "Narrowband and wideband active RIS architectures showing their phase-shift circuits and amplifier groups.",
+      "pdf": "pubs/Journal_paper/CL_z.pdf",
+      "image": "assets/publications/CL_z.png",
+      "crop": [
+        52,
+        53,
+        294,
+        210.5
+      ],
+      "width": 726,
+      "height": 473,
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+    },
+    {
+      "journal_number": 12,
+      "page": 3,
+      "figure": "2",
+      "caption": "US-RIS construction. (a) A typical user which is a real-world model of customer-premises equipment (CPE). (b) The proposed architecture with multi-layer US-RIS.",
+      "alt": "Customer-premises equipment and the proposed multilayer user-side RIS construction with absorbing materials and supporting structure.",
+      "pdf": "pubs/Journal_paper/TCOM_k.pdf",
+      "image": "assets/publications/TCOM_k.png",
+      "crop": [
+        314,
+        255,
+        562,
+        421
+      ],
+      "width": 744,
+      "height": 498,
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+    },
+    {
+      "journal_number": 13,
+      "page": 2,
+      "figure": "1",
+      "caption": "Comparison between different architectures for active RIS.",
+      "alt": "Comparison of fully connected and sub-connected active RIS architectures with grouped power amplifiers.",
+      "pdf": "pubs/Journal_paper/CL_k.pdf",
+      "image": "assets/publications/CL_k.png",
+      "crop": [
+        75,
+        55,
+        273,
+        209
+      ],
+      "width": 594,
+      "height": 462,
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+    },
+    {
+      "journal_number": 14,
+      "page": 1,
+      "figure": "1",
+      "caption": "(a) An illustration of a network with two active nodes and one target; (b) The relationship between absolute range and sum range, where i and j are active nodes and kappa is a target.",
+      "alt": "Integrated localization and sensing network showing direct and reflected signal paths and the relation between absolute and sum ranges.",
+      "pdf": "pubs/Journal_paper/WCL_z.pdf",
+      "image": "assets/publications/WCL_z.png",
+      "crop": [
+        335,
+        145,
+        547,
+        233
+      ],
+      "width": 636,
+      "height": 264,
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+    },
+    {
+      "journal_number": 15,
+      "pdf": "pubs/Journal_paper/TITS_z.pdf",
+      "image": "assets/publications/TITS_z.png",
+      "page": 2,
+      "figure": "1",
+      "caption": "Illustration of the proposed cooperative localization framework for positioning on connected automated vehicles.",
+      "alt": "Cooperative localization framework for connected automated vehicles, including network measuring, synchronization, ranging, and localization.",
+      "crop": [
+        315,
+        164,
+        558,
+        435
+      ],
+      "width": 729,
+      "height": 813,
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+    },
+    {
+      "journal_number": 16,
+      "pdf": "pubs/Journal_paper/TST_s.pdf",
+      "image": "assets/publications/TST_s.png",
+      "page": 3,
+      "figure": "1",
+      "caption": "System model for RIS-assisted cell-free network with multi-hop transmissions.",
+      "alt": "System model of a RIS-assisted cell-free network with access points, users, and multi-hop reflection paths.",
+      "crop": [
+        307,
+        571,
+        541,
+        744
+      ],
+      "width": 702,
+      "height": 519,
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+    },
+    {
+      "journal_number": 17,
+      "pdf": "pubs/Journal_paper/TCOM_wan.pdf",
+      "image": "assets/publications/TCOM_wan.png",
+      "page": 2,
+      "figure": "1",
+      "caption": "Electromagnetic model of the communication between two arbitrary continuous regions.",
+      "alt": "Electromagnetic communication model between continuous source and destination regions connected by a Green function.",
+      "crop": [
+        337,
+        50,
+        538,
+        176
+      ],
+      "width": 603,
+      "height": 378,
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+    },
+    {
+      "journal_number": 18,
+      "pdf": "pubs/Journal_paper/TCOM_l.pdf",
+      "image": "assets/publications/TCOM_l.png",
+      "page": 8,
+      "figure": "2",
+      "caption": "Comparison between the far-field exhaustive search, near-field exhaustive search and the near-field 2D hierarchical beam training.",
+      "alt": "Comparison of far-field search, near-field exhaustive search, and two-dimensional hierarchical beam training.",
+      "crop": [
+        316,
+        52,
+        559,
+        245
+      ],
+      "width": 729,
+      "height": 579,
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+    },
+    {
+      "journal_number": 19,
+      "pdf": "pubs/Journal_paper/TWC_NFBT.pdf",
+      "image": "assets/publications/TWC_NFBT.png",
+      "page": 3,
+      "figure": "1",
+      "caption": "An illustration of NFBT in XL-MIMO systems.",
+      "alt": "Illustration of near-field and far-field beam training in an extremely large-scale MIMO system.",
+      "crop": [
+        52,
+        55,
+        296,
+        185
+      ],
+      "width": 732,
+      "height": 390,
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+    },
+    {
+      "journal_number": 20,
+      "pdf": "pubs/Journal_paper/TVT_MAP.pdf",
+      "image": "assets/publications/TVT_MAP.png",
+      "page": 5,
+      "figure": "5",
+      "caption": "3D radio maps obtained by our proposed estimation method at 1 m, 15 m, and 30 m height.",
+      "alt": "Estimated three-dimensional radio maps at heights of 1, 15, and 30 meters with building footprints and signal strength.",
+      "crop": [
+        66,
+        65,
+        532,
+        224
+      ],
+      "width": 1398,
+      "height": 477,
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+    },
+    {
+      "journal_number": 21,
+      "pdf": "pubs/Journal_paper/COMMAG_Ryd.pdf",
+      "image": "assets/publications/COMMAG_Ryd.png",
+      "page": 5,
+      "figure": "3",
+      "caption": "The experimental workflow of the proposed AI-driven Rydberg OFDM wireless communication system. The transmitted image is of Johannes Robert Rydberg (1854-1919), a Swedish physicist and mathematician, and one of the founders of spectroscopy.",
+      "alt": "Experimental workflow of AI-driven Rydberg OFDM communications with a trained joint source-channel coding model and image transmission.",
+      "crop": [
+        40,
+        30,
+        337,
+        142
+      ],
+      "width": 891,
+      "height": 336,
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+    }
+  ]
+}

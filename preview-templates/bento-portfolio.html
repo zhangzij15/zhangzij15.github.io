@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Zijian Zhang · Bento Portfolio Preview</title>
+  <style>
+    :root { --ink:#1e2430; --muted:#6c7280; --paper:#fffdf9; --bg:#f1eee8; --lime:#b9ed75; --lav:#d9d7ff; --peach:#ffd7bf; --blue:#c9e4ff; --line:#e5dfd4; }
+    * { box-sizing:border-box; } body { margin:0; color:var(--ink); background:var(--bg); font:15px/1.55 Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; } a { color:inherit; } .shell { width:min(1180px, calc(100% - 36px)); margin:0 auto; } .back { display:inline-block; margin:18px 0 5px; color:var(--muted); text-decoration:none; font-size:.9rem; }
+    nav { display:flex; justify-content:space-between; align-items:center; gap:20px; padding:18px 0 24px; } nav strong { font-size:1.1rem; letter-spacing:-.04em; } nav div { display:flex; gap:18px; font-size:.88rem; } nav a { text-decoration:none; }
+    .bento { display:grid; grid-template-columns:repeat(12,1fr); grid-auto-rows:82px; gap:14px; padding-bottom:28px; } .tile { overflow:hidden; padding:22px; border:1px solid var(--line); border-radius:24px; background:var(--paper); } .profile { grid-column:span 7; grid-row:span 4; display:flex; align-items:end; position:relative; background:linear-gradient(135deg, #fffdf9 0 53%, var(--lav) 53%); } .profile img { position:absolute; right:20px; bottom:0; width:190px; height:285px; object-fit:cover; object-position:top; border-radius:140px 140px 0 0; mix-blend-mode:multiply; } .profile-content { position:relative; z-index:1; max-width:65%; } .eyebrow { color:#6c7280; font-size:.74rem; font-weight:900; letter-spacing:.14em; text-transform:uppercase; } h1 { margin:12px 0 14px; max-width:510px; font-size:clamp(2.5rem, 5.2vw, 5rem); line-height:.95; letter-spacing:-.08em; } .profile p { max-width:450px; color:var(--muted); } .chips { display:flex; flex-wrap:wrap; gap:8px; margin-top:22px; } .chip { padding:7px 10px; border-radius:999px; background:#fff; font-size:.78rem; font-weight:800; }
+    .metric { grid-column:span 2; grid-row:span 2; display:flex; flex-direction:column; justify-content:space-between; } .metric:nth-child(2) { background:var(--lime); } .metric:nth-child(3) { background:var(--peach); } .metric:nth-child(4) { background:var(--blue); } .metric:nth-child(5) { background:var(--lav); } .metric b { font-size:2.4rem; letter-spacing:-.08em; } .metric span { color:#4e5665; font-size:.82rem; }
+    .contact { grid-column:span 3; grid-row:span 2; background:#1e2430; color:#fff; } .contact h2 { margin:0 0 22px; font-size:1.2rem; } .contact a { display:block; margin-top:10px; color:var(--lime); text-decoration:none; font-weight:800; }
+    .focus { grid-column:span 5; grid-row:span 3; background:var(--lime); } .focus h2, .project h2, .papers h2, .demo h2 { margin:0 0 9px; font-size:1.35rem; letter-spacing:-.05em; } .focus p, .project p, .demo p { color:#4e5665; } .focus ul { margin:20px 0 0; padding-left:18px; }
+    .project { grid-column:span 4; grid-row:span 3; padding:0; } .project img { width:100%; height:145px; display:block; object-fit:cover; } .project div { padding:18px 20px; }
+    .papers { grid-column:span 7; grid-row:span 3; } .paper { display:grid; grid-template-columns:64px 1fr; gap:15px; padding:13px 0; border-bottom:1px solid var(--line); } .paper:last-child { border:0; } .paper b { display:block; font-size:.95rem; } .paper span { color:var(--muted); font-size:.8rem; }
+    .demo { grid-column:span 5; grid-row:span 3; background:var(--peach); } .demo img { float:right; width:145px; height:145px; object-fit:cover; margin:-8px -8px 8px 12px; border-radius:50%; } .demo a { font-weight:900; }
+    footer { display:flex; justify-content:space-between; padding:16px 0 42px; color:var(--muted); font-size:.85rem; } footer a { text-decoration:none; font-weight:800; }
+    @media (max-width:900px) { .profile { grid-column:span 8; } .metric { grid-column:span 2; } .contact { grid-column:span 4; } .focus { grid-column:span 6; } .project { grid-column:span 6; } .papers { grid-column:span 8; } .demo { grid-column:span 4; } }
+    @media (max-width:620px) { .shell { width:min(100% - 24px, 540px); } nav div { display:none; } .bento { display:block; } .tile { min-height:220px; margin-bottom:12px; } .profile { min-height:500px; } .profile-content { max-width:100%; } .profile img { width:145px; height:220px; opacity:.7; } footer { flex-direction:column; gap:8px; } }
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <a class="back" href="index.html">← Back to template gallery</a>
+    <nav><strong>Zijian Zhang / 张子健</strong><div><a href="#research">Research</a><a href="#papers">Papers</a><a href="#demos">Demos</a><a href="#contact">Contact</a></div></nav>
+    <section class="bento" id="research">
+      <article class="tile profile"><div class="profile-content"><div class="eyebrow">Ph.D. · Tsinghua University · Wireless systems</div><h1>Signal processing for the next generation of MIMO.</h1><p>Architectures, algorithms, and prototypes across RIS, holographic MIMO, localization, and robotics.</p><div class="chips"><span class="chip">Active RIS</span><span class="chip">H-MIMO</span><span class="chip">Localization</span></div></div><img src="../photos/ZZJ_bio3.jpg" alt="Portrait of Zijian Zhang"></article>
+      <article class="tile metric"><b>30+</b><span>papers</span></article><article class="tile metric"><b>3k+</b><span>citations</span></article><article class="tile metric"><b>24</b><span>patents</span></article><article class="tile metric"><b>5</b><span>award highlights</span></article>
+      <article class="tile contact" id="contact"><h2>Let’s connect</h2><p>Open to collaborators working on future wireless systems, signal processing, localization, and prototypes.</p><a href="mailto:zhangzij15@tsinghua.org.cn">Email ↗</a><a href="https://scholar.google.com/citations?user=OUAuynUAAAAJ&hl=en">Google Scholar ↗</a></article>
+      <article class="tile focus"><h2>Research focus</h2><p>Four themes that connect the homepage content.</p><ul><li>RIS-aided cell-free networks</li><li>Active and holographic MIMO</li><li>Efficient ranging and localization</li><li>Embedded robotics prototypes</li></ul></article>
+      <article class="tile project"><img src="../photos/activeRIS.png" alt="Active RIS project"><div><h2>Featured project</h2><p>Active RIS: from signal modeling to a 64-element prototype.</p><a href="../pubs/Journal_paper/TCOM.pdf">Read the paper →</a></div></article>
+      <article class="tile papers" id="papers"><h2>Selected publications</h2><div class="paper"><span>2023<br>TCOM</span><div><b>Active RIS vs. passive RIS: Which will prevail in 6G?</b><span>Z. Zhang et al. · <a href="../codes/TCOM.zip">Code</a></span></div></div><div class="paper"><span>2023<br>JSAC</span><div><b>Pattern-division multiplexing for multi-user continuous-aperture MIMO</b><span>Z. Zhang and L. Dai · <a href="../codes/JSAC.zip">Code</a></span></div></div><div class="paper"><span>2022<br>TWC</span><div><b>Signal-multiplexing ranging for network localization</b><span>Z. Zhang et al. · <a href="../codes/TWC.zip">Code</a></span></div></div></article>
+      <article class="tile demo" id="demos"><img src="../demos/UWB_car.gif" alt="UWB tracking vehicle"><h2>Builds beyond papers</h2><p>UWB vehicles, UAV formation, mechanical arms, sensor nodes, and the Tinker@Home robot.</p><a href="../demos.html">See all demos →</a></article>
+    </section>
+    <footer><span>Preview template · existing source files untouched</span><span><a href="../publications.html">Full publication list</a> · <a href="../awards.html">Awards</a></span></footer>
+  </main>
+</body>
+</html>

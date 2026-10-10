@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Academic homepage preview for Zijian Zhang">
+  <title>Zijian Zhang · AcadHomepage Preview</title>
+  <style>
+    :root { --ink:#3d4147; --muted:#777d85; --blue:#1f5f9d; --blue-dark:#174772; --line:#e5e7e9; --bg:#fff; --soft:#f7f8f9; --badge:#00369f; }
+    * { box-sizing:border-box; }
+    html { scroll-behavior:smooth; }
+    body { margin:0; color:var(--ink); background:var(--bg); font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:16px; line-height:1.72; }
+    a { color:var(--blue); text-decoration:none; }
+    a:hover { color:var(--blue-dark); text-decoration:underline; }
+    .preview-bar { padding:8px 24px; color:#606a75; background:#f3f5f7; border-bottom:1px solid var(--line); font-size:13px; }
+    .preview-bar a { font-weight:700; }
+    .masthead { position:sticky; z-index:10; top:0; background:rgba(255,255,255,.96); border-bottom:1px solid var(--line); backdrop-filter:blur(12px); }
+    .masthead__inner { display:flex; align-items:center; justify-content:space-between; gap:24px; width:min(1240px,calc(100% - 48px)); min-height:62px; margin:0 auto; }
+    .brand { color:#333; font-size:18px; font-weight:800; letter-spacing:-.03em; white-space:nowrap; }
+    .brand span { color:var(--blue); }
+    .nav { display:flex; flex-wrap:wrap; align-items:center; justify-content:flex-end; gap:20px; }
+    .nav a { color:#626a73; font-size:14px; font-weight:600; }
+    .nav a:hover { color:var(--blue); text-decoration:none; }
+    .main { display:grid; grid-template-columns:270px minmax(0,1fr); gap:54px; width:min(1240px,calc(100% - 48px)); margin:0 auto; padding:46px 0 70px; }
+    .sidebar { position:sticky; top:108px; align-self:start; }
+    .avatar { width:170px; height:170px; margin:0 auto 22px; border-radius:50%; object-fit:cover; box-shadow:0 0 0 7px #f4f6f8, 0 7px 24px rgba(33,54,77,.12); }
+    .author-name { margin:0; color:#30343a; font-size:25px; line-height:1.2; letter-spacing:-.04em; }
+    .author-bio { margin:8px 0 22px; color:var(--muted); font-size:14px; }
+    .profile-intro { margin:0 0 20px; color:#5e666e; font-size:14px; line-height:1.65; }
+    .profile-links { display:grid; gap:9px; padding:18px 0 0; border-top:1px solid var(--line); font-size:14px; }
+    .profile-links a { display:flex; align-items:center; gap:9px; }
+    .profile-links strong { display:inline-flex; align-items:center; justify-content:center; width:22px; color:var(--blue); font-size:12px; }
+    .page-content { min-width:0; max-width:850px; }
+    .eyebrow { color:var(--blue); font-size:12px; font-weight:800; letter-spacing:.15em; text-transform:uppercase; }
+    h1 { margin:8px 0 15px; color:#2f3740; font-size:clamp(2.25rem,5vw,4.1rem); line-height:1.04; letter-spacing:-.065em; }
+    .lede { max-width:760px; margin:0; color:#646c75; font-size:18px; line-height:1.7; }
+    .hero-links { display:flex; flex-wrap:wrap; gap:12px; margin:25px 0 42px; }
+    .button { display:inline-flex; padding:9px 14px; border:1px solid #d2e0ee; border-radius:5px; background:#f5f9fd; color:var(--blue); font-size:13px; font-weight:800; }
+    .button.primary { border-color:var(--blue); background:var(--blue); color:#fff; }
+    section { padding:28px 0 8px; scroll-margin-top:90px; }
+    h2 { display:flex; align-items:center; gap:12px; margin:0 0 16px; padding-bottom:9px; border-bottom:1px solid var(--line); color:#303840; font-size:24px; letter-spacing:-.04em; }
+    h2:before { content:""; display:inline-block; width:4px; height:24px; border-radius:3px; background:var(--blue); }
+    h3 { margin:0 0 5px; color:#313a43; font-size:17px; }
+    .news { list-style:none; margin:0; padding:0; }
+    .news li { display:grid; grid-template-columns:82px 1fr; gap:14px; padding:8px 0; }
+    .date { color:var(--blue); font-size:13px; font-weight:800; }
+    .news span:last-child { color:#626b74; }
+    .paper-box { display:flex; align-items:center; gap:24px; padding:25px 0; border-bottom:1px solid #efefef; }
+    .paper-box:first-of-type { padding-top:8px; }
+    .paper-image { position:relative; flex:0 0 210px; }
+    .paper-image img { display:block; width:210px; height:132px; border-radius:3px; object-fit:cover; box-shadow:3px 3px 6px #aaa; }
+    .badge { position:absolute; top:9px; left:-8px; padding:2px 9px; color:#fff; background:var(--badge); font-size:11px; font-weight:800; }
+    .paper-text { flex:1; min-width:0; }
+    .paper-text h3 { font-size:17px; line-height:1.4; }
+    .paper-text p { margin:5px 0; color:#6c737a; font-size:14px; }
+    .paper-meta { color:#80868d; font-size:13px; }
+    .paper-actions { display:flex; flex-wrap:wrap; gap:12px; margin-top:7px; font-size:13px; font-weight:700; }
+    .two-col { display:grid; grid-template-columns:1fr 1fr; gap:26px; }
+    .simple-list { margin:0; padding-left:20px; color:#626a72; }
+    .simple-list li { margin:7px 0; }
+    .award { padding:9px 0; border-bottom:1px dotted #ccd3da; color:#626a72; }
+    .award:last-child { border-bottom:0; }
+    .award b { color:#3a4652; }
+    .research-tags { display:flex; flex-wrap:wrap; gap:10px; }
+    .research-tags span { padding:7px 11px; border:1px solid #d9e5ef; border-radius:4px; background:#f8fbfd; color:#536679; font-size:13px; }
+    .footer { margin-top:42px; padding-top:20px; border-top:1px solid var(--line); color:#8a9097; font-size:13px; }
+    @media (max-width:900px) { .main { grid-template-columns:210px minmax(0,1fr); gap:32px; } .avatar { width:140px; height:140px; } .paper-box { align-items:flex-start; } .paper-image, .paper-image img { flex-basis:170px; width:170px; height:108px; } }
+    @media (max-width:700px) { .preview-bar { padding:8px 14px; } .masthead__inner, .main { width:min(100% - 28px,560px); } .masthead__inner { min-height:58px; } .nav { gap:10px 14px; } .nav a:nth-child(n+5) { display:none; } .main { display:block; padding-top:32px; } .sidebar { position:static; display:grid; grid-template-columns:92px 1fr; gap:15px; margin-bottom:34px; } .avatar { width:92px; height:92px; grid-row:span 2; margin:0; } .author-name { font-size:21px; } .author-bio { margin:4px 0 0; } .profile-intro { grid-column:1/-1; } .profile-links { grid-column:1/-1; grid-template-columns:repeat(2,1fr); } h1 { font-size:3rem; } .two-col { grid-template-columns:1fr; gap:8px; } }
+    @media (max-width:520px) { .paper-box { display:block; } .paper-image, .paper-image img { width:100%; height:170px; } .paper-image { margin-bottom:15px; } .news li { grid-template-columns:70px 1fr; gap:9px; } .brand { font-size:16px; } }
+  </style>
+</head>
+<body>
+  <div class="preview-bar">AcadHomepage-style preview · <a href="index.html">Back to template gallery</a> · Existing source files remain untouched</div>
+  <header class="masthead"><div class="masthead__inner"><a class="brand" href="#about-me">Zijian Zhang <span>/</span> 张子健</a><nav class="nav" aria-label="Main navigation"><a href="#about-me">About Me</a><a href="#news">News</a><a href="#publications">Publications</a><a href="#awards">Honors</a><a href="#education">Education</a><a href="#contact">Contact</a></nav></div></header>
+  <main class="main">
+    <aside class="sidebar">
+      <img class="avatar" src="../photos/ZZJ_bio3.jpg" alt="Portrait of Zijian Zhang">
+      <div><h2 class="author-name">Zijian Zhang<br><span style="font-weight:400">张子健</span></h2><p class="author-bio">Ph.D. · Beyond Massive MIMO<br>Tsinghua University / Huawei Top Mind</p></div>
+      <p class="profile-intro">Researcher in wireless communications, statistical signal processing, RIS, holographic MIMO, localization, and robotics.</p>
+      <div class="profile-links" id="contact"><a href="mailto:zhangzij15@tsinghua.org.cn"><strong>✉</strong> Email</a><a href="https://scholar.google.com/citations?user=OUAuynUAAAAJ&hl=en"><strong>GS</strong> Google Scholar</a><a href="https://www.researchgate.net/profile/Zijian-Zhang-26"><strong>RG</strong> ResearchGate</a><a href="https://ieeexplore.ieee.org/author/37088489917"><strong>IE</strong> IEEE Xplore</a><span><strong>⌖</strong> Beijing, China</span></div>
+    </aside>
+    <article class="page-content">
+      <section id="about-me" style="padding-top:0"><div class="eyebrow">Academic personal homepage</div><h1>Architectures, algorithms, and prototypes for future wireless systems.</h1><p class="lede">Zijian Zhang received the B.E. and Ph.D. degrees in Electrical Engineering from Tsinghua University. His research explores the full path from hardware architecture and signal modeling to algorithm design and prototype development for beyond-massive-MIMO systems.</p><div class="hero-links"><a class="button primary" href="#publications">Selected publications</a><a class="button" href="../publications.html">Full publication list</a><a class="button" href="mailto:zhangzij15@tsinghua.org.cn">Looking for collaborators</a></div></section>
+      <section id="news"><h2>🔥 News</h2><ul class="news"><li><span class="date">2026.06</span><span>Added recent work on 2D ice filling, wavenumber-domain processing, RIS channel estimation, and Rydberg atomic receivers.</span></li><li><span class="date">2025.06</span><span>Completed the Ph.D. degree in Electrical Engineering at Tsinghua University.</span></li><li><span class="date">2025.03</span><span>Successive Bayesian reconstructor for fluid antenna systems received ESI Top 1% Highly Cited Paper recognition.</span></li><li><span class="date">2024.12</span><span>Received the Tsinghua University Special Scholarship and Outstanding Ph.D. Thesis recognition.</span></li></ul></section>
+      <section id="publications"><h2>📝 Selected Publications</h2><div class="paper-box"><div class="paper-image"><span class="badge">IEEE TCOM 2023</span><img src="../photos/activeRIS.png" alt="Active RIS project"></div><div class="paper-text"><h3><a href="../pubs/Journal_paper/TCOM.pdf">Active RIS vs. passive RIS: Which will prevail in 6G?</a></h3><p><strong>Z. Zhang</strong>, L. Dai, X. Chen, C. Liu, F. Yang, R. Schober, and H. V. Poor</p><div class="paper-meta">Signal modeling · asymptotic analysis · beamforming · 64-element prototype</div><div class="paper-actions"><a href="../pubs/Journal_paper/TCOM.pdf">[Paper]</a><a href="../codes/TCOM.zip">[Code]</a></div></div></div><div class="paper-box"><div class="paper-image"><span class="badge">IEEE JSAC 2023</span><img src="../photos/CAP-MIMO.jpg" alt="Continuous-aperture MIMO project"></div><div class="paper-text"><h3><a href="../pubs/Journal_paper/JSAC.pdf">Pattern-division multiplexing for multi-user continuous-aperture MIMO</a></h3><p><strong>Z. Zhang</strong> and L. Dai</p><div class="paper-meta">Continuous apertures · finite orthogonal bases · pattern design</div><div class="paper-actions"><a href="../pubs/Journal_paper/JSAC.pdf">[Paper]</a><a href="../codes/JSAC.zip">[Code]</a></div></div></div><div class="paper-box"><div class="paper-image"><span class="badge">IEEE TWC 2022</span><img src="../photos/SM-NR.jpg" alt="Network ranging project"></div><div class="paper-text"><h3><a href="../pubs/Journal_paper/TWC.pdf">Signal-multiplexing ranging for network localization</a></h3><p><strong>Z. Zhang</strong>, H. Zhao, J. Wang, and Y. Shen</p><div class="paper-meta">Network localization · ranging overhead O(N²) → N+1</div><div class="paper-actions"><a href="../pubs/Journal_paper/TWC.pdf">[Paper]</a><a href="../codes/TWC.zip">[Code]</a></div></div></div></section>
+      <section id="research"><h2>🔬 Research Interests</h2><div class="research-tags"><span>Statistical signal processing</span><span>Matrix analysis</span><span>Convex optimization</span><span>Massive MIMO</span><span>Holographic MIMO</span><span>Reconfigurable intelligent surfaces</span><span>Channel estimation</span><span>Network localization</span><span>UAV & robotics</span></div></section>
+      <section id="awards"><h2>🎖 Honors and Awards</h2><div class="two-col"><div><div class="award"><b>2025</b> · IEEE Signal Processing Society Young Author Best Paper Award</div><div class="award"><b>2025</b> · Tsinghua University Outstanding Ph.D. Thesis</div><div class="award"><b>2024</b> · Tsinghua Science and Technology Best Paper Award</div><div class="award"><b>2024</b> · Tsinghua Science and Technology Excellent Paper Award</div></div><div><div class="award"><b>2024</b> · Special Scholarship of Tsinghua University</div><div class="award"><b>2023</b> · Stanford World's Top 2% Scientists</div><div class="award"><b>2022</b> · IEEE ComSoc Student Grant</div><div class="award"><b>2019</b> · Challenge Cup National Special Prize</div></div></div><p style="margin-top:15px"><a href="../awards.html">View complete honors and certificates →</a></p></section>
+      <section id="education"><h2>📖 Education & Work</h2><div class="two-col"><ul class="simple-list"><li><b>Ph.D. in Electrical Engineering</b><br>Tsinghua University · 2020–2025</li><li><b>B.E. in Electrical Engineering</b><br>Tsinghua University · 2016–2020</li><li><b>Second Bachelor in Economics</b><br>Tsinghua University · 2016–2020</li></ul><ul class="simple-list"><li><b>Huawei Top Mind Program</b><br>Huawei · Beijing · 2025–Present</li><li><b>Academic service</b><br>TPC member and journal/conference reviewer</li><li><b>Research demos</b><br>UWB vehicle, UAV formation, Tinker@Home robot</li></ul></div></section>
+      <footer class="footer">Preview adapted from the public <a href="https://github.com/RayeRen/acad-homepage.github.io">AcadHomepage template</a>, whose original project uses Jekyll and a responsive academic layout. This standalone preview uses the existing project assets and does not require Jekyll to view.</footer>
+    </article>
+  </main>
+</body>
+</html>
