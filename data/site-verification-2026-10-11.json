@@ -1,0 +1,71 @@
+{
+  "checked_as_of": "2026-10-11",
+  "result": "passed",
+  "page_checks": [
+    {
+      "page": "index.html",
+      "balanced_HTML": true,
+      "local_links_and_anchors_valid": true
+    },
+    {
+      "page": "publications.html",
+      "balanced_HTML": true,
+      "local_links_and_anchors_valid": true
+    },
+    {
+      "page": "projects.html",
+      "balanced_HTML": true,
+      "local_links_and_anchors_valid": true
+    },
+    {
+      "page": "demos.html",
+      "balanced_HTML": true,
+      "local_links_and_anchors_valid": true
+    },
+    {
+      "page": "awards.html",
+      "balanced_HTML": true,
+      "local_links_and_anchors_valid": true
+    },
+    {
+      "page": "zijianzhang.html",
+      "balanced_HTML": true,
+      "local_links_and_anchors_valid": true
+    }
+  ],
+  "local_reference_occurrences_checked": 285,
+  "entries_retained": 57,
+  "paper_entries_unchanged": 40,
+  "DOI_links_matched_to_fresh_records": 36,
+  "patent_records_matched": 17,
+  "Chinese_ZL_patent_numbers": 8,
+  "grant_publication_labels": 10,
+  "historical_grant_badges": 10,
+  "published_application_badges": 7,
+  "figures_retained": 21,
+  "project_papers_per_category": [
+    3,
+    1,
+    2,
+    3,
+    3,
+    3,
+    1
+  ],
+  "B2_retained": true,
+  "HTML_jemdoc_data_consistent": true,
+  "CSS_and_other_pages_unchanged": true,
+  "browser_layout": [
+    {
+      "viewport_width": 1280,
+      "document_scroll_width": 1265,
+      "overflowing_patent_rows": 0
+    },
+    {
+      "viewport_width": 390,
+      "document_scroll_width": 375,
+      "overflowing_patent_rows": 0
+    }
+  ],
+  "issues": []
+}

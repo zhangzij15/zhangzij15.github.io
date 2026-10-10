@@ -1,0 +1,2914 @@
+{
+  "checked_as_of": "2026-10-11",
+  "method": "Independent second audit using fresh patent documents, publisher-deposited Crossref records, official archives, and actual website-linked PDF headers. Historical snapshots were not treated as current website content.",
+  "summary": {
+    "patents_checked": 17,
+    "fresh_patent_document_front_pages": 17,
+    "grant_front_pages_checked": 9,
+    "CN7_grant_evidence": "B publication index and dated GR01 event; A front page checked; B front page unavailable",
+    "paper_chapter_and_other_entries_reviewed": 40,
+    "fresh_DOI_records_checked": 36,
+    "journal_and_conference_PDF_titles_matched": 35,
+    "new_patent_identifier_errors": 0,
+    "new_DOI_metadata_mismatches": 0,
+    "Chinese_ZL_patent_numbers_added": 8,
+    "grant_publication_labels_clarified": 10
+  },
+  "terminology_source": "https://www.cnipa.gov.cn/jact/front/mailpubdetail.do?sysid=12&transactId=520307",
+  "retained_uncertainties": [
+    "J9 final volume/issue/pages not independently confirmed; remains Early Access.",
+    "B2 exact publisher record, DOI and pages unverified; retained at user request.",
+    "O1/O2 exact archived demo programs unconfirmed; no invented proceedings DOI or pages.",
+    "CN1/CN8/CN10 historical grant not independently confirmed; absence of a B record is not proof of non-grant.",
+    "CN7 B front page unavailable; B index and GR01 event support historical grant."
+  ],
+  "patents": [
+    {
+      "id": "IP1",
+      "identifiers": {
+        "application_number": "PCT/CN2022/102301",
+        "publication_number": "WO2023071264A1",
+        "grant_publication_number": null
+      },
+      "dates": {
+        "filed": "2022-06-29",
+        "published_application": "2023-05-04",
+        "granted": null,
+        "checked_as_of": "2026-10-11"
+      },
+      "inventors": "K. Liu, L. Dai, Z. Zhang, S. Xu, and F. Yang",
+      "sources": [
+        {
+          "url": "https://patentimages.storage.googleapis.com/40/2d/1f/883a2946b647b1/WO2023071264A1.pdf",
+          "provenance": "formal WIPO/USPTO document hosted by a mirror",
+          "sha256": "7ebdab5607cda2e4f928b5c12cb6c5b0b0eddf65eda2cc30bd23250de865544b"
+        }
+      ],
+      "comparison": {
+        "identifiers": "match",
+        "dates": "match",
+        "inventors": "match"
+      },
+      "limitations": [
+        "Current legal force not determined."
+      ]
+    },
+    {
+      "id": "IP2",
+      "identifiers": {
+        "application_number": "PCT/CN2021/077059",
+        "publication_number": "WO2022174418A1",
+        "grant_publication_number": null
+      },
+      "dates": {
+        "filed": "2021-02-20",
+        "published_application": "2022-08-25",
+        "granted": null,
+        "checked_as_of": "2026-10-11"
+      },
+      "inventors": "L. Dai, K. Liu, Z. Zhang, R. Mackenzie, and M. Hao",
+      "sources": [
+        {
+          "url": "https://patentimages.storage.googleapis.com/75/e7/7e/537de977d7693f/WO2022174418A1.pdf",
+          "provenance": "formal WIPO/USPTO document hosted by a mirror",
+          "sha256": "34e0d8b5ecaed228203ae6c218bd51e323d643cea93a05b14c9093555098754e"
+        }
+      ],
+      "comparison": {
+        "identifiers": "match",
+        "dates": "match",
+        "inventors": "match"
+      },
+      "limitations": [
+        "Current legal force not determined."
+      ]
+    },
+    {
+      "id": "IP3",
+      "identifiers": {
+        "application_number": "PCT/CN2021/112812",
+        "publication_number": "WO2022262104A1",
+        "grant_publication_number": null
+      },
+      "dates": {
+        "filed": "2021-08-16",
+        "published_application": "2022-12-22",
+        "granted": null,
+        "checked_as_of": "2026-10-11"
+      },
+      "inventors": "K. Liu, L. Dai, and Z. Zhang",
+      "sources": [
+        {
+          "url": "https://patentimages.storage.googleapis.com/81/2a/c8/3e1e6b11d5a32f/WO2022262104A1.pdf",
+          "provenance": "formal WIPO/USPTO document hosted by a mirror",
+          "sha256": "d4af5e5fe54699b7acf8d5804bd80fe82f127ca54d1229db3c94de0f0af9c879"
+        }
+      ],
+      "comparison": {
+        "identifiers": "match",
+        "dates": "match",
+        "inventors": "match"
+      },
+      "limitations": [
+        "Current legal force not determined."
+      ]
+    },
+    {
+      "id": "IP4",
+      "identifiers": {
+        "application_number": "PCT/EP2022/051724",
+        "publication_number": "WO2022175035A1",
+        "grant_publication_number": null
+      },
+      "dates": {
+        "filed": "2022-01-26",
+        "published_application": "2022-08-25",
+        "granted": null,
+        "checked_as_of": "2026-10-11"
+      },
+      "inventors": "L. Dai, K. Liu, Z. Zhang, R. Mackenzie, and M. Hao",
+      "sources": [
+        {
+          "url": "https://patentimages.storage.googleapis.com/ef/15/d0/44b05ca7a4850e/WO2022175035A1.pdf",
+          "provenance": "formal WIPO/USPTO document hosted by a mirror",
+          "sha256": "9f2e95c8c6dfcabd89e747b4d65f6b898527843d44ea4734d9dd0a34c1b93e88"
+        }
+      ],
+      "comparison": {
+        "identifiers": "match",
+        "dates": "match",
+        "inventors": "match"
+      },
+      "limitations": [
+        "Current legal force not determined."
+      ]
+    },
+    {
+      "id": "IP5",
+      "identifiers": {
+        "application_number": "US18/277,668",
+        "publication_number": "US20240039592A1",
+        "grant_publication_number": "US12028139B2"
+      },
+      "dates": {
+        "filed": "2022-01-26",
+        "published_application": "2024-02-01",
+        "granted": "2024-07-02",
+        "checked_as_of": "2026-10-11",
+        "us_national_stage_entry": "2023-08-17"
+      },
+      "inventors": "L. Dai, K. Liu, Z. Zhang, R. Mackenzie, and M. Hao",
+      "sources": [
+        {
+          "url": "https://patentimages.storage.googleapis.com/8e/3c/9a/a4c2f46a81ebe3/US12028139.pdf",
+          "provenance": "formal WIPO/USPTO document hosted by a mirror",
+          "sha256": "d4a4680e18266db68dd11ba108353de5f4a6727e6e079cdc3a21c7d81e42f08c"
+        }
+      ],
+      "comparison": {
+        "identifiers": "match",
+        "dates": "match",
+        "inventors": "match"
+      },
+      "limitations": [
+        "Current legal force not determined."
+      ]
+    },
+    {
+      "id": "IP6",
+      "identifiers": {
+        "application_number": "EP22704879.0",
+        "publication_number": "EP4295492A1",
+        "grant_publication_number": "EP4295492B1"
+      },
+      "dates": {
+        "filed": "2022-01-26",
+        "published_application": "2023-12-27",
+        "granted": "2024-10-09",
+        "checked_as_of": "2026-10-11"
+      },
+      "inventors": "L. Dai, K. Liu, Z. Zhang, R. Mackenzie, and M. Hao",
+      "sources": [
+        {
+          "url": "https://data.epo.org/publication-server/rest/v1.0/publication-dates/20241009/patents/EP4295492NWB1/document.pdf",
+          "provenance": "official EPO Publication Server",
+          "sha256": "f5a702d23055b9763c528112ee2d6006ef83faaa27cc7a0ac4c43964aad26dcf"
+        }
+      ],
+      "comparison": {
+        "identifiers": "match",
+        "dates": "match",
+        "inventors": "match"
+      },
+      "limitations": [
+        "Current legal force not determined."
+      ]
+    },
+    {
+      "id": "CN1",
+      "identifiers": {
+        "application_number": "CN202110673957.2",
+        "publication_number": "CN113473499A",
+        "grant_publication_number": null
+      },
+      "dates": {
+        "filed": "2021-06-17",
+        "published_application": "2021-10-01",
+        "granted": null,
+        "checked_as_of": "2026-10-11"
+      },
+      "inventors": "K. Liu, L. Dai, and Z. Zhang",
+      "sources": [
+        {
+          "url": "https://patentimages.storage.googleapis.com/9e/2a/23/fd74cfcd23c925/CN113473499A.pdf",
+          "kind": "CNIPA original patent document hosted by Google mirror",
+          "document": "CN113473499A",
+          "retrieved_as_of": "2026-10-11",
+          "sha256": "05bd0fa67b7756896c0ba0bc45923e335ec0d057de6b5ef194fc031cfcc2efbe",
+          "evidence": "Page 1 independently downloaded and text-extracted in this audit: application number, filing date, publication identifier/date, and inventor order match the current website. For a B cover, field (65) explicitly identifies the same application’s earlier A document."
+        },
+        {
+          "url": "https://patents.google.com/patent/CN113473499A/zh",
+          "kind": "Google Patents public index",
+          "retrieved_as_of": "2026-10-11",
+          "evidence": "Fresh index includes this exact application and the listed publication events: CN113473499A"
+        }
+      ],
+      "comparison": {
+        "application_number": "match",
+        "A_document_number": "match",
+        "B_document_number": "not confirmed",
+        "filing_date": "match",
+        "A_publication_date": "match",
+        "grant_publication_date": "not confirmed",
+        "inventor_list_and_order": "match",
+        "new_errors": []
+      },
+      "limitations": [
+        "A publication verified. No matching B grant document was independently confirmed in the accessible sources; this does not prove non-grant or pending legal status. Preserve published application display and unverified grant status."
+      ]
+    },
+    {
+      "id": "CN2",
+      "identifiers": {
+        "application_number": "CN202111271506.2",
+        "publication_number": "CN114040478A",
+        "grant_publication_number": "CN114040478B",
+        "patent_number": "ZL202111271506.2"
+      },
+      "dates": {
+        "filed": "2021-10-29",
+        "published_application": "2022-02-11",
+        "granted": "2024-12-31",
+        "checked_as_of": "2026-10-11"
+      },
+      "inventors": "K. Liu, L. Dai, Z. Zhang, S. Xu, and F. Yang",
+      "sources": [
+        {
+          "url": "https://patentimages.storage.googleapis.com/f8/84/76/b33cf919244cc1/CN114040478B.pdf",
+          "kind": "CNIPA original patent document hosted by Google mirror",
+          "document": "CN114040478B",
+          "retrieved_as_of": "2026-10-11",
+          "sha256": "dd06d5c4d183a29931f7179f66b5daacd04c558b89cecc825442750044fecdda",
+          "evidence": "Page 1 independently downloaded and text-extracted in this audit: application number, filing date, publication identifier/date, and inventor order match the current website. For a B cover, field (65) explicitly identifies the same application’s earlier A document."
+        },
+        {
+          "url": "https://patents.google.com/patent/CN114040478B/zh",
+          "kind": "Google Patents public index",
+          "retrieved_as_of": "2026-10-11",
+          "evidence": "Fresh index includes this exact application and the listed publication events: CN114040478A, CN114040478B"
+        }
+      ],
+      "comparison": {
+        "application_number": "match",
+        "A_document_number": "match",
+        "B_document_number": "match",
+        "filing_date": "match",
+        "A_publication_date": "match",
+        "grant_publication_date": "match",
+        "inventor_list_and_order": "match",
+        "new_errors": []
+      },
+      "limitations": []
+    },
+    {
+      "id": "CN3",
+      "identifiers": {
+        "application_number": "CN202110138213.0",
+        "publication_number": "CN112887906A",
+        "grant_publication_number": "CN112887906B",
+        "patent_number": "ZL202110138213.0"
+      },
+      "dates": {
+        "filed": "2021-02-01",
+        "published_application": "2021-06-01",
+        "granted": "2022-03-11",
+        "checked_as_of": "2026-10-11"
+      },
+      "inventors": "Y. Shen, H. Zhao, and Z. Zhang",
+      "sources": [
+        {
+          "url": "https://patentimages.storage.googleapis.com/6f/1c/8f/f8cf09824fb487/CN112887906B.pdf",
+          "kind": "CNIPA original patent document hosted by Google mirror",
+          "document": "CN112887906B",
+          "retrieved_as_of": "2026-10-11",
+          "sha256": "dbff5dd15a6bb41169d4fe1839c7d2d32240e6ac737858008ca40d0079240317",
+          "evidence": "Page 1 independently downloaded and text-extracted in this audit: application number, filing date, publication identifier/date, and inventor order match the current website. For a B cover, field (65) explicitly identifies the same application’s earlier A document."
+        },
+        {
+          "url": "https://patents.google.com/patent/CN112887906B/zh",
+          "kind": "Google Patents public index",
+          "retrieved_as_of": "2026-10-11",
+          "evidence": "Fresh index includes this exact application and the listed publication events: CN112887906A, CN112887906B"
+        }
+      ],
+      "comparison": {
+        "application_number": "match",
+        "A_document_number": "match",
+        "B_document_number": "match",
+        "filing_date": "match",
+        "A_publication_date": "match",
+        "grant_publication_date": "match",
+        "inventor_list_and_order": "match",
+        "new_errors": []
+      },
+      "limitations": []
+    },
+    {
+      "id": "CN4",
+      "identifiers": {
+        "application_number": "CN201810258348.9",
+        "publication_number": "CN108469600A",
+        "grant_publication_number": "CN108469600B",
+        "patent_number": "ZL201810258348.9"
+      },
+      "dates": {
+        "filed": "2018-03-27",
+        "published_application": "2018-08-31",
+        "granted": "2020-06-30",
+        "checked_as_of": "2026-10-11"
+      },
+      "inventors": "Y. Shen, Z. Zhang, X. Li, C. Xu, F. Ge, and Q. Zhi",
+      "sources": [
+        {
+          "url": "https://patentimages.storage.googleapis.com/40/60/bf/51b499cdff9706/CN108469600B.pdf",
+          "kind": "CNIPA original patent document hosted by Google mirror",
+          "document": "CN108469600B",
+          "retrieved_as_of": "2026-10-11",
+          "sha256": "ba8e1f4061b1ea6c3c5aca4b048428b6ffe7be7489d907c366e4700b10ae1e52",
+          "evidence": "Page 1 independently downloaded and text-extracted in this audit: application number, filing date, publication identifier/date, and inventor order match the current website. For a B cover, field (65) explicitly identifies the same application’s earlier A document."
+        },
+        {
+          "url": "https://patents.google.com/patent/CN108469600B/zh",
+          "kind": "Google Patents public index",
+          "retrieved_as_of": "2026-10-11",
+          "evidence": "Fresh index includes this exact application and the listed publication events: CN108469600A, CN108469600B"
+        }
+      ],
+      "comparison": {
+        "application_number": "match",
+        "A_document_number": "match",
+        "B_document_number": "match",
+        "filing_date": "match",
+        "A_publication_date": "match",
+        "grant_publication_date": "match",
+        "inventor_list_and_order": "match",
+        "new_errors": []
+      },
+      "limitations": []
+    },
+    {
+      "id": "CN5",
+      "identifiers": {
+        "application_number": "CN202010052977.3",
+        "publication_number": "CN111262755A",
+        "grant_publication_number": "CN111262755B",
+        "patent_number": "ZL202010052977.3"
+      },
+      "dates": {
+        "filed": "2020-01-17",
+        "published_application": "2020-06-09",
+        "granted": "2021-11-09",
+        "checked_as_of": "2026-10-11"
+      },
+      "inventors": "Y. Shen, Z. Zhang, H. Zhao, and J. Wang",
+      "sources": [
+        {
+          "url": "https://patentimages.storage.googleapis.com/14/01/20/f2f2ab63dcb4fd/CN111262755B.pdf",
+          "kind": "CNIPA original patent document hosted by Google mirror",
+          "document": "CN111262755B",
+          "retrieved_as_of": "2026-10-11",
+          "sha256": "98aa13471286be9fa833b65876f42cefb9e1327972eef117bd7e580fcf1f7b1b",
+          "evidence": "Page 1 independently downloaded and text-extracted in this audit: application number, filing date, publication identifier/date, and inventor order match the current website. For a B cover, field (65) explicitly identifies the same application’s earlier A document."
+        },
+        {
+          "url": "https://patents.google.com/patent/CN111262755B/zh",
+          "kind": "Google Patents public index",
+          "retrieved_as_of": "2026-10-11",
+          "evidence": "Fresh index includes this exact application and the listed publication events: CN111262755A, CN111262755B"
+        }
+      ],
+      "comparison": {
+        "application_number": "match",
+        "A_document_number": "match",
+        "B_document_number": "match",
+        "filing_date": "match",
+        "A_publication_date": "match",
+        "grant_publication_date": "match",
+        "inventor_list_and_order": "match",
+        "new_errors": []
+      },
+      "limitations": []
+    },
+    {
+      "id": "CN6",
+      "identifiers": {
+        "application_number": "CN201810433350.5",
+        "publication_number": "CN108664024A",
+        "grant_publication_number": "CN108664024B",
+        "patent_number": "ZL201810433350.5"
+      },
+      "dates": {
+        "filed": "2018-05-08",
+        "published_application": "2018-10-16",
+        "granted": "2020-09-25",
+        "checked_as_of": "2026-10-11"
+      },
+      "inventors": "Y. Shen, X. Li, C. Xu, Z. Zhang, F. Ge, and Q. Zhi",
+      "sources": [
+        {
+          "url": "https://patentimages.storage.googleapis.com/15/b1/6b/69e0053367c04d/CN108664024B.pdf",
+          "kind": "CNIPA original patent document hosted by Google mirror",
+          "document": "CN108664024B",
+          "retrieved_as_of": "2026-10-11",
+          "sha256": "8eee1c5f341bbd1be4830107e8e65d9bc3f6639342f2080b6a591b6ba26f9762",
+          "evidence": "Page 1 independently downloaded and text-extracted in this audit: application number, filing date, publication identifier/date, and inventor order match the current website. For a B cover, field (65) explicitly identifies the same application’s earlier A document."
+        },
+        {
+          "url": "https://patents.google.com/patent/CN108664024B/zh",
+          "kind": "Google Patents public index",
+          "retrieved_as_of": "2026-10-11",
+          "evidence": "Fresh index includes this exact application and the listed publication events: CN108664024A, CN108664024B"
+        }
+      ],
+      "comparison": {
+        "application_number": "match",
+        "A_document_number": "match",
+        "B_document_number": "match",
+        "filing_date": "match",
+        "A_publication_date": "match",
+        "grant_publication_date": "match",
+        "inventor_list_and_order": "match",
+        "new_errors": []
+      },
+      "limitations": []
+    },
+    {
+      "id": "CN7",
+      "identifiers": {
+        "application_number": "CN202210112147.4",
+        "publication_number": "CN116566446A",
+        "grant_publication_number": "CN116566446B",
+        "patent_number": "ZL202210112147.4"
+      },
+      "dates": {
+        "filed": "2022-01-29",
+        "published_application": "2023-08-08",
+        "granted": "2025-09-05",
+        "checked_as_of": "2026-10-11"
+      },
+      "inventors": "L. Dai, M. Cui, Z. Zhang, S. Suo, H. Qin, and X. Su",
+      "sources": [
+        {
+          "url": "https://patentimages.storage.googleapis.com/17/08/09/088366c907dbbc/CN116566446A.pdf",
+          "kind": "CNIPA original patent document hosted by Google mirror",
+          "document": "CN116566446A",
+          "retrieved_as_of": "2026-10-11",
+          "sha256": "222142d040e7bb245c7d114f039be58d6dcc239949512e696f9bad4528e9b01a",
+          "evidence": "A cover page 1 confirms application 202210112147.4, filing date 2022-01-29, publication CN116566446A on 2023-08-08, and six inventors. B document/index records link CN116566446B to the same application; fresh index GR01 and publication event are dated 2025-09-05."
+        },
+        {
+          "url": "https://patents.google.com/patent/CN116566446B/zh",
+          "kind": "Google Patents public index",
+          "retrieved_as_of": "2026-10-11",
+          "evidence": "Fresh index includes this exact application and the listed publication events: CN116566446A, CN116566446B"
+        }
+      ],
+      "comparison": {
+        "application_number": "match",
+        "A_document_number": "match",
+        "B_document_number": "match via index; original B cover unavailable",
+        "filing_date": "match",
+        "A_publication_date": "match",
+        "grant_publication_date": "match via index",
+        "inventor_list_and_order": "match",
+        "new_errors": []
+      },
+      "limitations": [
+        "The original B PDF could not be obtained. Grant document number and historical grant date are supported by the fresh B index and GR01 event, with primary A-cover identity confirmation; do not call the grant fields directly primary-cover-verified."
+      ]
+    },
+    {
+      "id": "CN8",
+      "identifiers": {
+        "application_number": "CN202211578453.3",
+        "publication_number": "CN118174757A",
+        "grant_publication_number": null
+      },
+      "dates": {
+        "filed": "2022-12-09",
+        "published_application": "2024-06-11",
+        "granted": null,
+        "checked_as_of": "2026-10-11"
+      },
+      "inventors": "L. Dai, Z. Zhang, S. Suo, X. Yang, L. Song, and X. Su",
+      "sources": [
+        {
+          "url": "https://patentimages.storage.googleapis.com/91/6a/2c/147cefa7d8d672/CN118174757A.pdf",
+          "kind": "CNIPA original patent document hosted by Google mirror",
+          "document": "CN118174757A",
+          "retrieved_as_of": "2026-10-11",
+          "sha256": "56f633d6c5d08b8d67176bd447c79a280cde86b3bac391483bb3182355b39b12",
+          "evidence": "Page 1 independently downloaded and text-extracted in this audit: application number, filing date, publication identifier/date, and inventor order match the current website. For a B cover, field (65) explicitly identifies the same application’s earlier A document."
+        },
+        {
+          "url": "https://patents.google.com/patent/CN118174757A/zh",
+          "kind": "Google Patents public index",
+          "retrieved_as_of": "2026-10-11",
+          "evidence": "Fresh index includes this exact application and the listed publication events: CN118174757A"
+        }
+      ],
+      "comparison": {
+        "application_number": "match",
+        "A_document_number": "match",
+        "B_document_number": "not confirmed",
+        "filing_date": "match",
+        "A_publication_date": "match",
+        "grant_publication_date": "not confirmed",
+        "inventor_list_and_order": "match",
+        "new_errors": []
+      },
+      "limitations": [
+        "A publication verified. No matching B grant document was independently confirmed in the accessible sources; this does not prove non-grant or pending legal status. Preserve published application display and unverified grant status."
+      ]
+    },
+    {
+      "id": "CN9",
+      "identifiers": {
+        "application_number": "CN202310539494.X",
+        "publication_number": "CN116260501A",
+        "grant_publication_number": "CN116260501B",
+        "patent_number": "ZL202310539494.X"
+      },
+      "dates": {
+        "filed": "2023-05-15",
+        "published_application": "2023-06-13",
+        "granted": "2023-07-14",
+        "checked_as_of": "2026-10-11"
+      },
+      "inventors": "L. Dai, J. Zhang, and Z. Zhang",
+      "sources": [
+        {
+          "url": "https://patentimages.storage.googleapis.com/d9/f7/06/10182f8a06a3fb/CN116260501B.pdf",
+          "kind": "CNIPA original patent document hosted by Google mirror",
+          "document": "CN116260501B",
+          "retrieved_as_of": "2026-10-11",
+          "sha256": "514fbfcbaf2869f65ba3983108065afe11811e783e233a7d912802f7b15705b0",
+          "evidence": "Page 1 independently downloaded and text-extracted in this audit: application number, filing date, publication identifier/date, and inventor order match the current website. For a B cover, field (65) explicitly identifies the same application’s earlier A document."
+        },
+        {
+          "url": "https://patents.google.com/patent/CN116260501B/zh",
+          "kind": "Google Patents public index",
+          "retrieved_as_of": "2026-10-11",
+          "evidence": "Fresh index includes this exact application and the listed publication events: CN116260501A, CN116260501B"
+        }
+      ],
+      "comparison": {
+        "application_number": "match",
+        "A_document_number": "match",
+        "B_document_number": "match",
+        "filing_date": "match",
+        "A_publication_date": "match",
+        "grant_publication_date": "match",
+        "inventor_list_and_order": "match",
+        "new_errors": []
+      },
+      "limitations": [
+        "Historic grant is verified; the index has a later fee-related termination event. This audit makes no present legal-force conclusion."
+      ]
+    },
+    {
+      "id": "CN10",
+      "identifiers": {
+        "application_number": "CN202410254042.1",
+        "publication_number": "CN118368017A",
+        "grant_publication_number": null
+      },
+      "dates": {
+        "filed": "2024-03-06",
+        "published_application": "2024-07-19",
+        "granted": null,
+        "checked_as_of": "2026-10-11"
+      },
+      "inventors": "Y. Shen, H. Zhao, H. Gao, and Z. Zhang",
+      "sources": [
+        {
+          "url": "https://patentimages.storage.googleapis.com/66/f0/11/467a2d643a000a/CN118368017A.pdf",
+          "kind": "CNIPA original patent document hosted by Google mirror",
+          "document": "CN118368017A",
+          "retrieved_as_of": "2026-10-11",
+          "sha256": "fe7deca02b208204848bdc8a5dc8ff230ac6870722e63ed1acd172d326631b74",
+          "evidence": "Page 1 independently downloaded and text-extracted in this audit: application number, filing date, publication identifier/date, and inventor order match the current website. For a B cover, field (65) explicitly identifies the same application’s earlier A document."
+        },
+        {
+          "url": "https://patents.google.com/patent/CN118368017A/zh",
+          "kind": "Google Patents public index",
+          "retrieved_as_of": "2026-10-11",
+          "evidence": "Fresh index includes this exact application and the listed publication events: CN118368017A"
+        }
+      ],
+      "comparison": {
+        "application_number": "match",
+        "A_document_number": "match",
+        "B_document_number": "not confirmed",
+        "filing_date": "match",
+        "A_publication_date": "match",
+        "grant_publication_date": "not confirmed",
+        "inventor_list_and_order": "match",
+        "new_errors": []
+      },
+      "limitations": [
+        "A publication verified. No matching B grant document was independently confirmed in the accessible sources; this does not prove non-grant or pending legal status. Preserve published application display and unverified grant status."
+      ]
+    },
+    {
+      "id": "CN11",
+      "identifiers": {
+        "application_number": "CN202280015597.X",
+        "publication_number": "CN116868518A",
+        "grant_publication_number": "CN116868518B",
+        "patent_number": "ZL202280015597.X"
+      },
+      "dates": {
+        "filed": "2022-01-26",
+        "published_application": "2023-10-10",
+        "granted": "2024-09-27",
+        "checked_as_of": "2026-10-11"
+      },
+      "inventors": "L. Dai, K. Liu, Z. Zhang, R. Mackenzie, and M. Hao",
+      "sources": [
+        {
+          "url": "https://patentimages.storage.googleapis.com/2e/ed/fc/1c82dd25de032a/CN116868518B.pdf",
+          "kind": "CNIPA original patent document hosted by Google mirror",
+          "document": "CN116868518B",
+          "retrieved_as_of": "2026-10-11",
+          "sha256": "cf0aa4a5c553824496f11854b488482a65f1f147d614e3a384c00cf347773b7d",
+          "evidence": "Page 1 independently downloaded and text-extracted in this audit: application number, filing date, publication identifier/date, and inventor order match the current website. For a B cover, field (65) explicitly identifies the same application’s earlier A document."
+        },
+        {
+          "url": "https://patents.google.com/patent/CN116868518B/zh",
+          "kind": "Google Patents public index",
+          "retrieved_as_of": "2026-10-11",
+          "evidence": "Fresh index includes this exact application and the listed publication events: CN116868518A, CN116868518B"
+        }
+      ],
+      "comparison": {
+        "application_number": "match",
+        "A_document_number": "match",
+        "B_document_number": "match",
+        "filing_date": "match",
+        "A_publication_date": "match",
+        "grant_publication_date": "match",
+        "inventor_list_and_order": "match",
+        "new_errors": []
+      },
+      "limitations": []
+    }
+  ],
+  "papers": [
+    {
+      "id": "B1",
+      "observed": {
+        "title": "IRS Architecture and Hardware Design",
+        "venue": "Intelligent Surfaces Empowered 6G Wireless Network",
+        "volume": null,
+        "issue": null,
+        "pages": "15-36",
+        "doi": "10.1002/9781119913122.ch2"
+      },
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Yuhao",
+          "family": "Chen"
+        },
+        {
+          "given": "Qiumo",
+          "family": "Yu"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              12,
+              27
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2023,
+              12
+            ]
+          ]
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1002%2F9781119913122.ch2",
+        "https://doi.org/10.1002/9781119913122.ch2",
+        "https://onlinelibrary.wiley.com/doi/10.1002/9781119913122.ch2",
+        "https://www.wiley-vch.de/en/areas-interest/engineering/intelligent-surfaces-empowered-6g-wireless-network-978-1-119-91309-2"
+      ],
+      "new_differences": [],
+      "independent_check_notes": "Wiley Online Library independently confirms Chapter 2, four authors and 1 Dec. 2023 first online publication. Wiley-VCH contents confirms start p.15 and next chapter p.37; citation pp.15–36 is consistent.",
+      "limitations": []
+    },
+    {
+      "id": "J1",
+      "observed": {
+        "title": "Active RIS vs. Passive RIS: Which Will Prevail in 6G?",
+        "venue": "IEEE Transactions on Communications",
+        "volume": "71",
+        "issue": "3",
+        "pages": "1707-1725",
+        "doi": "10.1109/tcomm.2022.3231893"
+      },
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        },
+        {
+          "given": "Xibi",
+          "family": "Chen"
+        },
+        {
+          "given": "Changhao",
+          "family": "Liu"
+        },
+        {
+          "given": "Fan",
+          "family": "Yang"
+        },
+        {
+          "given": "Robert",
+          "family": "Schober"
+        },
+        {
+          "given": "H. Vincent",
+          "family": "Poor"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              3
+            ]
+          ]
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Ftcomm.2022.3231893",
+        "https://doi.org/10.1109/tcomm.2022.3231893"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Journal_paper/TCOM.pdf",
+        "pdf_pages": 19,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "No new bibliographic mismatch found.",
+      "limitations": []
+    },
+    {
+      "id": "J2",
+      "observed": {
+        "title": "A Joint Precoding Framework for Wideband Reconfigurable Intelligent Surface-Aided Cell-Free Network",
+        "venue": "IEEE Transactions on Signal Processing",
+        "volume": "69",
+        "issue": null,
+        "pages": "4085-4101",
+        "doi": "10.1109/tsp.2021.3088755"
+      },
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Ftsp.2021.3088755",
+        "https://doi.org/10.1109/tsp.2021.3088755"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Journal_paper/TSP.pdf",
+        "pdf_pages": 17,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "Annual continuously paginated volume: 69, pp.4085–4101, 2021. Do not manufacture an issue number.",
+      "limitations": []
+    },
+    {
+      "id": "J3",
+      "observed": {
+        "title": "Pattern-Division Multiplexing for Multi-User Continuous-Aperture MIMO",
+        "venue": "IEEE Journal on Selected Areas in Communications",
+        "volume": "41",
+        "issue": "8",
+        "pages": "2350-2366",
+        "doi": "10.1109/jsac.2023.3288244"
+      },
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              8
+            ]
+          ]
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Fjsac.2023.3288244",
+        "https://doi.org/10.1109/jsac.2023.3288244"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Journal_paper/JSAC.pdf",
+        "pdf_pages": 17,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "No new bibliographic mismatch found.",
+      "limitations": []
+    },
+    {
+      "id": "J4",
+      "observed": {
+        "title": "Signal-Multiplexing Ranging for Network Localization",
+        "venue": "IEEE Transactions on Wireless Communications",
+        "volume": "21",
+        "issue": "3",
+        "pages": "1694-1709",
+        "doi": "10.1109/twc.2021.3106172"
+      },
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Hanying",
+          "family": "Zhao"
+        },
+        {
+          "given": "Jian",
+          "family": "Wang"
+        },
+        {
+          "given": "Yuan",
+          "family": "Shen"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              3
+            ]
+          ]
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Ftwc.2021.3106172",
+        "https://doi.org/10.1109/twc.2021.3106172"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Journal_paper/TWC.pdf",
+        "pdf_pages": 16,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "No new bibliographic mismatch found.",
+      "limitations": []
+    },
+    {
+      "id": "J5",
+      "observed": {
+        "title": "Reconfigurable Intelligent Surfaces for 6G: Nine Fundamental Issues and One Critical Problem",
+        "venue": "Tsinghua Science and Technology",
+        "volume": "28",
+        "issue": "5",
+        "pages": "929-939",
+        "doi": "10.26599/tst.2023.9010001"
+      },
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              10
+            ]
+          ]
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.26599%2Ftst.2023.9010001",
+        "https://doi.org/10.26599/tst.2023.9010001"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Journal_paper/TST.pdf",
+        "pdf_pages": 11,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "No new bibliographic mismatch found.",
+      "limitations": []
+    },
+    {
+      "id": "J6",
+      "observed": {
+        "title": "Successive Bayesian Reconstructor for Channel Estimation in Fluid Antenna Systems",
+        "venue": "IEEE Transactions on Wireless Communications",
+        "volume": "24",
+        "issue": "3",
+        "pages": "1992-2006",
+        "doi": "10.1109/twc.2024.3515135"
+      },
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Jieao",
+          "family": "Zhu"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        },
+        {
+          "given": "Robert W.",
+          "family": "Heath"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              3
+            ]
+          ]
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Ftwc.2024.3515135",
+        "https://doi.org/10.1109/twc.2024.3515135"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Journal_paper/TWC_FAS.pdf",
+        "pdf_pages": 15,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "No new bibliographic mismatch found.",
+      "limitations": []
+    },
+    {
+      "id": "J7",
+      "observed": {
+        "title": "Observation Matrix Design for Densifying MIMO Channel Estimation via 2D Ice Filling",
+        "venue": "IEEE Transactions on Signal Processing",
+        "volume": "74",
+        "issue": null,
+        "pages": "798-814",
+        "doi": "10.1109/tsp.2026.3657342"
+      },
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Mingyao",
+          "family": "Cui"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Ftsp.2026.3657342",
+        "https://doi.org/10.1109/tsp.2026.3657342"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Journal_paper/TSP_2DIF.pdf",
+        "pdf_pages": 17,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "Annual continuously paginated volume: 74, pp.798–814, 2026. Do not manufacture an issue number.",
+      "limitations": []
+    },
+    {
+      "id": "J8",
+      "observed": {
+        "title": "Wavenumber-Domain Signal Processing for Holographic MIMO: Foundations, Methods, and Future Directions",
+        "venue": "IEEE Communications Standards Magazine",
+        "volume": "10",
+        "issue": "2",
+        "pages": "127-133",
+        "doi": "10.1109/mcomstd.2026.3663934"
+      },
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              6
+            ]
+          ]
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Fmcomstd.2026.3663934",
+        "https://doi.org/10.1109/mcomstd.2026.3663934"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Journal_paper/STDCOMMAG.pdf",
+        "pdf_pages": 7,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "No new bibliographic mismatch found.",
+      "limitations": []
+    },
+    {
+      "id": "J9",
+      "observed": {
+        "title": "Enhancing Channel Estimation in RIS-aided Systems via Observation Matrix Design",
+        "venue": "IEEE Transactions on Vehicular Technology",
+        "volume": null,
+        "issue": null,
+        "pages": "1-6",
+        "doi": "10.1109/tvt.2026.3697200"
+      },
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Mingyao",
+          "family": "Cui"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Ftvt.2026.3697200",
+        "https://doi.org/10.1109/tvt.2026.3697200"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Journal_paper/TVT.pdf",
+        "pdf_pages": 6,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "Current Crossref record gives DOI, two authors, venue, 2026 and temporary page range 1–6; volume and issue are absent. Direct IEEE Xplore lookup could not be read due to verification/error response. No final issue/page allocation independently verified: retain Early Access instead of guessing.",
+      "limitations": []
+    },
+    {
+      "id": "J10",
+      "observed": {
+        "title": "Ice-Filling: Near-Optimal Channel Estimation for Dense Array Systems",
+        "venue": "IEEE Transactions on Wireless Communications",
+        "volume": "24",
+        "issue": "10",
+        "pages": "8551-8564",
+        "doi": "10.1109/twc.2025.3567797"
+      },
+      "authors": [
+        {
+          "given": "Mingyao",
+          "family": "Cui"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        },
+        {
+          "given": "Kaibin",
+          "family": "Huang"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              10
+            ]
+          ]
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Ftwc.2025.3567797",
+        "https://doi.org/10.1109/twc.2025.3567797"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Journal_paper/TWC_IF.pdf",
+        "pdf_pages": 14,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "No new bibliographic mismatch found.",
+      "limitations": []
+    },
+    {
+      "id": "J11",
+      "observed": {
+        "title": "Wideband Active RISs: Architecture, Modeling, and Beamforming Design",
+        "venue": "IEEE Communications Letters",
+        "volume": "27",
+        "issue": "7",
+        "pages": "1899-1903",
+        "doi": "10.1109/lcomm.2023.3274433"
+      },
+      "authors": [
+        {
+          "given": "Jida",
+          "family": "Zhang"
+        },
+        {
+          "given": "Zhiyi",
+          "family": "Li"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              7
+            ]
+          ]
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Flcomm.2023.3274433",
+        "https://doi.org/10.1109/lcomm.2023.3274433"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Journal_paper/CL_z.pdf",
+        "pdf_pages": 5,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "No new bibliographic mismatch found.",
+      "limitations": []
+    },
+    {
+      "id": "J12",
+      "observed": {
+        "title": "Compact User-Specific Reconfigurable Intelligent Surfaces for Uplink Transmission",
+        "venue": "IEEE Transactions on Communications",
+        "volume": "70",
+        "issue": "1",
+        "pages": "680-692",
+        "doi": "10.1109/tcomm.2021.3124953"
+      },
+      "authors": [
+        {
+          "given": "Kunzan",
+          "family": "Liu"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        },
+        {
+          "given": "Lajos",
+          "family": "Hanzo"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              1
+            ]
+          ]
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Ftcomm.2021.3124953",
+        "https://doi.org/10.1109/tcomm.2021.3124953"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Journal_paper/TCOM_k.pdf",
+        "pdf_pages": 13,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "No new bibliographic mismatch found.",
+      "limitations": []
+    },
+    {
+      "id": "J13",
+      "observed": {
+        "title": "Active Reconfigurable Intelligent Surface: Fully-Connected or Sub-Connected?",
+        "venue": "IEEE Communications Letters",
+        "volume": "26",
+        "issue": "1",
+        "pages": "167-171",
+        "doi": "10.1109/lcomm.2021.3119696"
+      },
+      "authors": [
+        {
+          "given": "Kunzan",
+          "family": "Liu"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        },
+        {
+          "given": "Shenheng",
+          "family": "Xu"
+        },
+        {
+          "given": "Fan",
+          "family": "Yang"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              1
+            ]
+          ]
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Flcomm.2021.3119696",
+        "https://doi.org/10.1109/lcomm.2021.3119696"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Journal_paper/CL_k.pdf",
+        "pdf_pages": 5,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "No new bibliographic mismatch found.",
+      "limitations": []
+    },
+    {
+      "id": "J14",
+      "observed": {
+        "title": "A Signal-Multiplexing Ranging Scheme for Integrated Localization and Sensing",
+        "venue": "IEEE Wireless Communications Letters",
+        "volume": "11",
+        "issue": "8",
+        "pages": "1609-1613",
+        "doi": "10.1109/lwc.2022.3168433"
+      },
+      "authors": [
+        {
+          "given": "Hanying",
+          "family": "Zhao"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Jian",
+          "family": "Wang"
+        },
+        {
+          "given": "Zexu",
+          "family": "Zhang"
+        },
+        {
+          "given": "Yuan",
+          "family": "Shen"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              8
+            ]
+          ]
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Flwc.2022.3168433",
+        "https://doi.org/10.1109/lwc.2022.3168433",
+        "https://www.comsoc.org/system/files/2022-08/Publications_Contents_Digest_2022_Aug.pdf"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Journal_paper/WCL_z.pdf",
+        "pdf_pages": 5,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "The second and fourth authors are different people: Zijian Zhang and Zexu Zhang. IEEE ComSoc Aug.2022 official digest PDF p.25 and formal article first page corroborate. Two Z. Zhang initials are correct; website bolds only Zijian.",
+      "limitations": []
+    },
+    {
+      "id": "J15",
+      "observed": {
+        "title": "Enhancing Timeliness in Asynchronous Vehicle Localization: A Signal-Multiplexing Network Measuring Approach",
+        "venue": "IEEE Transactions on Intelligent Transportation Systems",
+        "volume": "25",
+        "issue": "10",
+        "pages": "13729-13743",
+        "doi": "10.1109/tits.2024.3404784"
+      },
+      "authors": [
+        {
+          "given": "Hanying",
+          "family": "Zhao"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Lingwei",
+          "family": "Xu"
+        },
+        {
+          "given": "Yu",
+          "family": "Wang"
+        },
+        {
+          "given": "Yuan",
+          "family": "Shen"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              10
+            ]
+          ]
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Ftits.2024.3404784",
+        "https://doi.org/10.1109/tits.2024.3404784"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Journal_paper/TITS_z.pdf",
+        "pdf_pages": 15,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "No new bibliographic mismatch found.",
+      "limitations": []
+    },
+    {
+      "id": "J16",
+      "observed": {
+        "title": "Joint Beamforming Design for RIS-Assisted Cell-Free Network with Multi-Hop Transmissions",
+        "venue": "Tsinghua Science and Technology",
+        "volume": "28",
+        "issue": "6",
+        "pages": "1115-1127",
+        "doi": "10.26599/tst.2023.9010019"
+      },
+      "authors": [
+        {
+          "given": "Decai",
+          "family": "Shen"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              12
+            ]
+          ]
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.26599%2Ftst.2023.9010019",
+        "https://doi.org/10.26599/tst.2023.9010019"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Journal_paper/TST_s.pdf",
+        "pdf_pages": 13,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "No new bibliographic mismatch found.",
+      "limitations": []
+    },
+    {
+      "id": "J17",
+      "observed": {
+        "title": "Mutual Information for Electromagnetic Information Theory Based on Random Fields",
+        "venue": "IEEE Transactions on Communications",
+        "volume": "71",
+        "issue": "4",
+        "pages": "1982-1996",
+        "doi": "10.1109/tcomm.2023.3247725"
+      },
+      "authors": [
+        {
+          "given": "Zhongzhichao",
+          "family": "Wan"
+        },
+        {
+          "given": "Jieao",
+          "family": "Zhu"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        },
+        {
+          "given": "Chan-Byoung",
+          "family": "Chae"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              4
+            ]
+          ]
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Ftcomm.2023.3247725",
+        "https://doi.org/10.1109/tcomm.2023.3247725"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Journal_paper/TCOM_wan.pdf",
+        "pdf_pages": 15,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "No new bibliographic mismatch found.",
+      "limitations": []
+    },
+    {
+      "id": "J18",
+      "observed": {
+        "title": "Hierarchical Beam Training for Extremely Large-Scale MIMO: From Far-Field to Near-Field",
+        "venue": "IEEE Transactions on Communications",
+        "volume": "72",
+        "issue": "4",
+        "pages": "2247-2259",
+        "doi": "10.1109/tcomm.2023.3344600"
+      },
+      "authors": [
+        {
+          "given": "Yu",
+          "family": "Lu"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              4
+            ]
+          ]
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Ftcomm.2023.3344600",
+        "https://doi.org/10.1109/tcomm.2023.3344600"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Journal_paper/TCOM_l.pdf",
+        "pdf_pages": 13,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "No new bibliographic mismatch found.",
+      "limitations": []
+    },
+    {
+      "id": "J19",
+      "observed": {
+        "title": "Near-Optimal Near-Field Beam Training: From Searching to Inference",
+        "venue": "IEEE Transactions on Wireless Communications",
+        "volume": "24",
+        "issue": "11",
+        "pages": "9173-9185",
+        "doi": "10.1109/twc.2025.3571488"
+      },
+      "authors": [
+        {
+          "given": "Zhuo",
+          "family": "Xu"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              11
+            ]
+          ]
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Ftwc.2025.3571488",
+        "https://doi.org/10.1109/twc.2025.3571488"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Journal_paper/TWC_NFBT.pdf",
+        "pdf_pages": 13,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "No new bibliographic mismatch found.",
+      "limitations": []
+    },
+    {
+      "id": "J20",
+      "observed": {
+        "title": "High-Efficiency Urban 3D Radio Map Estimation Based on Sparse Measurements",
+        "venue": "IEEE Transactions on Vehicular Technology",
+        "volume": "74",
+        "issue": "10",
+        "pages": "16488-16493",
+        "doi": "10.1109/tvt.2025.3573595"
+      },
+      "authors": [
+        {
+          "given": "Xinwei",
+          "family": "Chen"
+        },
+        {
+          "given": "Xiaofeng",
+          "family": "Zhong"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        },
+        {
+          "given": "Shidong",
+          "family": "Zhou"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              10
+            ]
+          ]
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Ftvt.2025.3573595",
+        "https://doi.org/10.1109/tvt.2025.3573595"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Journal_paper/TVT_MAP.pdf",
+        "pdf_pages": 6,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "No new bibliographic mismatch found.",
+      "limitations": []
+    },
+    {
+      "id": "J21",
+      "observed": {
+        "title": "Rydberg Atomic Receivers for Net-Zero 6G Wireless Communication and Sensing: Progress, Experiments, and Sustainable Prospects",
+        "venue": "IEEE Communications Magazine",
+        "volume": "64",
+        "issue": "8",
+        "pages": "52-59",
+        "doi": "10.1109/mcom.001.2500610"
+      },
+      "authors": [
+        {
+          "given": "Yi",
+          "family": "Tao"
+        },
+        {
+          "given": "Zhen",
+          "family": "Gao"
+        },
+        {
+          "given": "Zhiao",
+          "family": "Zhu"
+        },
+        {
+          "given": "De",
+          "family": "Mi"
+        },
+        {
+          "given": "Zhonghuai",
+          "family": "Wu"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Fusang",
+          "family": "Zhang"
+        },
+        {
+          "given": "Dezhi",
+          "family": "Zheng"
+        },
+        {
+          "given": "Sheng",
+          "family": "Chen"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Fmcom.001.2500610",
+        "https://doi.org/10.1109/mcom.001.2500610",
+        "https://www.comsoc.org/system/files/2026-09/publications_contents_digest_2026-aug.pdf"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Journal_paper/COMMAG_Ryd.pdf",
+        "pdf_pages": 8,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "IEEE ComSoc Aug.2026 official digest PDF p.3 lists complete nine-author order and pp.52–59 under August 2026 issue. Crossref confirms IEEE Communications Magazine vol.64 no.8, Aug.2026. Current site citation is correct.",
+      "limitations": []
+    },
+    {
+      "id": "C1",
+      "observed": {
+        "title": "Active RISs: Signal Modeling, Asymptotic Analysis, and Beamforming Design",
+        "venue": "GLOBECOM 2022 - 2022 IEEE Global Communications Conference",
+        "volume": null,
+        "issue": null,
+        "pages": "1618-1624",
+        "doi": "10.1109/globecom48099.2022.10001687"
+      },
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        },
+        {
+          "given": "Xibi",
+          "family": "Chen"
+        },
+        {
+          "given": "Changhao",
+          "family": "Liu"
+        },
+        {
+          "given": "Fan",
+          "family": "Yang"
+        },
+        {
+          "given": "Robert",
+          "family": "Schober"
+        },
+        {
+          "given": "H. Vincent",
+          "family": "Poor"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              12,
+              4
+            ]
+          ]
+        },
+        "event": {
+          "name": "GLOBECOM 2022 - 2022 IEEE Global Communications Conference",
+          "location": "Rio de Janeiro, Brazil",
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                12,
+                4
+              ]
+            ]
+          },
+          "end": {
+            "date-parts": [
+              [
+                2022,
+                12,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Fglobecom48099.2022.10001687",
+        "https://doi.org/10.1109/globecom48099.2022.10001687"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Conference_paper/GLOBECOM.pdf",
+        "pdf_pages": 7,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "No new bibliographic mismatch found.",
+      "limitations": []
+    },
+    {
+      "id": "C2",
+      "observed": {
+        "title": "Pattern-Division Multiplexing for Continuous-Aperture MIMO",
+        "venue": "ICC 2022 - IEEE International Conference on Communications",
+        "volume": null,
+        "issue": null,
+        "pages": "3287-3292",
+        "doi": "10.1109/icc45855.2022.9839220"
+      },
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              16
+            ]
+          ]
+        },
+        "event": {
+          "name": "ICC 2022 - IEEE International Conference on Communications",
+          "location": "Seoul, Korea, Republic of",
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                5,
+                16
+              ]
+            ]
+          },
+          "end": {
+            "date-parts": [
+              [
+                2022,
+                5,
+                20
+              ]
+            ]
+          }
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Ficc45855.2022.9839220",
+        "https://doi.org/10.1109/icc45855.2022.9839220"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Conference_paper/ICC.pdf",
+        "pdf_pages": 6,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "No new bibliographic mismatch found.",
+      "limitations": []
+    },
+    {
+      "id": "C3",
+      "observed": {
+        "title": "Capacity Improvement in Wideband Reconfigurable Intelligent Surface-Aided Cell-Free Network",
+        "venue": "2020 IEEE 21st International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)",
+        "volume": null,
+        "issue": null,
+        "pages": "1-5",
+        "doi": "10.1109/spawc48557.2020.9154244"
+      },
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2020,
+              5
+            ]
+          ]
+        },
+        "event": {
+          "name": "2020 IEEE 21st International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)",
+          "location": "Atlanta, GA, USA",
+          "start": {
+            "date-parts": [
+              [
+                2020,
+                5,
+                26
+              ]
+            ]
+          },
+          "end": {
+            "date-parts": [
+              [
+                2020,
+                5,
+                29
+              ]
+            ]
+          }
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Fspawc48557.2020.9154244",
+        "https://doi.org/10.1109/spawc48557.2020.9154244"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Conference_paper/SPAWC.pdf",
+        "pdf_pages": 5,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": false
+      },
+      "independent_check_notes": "No new bibliographic mismatch found.",
+      "limitations": []
+    },
+    {
+      "id": "C4",
+      "observed": {
+        "title": "High-Efficient Ranging Algorithms for Wireless Sensor Network",
+        "venue": "2019 11th International Conference on Wireless Communications and Signal Processing (WCSP)",
+        "volume": null,
+        "issue": null,
+        "pages": "1-6",
+        "doi": "10.1109/wcsp.2019.8928120"
+      },
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Hanying",
+          "family": "Zhao"
+        },
+        {
+          "given": "Yuan",
+          "family": "Shen"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              10
+            ]
+          ]
+        },
+        "event": {
+          "name": "2019 11th International Conference on Wireless Communications and Signal Processing (WCSP)",
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                10,
+                23
+              ]
+            ]
+          },
+          "location": "Xi'an, China",
+          "end": {
+            "date-parts": [
+              [
+                2019,
+                10,
+                25
+              ]
+            ]
+          }
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Fwcsp.2019.8928120",
+        "https://doi.org/10.1109/wcsp.2019.8928120"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Conference_paper/WCSP.pdf",
+        "pdf_pages": 6,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": false
+      },
+      "independent_check_notes": "Keep official High-Efficient wording despite awkward English. Formal paper first page and DOI record match.",
+      "limitations": []
+    },
+    {
+      "id": "C5",
+      "observed": {
+        "title": "Successive Bayesian Reconstructor for FAS Channel Estimation",
+        "venue": "2024 IEEE Wireless Communications and Networking Conference (WCNC)",
+        "volume": null,
+        "issue": null,
+        "pages": "1-5",
+        "doi": "10.1109/wcnc57260.2024.10571302"
+      },
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Jieao",
+          "family": "Zhu"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        },
+        {
+          "given": "Robert W.",
+          "family": "Heath"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              4,
+              21
+            ]
+          ]
+        },
+        "event": {
+          "name": "2024 IEEE Wireless Communications and Networking Conference (WCNC)",
+          "location": "Dubai, United Arab Emirates",
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                4,
+                21
+              ]
+            ]
+          },
+          "end": {
+            "date-parts": [
+              [
+                2024,
+                4,
+                24
+              ]
+            ]
+          }
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Fwcnc57260.2024.10571302",
+        "https://doi.org/10.1109/wcnc57260.2024.10571302"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Conference_paper/WCNC.pdf",
+        "pdf_pages": 5,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "No new bibliographic mismatch found.",
+      "limitations": []
+    },
+    {
+      "id": "C6",
+      "observed": {
+        "title": "Two-Dimensional Ice Filling Based Channel Estimation in Densifying MIMO Systems",
+        "venue": "ICC 2025 - IEEE International Conference on Communications",
+        "volume": null,
+        "issue": null,
+        "pages": "4750-4755",
+        "doi": "10.1109/icc52391.2025.11161466"
+      },
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Mingyao",
+          "family": "Cui"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              8
+            ]
+          ]
+        },
+        "event": {
+          "name": "ICC 2025 - IEEE International Conference on Communications",
+          "location": "Montreal, QC, Canada",
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                6,
+                8
+              ]
+            ]
+          },
+          "end": {
+            "date-parts": [
+              [
+                2025,
+                6,
+                12
+              ]
+            ]
+          }
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Ficc52391.2025.11161466",
+        "https://doi.org/10.1109/icc52391.2025.11161466"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Conference_paper/ICC_2DIF.pdf",
+        "pdf_pages": 6,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "No new bibliographic mismatch found.",
+      "limitations": []
+    },
+    {
+      "id": "C7",
+      "observed": {
+        "title": "User-Side RIS: Realizing Large-Scale Array at User Side",
+        "venue": "2021 IEEE Global Communications Conference (GLOBECOM)",
+        "volume": null,
+        "issue": null,
+        "pages": "01-06",
+        "doi": "10.1109/globecom46510.2021.9685418"
+      },
+      "authors": [
+        {
+          "given": "Kunzan",
+          "family": "Liu"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              12
+            ]
+          ]
+        },
+        "event": {
+          "name": "GLOBECOM 2021 - 2021 IEEE Global Communications Conference",
+          "location": "Madrid, Spain",
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                12,
+                7
+              ]
+            ]
+          },
+          "end": {
+            "date-parts": [
+              [
+                2021,
+                12,
+                11
+              ]
+            ]
+          }
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Fglobecom46510.2021.9685418",
+        "https://doi.org/10.1109/globecom46510.2021.9685418"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Conference_paper/GLOBECOM_k.pdf",
+        "pdf_pages": 6,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "No new bibliographic mismatch found.",
+      "limitations": []
+    },
+    {
+      "id": "C8",
+      "observed": {
+        "title": "On The Energy-Efficiency Fairness of Reconfigurable Intelligent Surface-Aided Cell-Free Network",
+        "venue": "2021 IEEE 93rd Vehicular Technology Conference (VTC2021-Spring)",
+        "volume": null,
+        "issue": null,
+        "pages": "1-6",
+        "doi": "10.1109/vtc2021-spring51267.2021.9448858"
+      },
+      "authors": [
+        {
+          "given": "Kunzan",
+          "family": "Liu"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              4
+            ]
+          ]
+        },
+        "event": {
+          "name": "2021 IEEE 93rd Vehicular Technology Conference (VTC2021-Spring)",
+          "location": "Helsinki, Finland",
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                4,
+                25
+              ]
+            ]
+          },
+          "end": {
+            "date-parts": [
+              [
+                2021,
+                4,
+                28
+              ]
+            ]
+          }
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Fvtc2021-spring51267.2021.9448858",
+        "https://doi.org/10.1109/vtc2021-spring51267.2021.9448858"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Conference_paper/VTC_k.pdf",
+        "pdf_pages": 6,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "No new bibliographic mismatch found.",
+      "limitations": []
+    },
+    {
+      "id": "C9",
+      "observed": {
+        "title": "Channel Estimation for Dense Array Systems via Ice-Filling",
+        "venue": "2025 IEEE International Conference on Communications Workshops (ICC Workshops)",
+        "volume": null,
+        "issue": null,
+        "pages": "794-799",
+        "doi": "10.1109/iccworkshops67674.2025.11162249"
+      },
+      "authors": [
+        {
+          "given": "Mingyao",
+          "family": "Cui"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        },
+        {
+          "given": "Kaibin",
+          "family": "Huang"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              8
+            ]
+          ]
+        },
+        "event": {
+          "name": "2025 IEEE International Conference on Communications Workshops (ICC Workshops)",
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                6,
+                8
+              ]
+            ]
+          },
+          "location": "Montreal, QC, Canada",
+          "end": {
+            "date-parts": [
+              [
+                2025,
+                6,
+                12
+              ]
+            ]
+          }
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Ficcworkshops67674.2025.11162249",
+        "https://doi.org/10.1109/iccworkshops67674.2025.11162249"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Conference_paper/ICCWksp_IF.pdf",
+        "pdf_pages": 6,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "No new bibliographic mismatch found.",
+      "limitations": []
+    },
+    {
+      "id": "C10",
+      "observed": {
+        "title": "On Finite-Time Mutual Information",
+        "venue": "2022 IEEE International Symposium on Information Theory (ISIT)",
+        "volume": null,
+        "issue": null,
+        "pages": "2910-2915",
+        "doi": "10.1109/isit50566.2022.9834758"
+      },
+      "authors": [
+        {
+          "given": "Jieao",
+          "family": "Zhu"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Zhongzhichao",
+          "family": "Wan"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              6,
+              26
+            ]
+          ]
+        },
+        "event": {
+          "name": "2022 IEEE International Symposium on Information Theory (ISIT)",
+          "location": "Espoo, Finland",
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                6,
+                26
+              ]
+            ]
+          },
+          "end": {
+            "date-parts": [
+              [
+                2022,
+                7,
+                1
+              ]
+            ]
+          }
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Fisit50566.2022.9834758",
+        "https://doi.org/10.1109/isit50566.2022.9834758"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Conference_paper/ISIT_z.pdf",
+        "pdf_pages": 6,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "No new bibliographic mismatch found.",
+      "limitations": []
+    },
+    {
+      "id": "C11",
+      "observed": {
+        "title": "Channel Estimation for Non-Stationary Extremely Large-Scale MIMO",
+        "venue": "2023 IEEE 97th Vehicular Technology Conference (VTC2023-Spring)",
+        "volume": null,
+        "issue": null,
+        "pages": "1-5",
+        "doi": "10.1109/vtc2023-spring57618.2023.10199467"
+      },
+      "authors": [
+        {
+          "given": "Yuhao",
+          "family": "Chen"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Mingyao",
+          "family": "Cui"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              6
+            ]
+          ]
+        },
+        "event": {
+          "name": "2023 IEEE 97th Vehicular Technology Conference (VTC2023-Spring)",
+          "location": "Florence, Italy",
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                6,
+                20
+              ]
+            ]
+          },
+          "end": {
+            "date-parts": [
+              [
+                2023,
+                6,
+                23
+              ]
+            ]
+          }
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Fvtc2023-spring57618.2023.10199467",
+        "https://doi.org/10.1109/vtc2023-spring57618.2023.10199467"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Conference_paper/VTC_c.pdf",
+        "pdf_pages": 5,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "No new bibliographic mismatch found.",
+      "limitations": []
+    },
+    {
+      "id": "C12",
+      "observed": {
+        "title": "Near-Field 2D Hierarchical Beam Training for Extremely Large-Scale MIMO",
+        "venue": "GLOBECOM 2023 - 2023 IEEE Global Communications Conference",
+        "volume": null,
+        "issue": null,
+        "pages": "7176-7181",
+        "doi": "10.1109/globecom54140.2023.10437041"
+      },
+      "authors": [
+        {
+          "given": "Yu",
+          "family": "Lu"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              12,
+              4
+            ]
+          ]
+        },
+        "event": {
+          "name": "GLOBECOM 2023 - 2023 IEEE Global Communications Conference",
+          "location": "Kuala Lumpur, Malaysia",
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                12,
+                4
+              ]
+            ]
+          },
+          "end": {
+            "date-parts": [
+              [
+                2023,
+                12,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Fglobecom54140.2023.10437041",
+        "https://doi.org/10.1109/globecom54140.2023.10437041"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Conference_paper/GLOBECOM_l.pdf",
+        "pdf_pages": 6,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": false
+      },
+      "independent_check_notes": "No new bibliographic mismatch found.",
+      "limitations": []
+    },
+    {
+      "id": "C13",
+      "observed": {
+        "title": "Distance-Aware Precoding for Near-Field Capacity Improvement in XL-MIMO",
+        "venue": "2022 IEEE 95th Vehicular Technology Conference: (VTC2022-Spring)",
+        "volume": null,
+        "issue": null,
+        "pages": "1-5",
+        "doi": "10.1109/vtc2022-spring54318.2022.9860745"
+      },
+      "authors": [
+        {
+          "given": "Zidong",
+          "family": "Wu"
+        },
+        {
+          "given": "Mingyao",
+          "family": "Cui"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              6
+            ]
+          ]
+        },
+        "event": {
+          "name": "2022 IEEE 95th Vehicular Technology Conference (VTC2022-Spring)",
+          "location": "Helsinki, Finland",
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                6,
+                19
+              ]
+            ]
+          },
+          "end": {
+            "date-parts": [
+              [
+                2022,
+                6,
+                22
+              ]
+            ]
+          }
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Fvtc2022-spring54318.2022.9860745",
+        "https://doi.org/10.1109/vtc2022-spring54318.2022.9860745",
+        "https://events.vtsociety.org/vtc2022-spring/",
+        "https://events.vtsociety.org/vtc2022-spring/wp-content/uploads/sites/32/2022/06/vtc2022spring_final-program-6-14-2022.pdf"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Conference_paper/VTC_w.pdf",
+        "pdf_pages": 5,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "Official IEEE VTS event homepage/final program confirms 19–22 Jun.2022, Helsinki. DOI record and paper are VTC2022-Spring, pp.1–5. Current site citation is correct; August indexing/deposit dates do not change event date.",
+      "limitations": []
+    },
+    {
+      "id": "C14",
+      "observed": {
+        "title": "Low-Overhead Near-Field Beam Training Based on Bayesian Regression",
+        "venue": "ICC 2025 - IEEE International Conference on Communications",
+        "volume": null,
+        "issue": null,
+        "pages": "1724-1729",
+        "doi": "10.1109/icc52391.2025.11161432"
+      },
+      "authors": [
+        {
+          "given": "Zhuo",
+          "family": "Xu"
+        },
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Linglong",
+          "family": "Dai"
+        }
+      ],
+      "dates": {
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              8
+            ]
+          ]
+        },
+        "event": {
+          "name": "ICC 2025 - IEEE International Conference on Communications",
+          "location": "Montreal, QC, Canada",
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                6,
+                8
+              ]
+            ]
+          },
+          "end": {
+            "date-parts": [
+              [
+                2025,
+                6,
+                12
+              ]
+            ]
+          }
+        }
+      },
+      "sources": [
+        "https://api.crossref.org/works/10.1109%2Ficc52391.2025.11161432",
+        "https://doi.org/10.1109/icc52391.2025.11161432"
+      ],
+      "new_differences": [],
+      "linked_local_pdf": {
+        "pdf": "pubs/Conference_paper/ICC_NFBT.pdf",
+        "pdf_pages": 6,
+        "website_title_found": true,
+        "expected_doi_in_first_two_pages": true
+      },
+      "independent_check_notes": "No new bibliographic mismatch found.",
+      "limitations": []
+    },
+    {
+      "id": "B2",
+      "title": "Optimization of Active Metasurfaces",
+      "verification_status": "unverified",
+      "sources": [
+        "https://api.crossref.org/works?query.title=Optimization%20of%20Active%20Metasurfaces&rows=6",
+        "https://link.springer.com/book/10.1007/978-981-95-1814-2"
+      ],
+      "unverified_fields": [
+        "publisher record for this exact chapter",
+        "DOI",
+        "final book title",
+        "publication status",
+        "year",
+        "chapter number",
+        "pages",
+        "author list"
+      ],
+      "independent_check_notes": "Preserve original entry per explicit user request. Exact-title fresh web search still did not locate an authoritative chapter matching title and supplied author list. No metadata from similar chapters substituted.",
+      "limitations": [
+        "publisher record for this exact chapter",
+        "DOI",
+        "final book title",
+        "publication status",
+        "year",
+        "chapter number",
+        "pages",
+        "author list"
+      ]
+    },
+    {
+      "id": "O1",
+      "title": "Active reconfigurable intelligent surface aided wireless communication prototype",
+      "verification_status": "partially_verified",
+      "sources": [],
+      "unverified_fields": [
+        "official archived demo program with exact title/authors",
+        "DOI/proceedings page range (not found; may not apply)"
+      ],
+      "independent_check_notes": "Local linked PDF is a 20-page slide deck, exact title and four authors present. It is correctly labelled a demonstration with Slides link, not asserted as a paginated proceedings paper. Exact official archived demo-program entry remains unverified.",
+      "limitations": [
+        "official archived demo program with exact title/authors",
+        "DOI/proceedings page range (not found; may not apply)"
+      ]
+    },
+    {
+      "id": "O2",
+      "title": "Active reconfigurable intelligent surface aided wireless communication prototype",
+      "verification_status": "unverified",
+      "sources": [],
+      "unverified_fields": [
+        "official archived demo program with exact title/authors",
+        "DOI/proceedings page range (not found; may not apply)"
+      ],
+      "independent_check_notes": "No linked paper and no authoritative exact demo-program match found in fresh exact-title/official-domain searches. Preserve user-supplied demonstration entry; no invented DOI/pages.",
+      "limitations": [
+        "official archived demo program with exact title/authors",
+        "DOI/proceedings page range (not found; may not apply)"
+      ]
+    },
+    {
+      "id": "O3",
+      "title": "Tinker@Home 2019 team description paper",
+      "verification_status": "partially_verified",
+      "sources": [
+        "https://tdp.robocup.org/tdp/2019-tdp-tinker-robocuphome-open-platform/",
+        "https://tdp.robocup.org/wp-content/uploads/tdp/robocup/2019/robocup-at-home-open-platform/tinker-40/robocup-2019-robocup-at-home-open-platform-tinkerjNfYZ18iXk.pdf"
+      ],
+      "unverified_fields": [
+        "DOI/proceedings page range (not found; not needed for TDP)",
+        "conference month/location not independently checked in this audit"
+      ],
+      "independent_check_notes": "Fresh official RoboCup TDP archive PDF (9 pages) independently confirms exact title and all 11 authors. Correctly presented as Team description paper, not Springer proceedings chapter. No DOI claimed.",
+      "limitations": [
+        "DOI/proceedings page range (not found; not needed for TDP)",
+        "conference month/location not independently checked in this audit"
+      ]
+    }
+  ]
+}

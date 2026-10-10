@@ -1,5 +1,5 @@
 {
-  "checked_as_of": "2026-10-10",
+  "checked_as_of": "2026-10-11",
   "records": [
     {
       "id": "B1",
@@ -67,11 +67,12 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "recommended_venue_html": "in <i>Intelligent Surfaces Empowered 6G Wireless Network</i>, Chapter 2, pp. 15–36, Wiley-IEEE Press, Dec. 2023.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "B2",
@@ -116,7 +117,8 @@
       "rejected_candidate_doi": "10.1117/12.2040372",
       "authors_supplied": "Z. Zhang , Z. Xu, H. Li, and L. Dai",
       "recommended_venue_html": null,
-      "website_action": "Original entry and supplied 2024 information retained unchanged at the user's request on 2026-10-10; no unverified metadata added."
+      "website_action": "Original entry and supplied 2024 information retained unchanged at the user's request on 2026-10-10; no unverified metadata added.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "J1",
@@ -194,11 +196,12 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "recommended_venue_html": "<i>IEEE Transactions on Communications</i>, vol. 71, no. 3, pp. 1707–1725, Mar. 2023.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "J2",
@@ -256,11 +259,12 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "recommended_venue_html": "<i>IEEE Transactions on Signal Processing</i>, vol. 69, pp. 4085–4101, 2021.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "J3",
@@ -318,11 +322,12 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "recommended_venue_html": "<i>IEEE Journal on Selected Areas in Communications</i>, vol. 41, no. 8, pp. 2350–2366, Aug. 2023.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "J4",
@@ -388,11 +393,12 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "recommended_venue_html": "<i>IEEE Transactions on Wireless Communications</i>, vol. 21, no. 3, pp. 1694–1709, Mar. 2022.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "J5",
@@ -450,11 +456,12 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "recommended_venue_html": "<i>Tsinghua Science and Technology</i>, vol. 28, no. 5, pp. 929–939, Oct. 2023.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "J6",
@@ -521,12 +528,13 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "recommended_venue_html": "<i>IEEE Transactions on Wireless Communications</i>, vol. 24, no. 3, pp. 1992–2006, Mar. 2025.",
       "recommended_authors_html": "<b>Z. Zhang</b>, J. Zhu, L. Dai, and R. W. Heath, Jr.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "J7",
@@ -584,11 +592,12 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "recommended_venue_html": "<i>IEEE Transactions on Signal Processing</i>, vol. 74, pp. 798–814, 2026.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "J8",
@@ -646,11 +655,12 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "recommended_venue_html": "<i>IEEE Communications Standards Magazine</i>, vol. 10, no. 2, pp. 127–133, Jun. 2026.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "J9",
@@ -718,11 +728,12 @@
         "final page range",
         "first online month/day"
       ],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "recommended_venue_html": "<i>IEEE Transactions on Vehicular Technology</i>, Early Access, 2026.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "J10",
@@ -788,11 +799,12 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "recommended_venue_html": "<i>IEEE Transactions on Wireless Communications</i>, vol. 24, no. 10, pp. 8551–8564, Oct. 2025.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "J11",
@@ -854,11 +866,12 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "recommended_venue_html": "<i>IEEE Communications Letters</i>, vol. 27, no. 7, pp. 1899–1903, Jul. 2023.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "J12",
@@ -924,11 +937,12 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "recommended_venue_html": "<i>IEEE Transactions on Communications</i>, vol. 70, no. 1, pp. 680–692, Jan. 2022.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "J13",
@@ -998,11 +1012,12 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "recommended_venue_html": "<i>IEEE Communications Letters</i>, vol. 26, no. 1, pp. 167–171, Jan. 2022.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "J14",
@@ -1072,11 +1087,12 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "recommended_venue_html": "<i>IEEE Wireless Communications Letters</i>, vol. 11, no. 8, pp. 1609–1613, Aug. 2022.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "J15",
@@ -1146,11 +1162,12 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "recommended_venue_html": "<i>IEEE Transactions on Intelligent Transportation Systems</i>, vol. 25, no. 10, pp. 13729–13743, Oct. 2024.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "J16",
@@ -1212,11 +1229,12 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "recommended_venue_html": "<i>Tsinghua Science and Technology</i>, vol. 28, no. 6, pp. 1115–1127, Dec. 2023.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "J17",
@@ -1286,11 +1304,12 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "recommended_venue_html": "<i>IEEE Transactions on Communications</i>, vol. 71, no. 4, pp. 1982–1996, Apr. 2023.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "J18",
@@ -1352,11 +1371,12 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "recommended_venue_html": "<i>IEEE Transactions on Communications</i>, vol. 72, no. 4, pp. 2247–2259, Apr. 2024.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "J19",
@@ -1418,11 +1438,12 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "recommended_venue_html": "<i>IEEE Transactions on Wireless Communications</i>, vol. 24, no. 11, pp. 9173–9185, Nov. 2025.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "J20",
@@ -1492,11 +1513,12 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "recommended_venue_html": "<i>IEEE Transactions on Vehicular Technology</i>, vol. 74, no. 10, pp. 16488–16493, Oct. 2025.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "J21",
@@ -1594,12 +1616,13 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "recommended_venue_html": "<i>IEEE Communications Magazine</i>, vol. 64, no. 8, pp. 52–59, Aug. 2026.",
       "recommended_authors_html": "Y. Tao, Z. Gao, Z. Zhu, D. Mi, Z. Wu, <b>Z. Zhang</b>, F. Zhang, D. Zheng, and S. Chen",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "C1",
@@ -1683,7 +1706,7 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "conference_event": {
@@ -1709,7 +1732,8 @@
         }
       },
       "recommended_venue_html": "in <i>Proc. 2022 IEEE Global Communications Conference (GLOBECOM 2022)</i>, Rio de Janeiro, Brazil, pp. 1618–1624, Dec. 2022.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "C2",
@@ -1773,7 +1797,7 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "conference_event": {
@@ -1799,7 +1823,8 @@
         }
       },
       "recommended_venue_html": "in <i>Proc. 2022 IEEE International Conference on Communications (ICC 2022)</i>, Seoul, South Korea, pp. 3287–3292, May 2022.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "C3",
@@ -1862,7 +1887,7 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "conference_event": {
@@ -1888,7 +1913,8 @@
         }
       },
       "recommended_venue_html": "in <i>Proc. 2020 IEEE 21st International Workshop on Signal Processing Advances in Wireless Communications (SPAWC 2020)</i>, Atlanta, GA, USA, pp. 1–5, May 2020.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "C4",
@@ -1956,7 +1982,7 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "conference_event": {
@@ -1982,7 +2008,8 @@
         }
       },
       "recommended_venue_html": "in <i>Proc. 2019 11th International Conference on Wireless Communications and Signal Processing (WCSP 2019)</i>, Xi’an, China, pp. 1–6, Oct. 2019.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "C5",
@@ -2060,7 +2087,7 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "conference_event": {
@@ -2087,7 +2114,8 @@
       },
       "recommended_venue_html": "in <i>Proc. 2024 IEEE Wireless Communications and Networking Conference (WCNC 2024)</i>, Dubai, United Arab Emirates, pp. 1–5, Apr. 2024.",
       "recommended_authors_html": "<b>Z. Zhang</b>, J. Zhu, L. Dai, and R. W. Heath, Jr.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "C6",
@@ -2151,7 +2179,7 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "conference_event": {
@@ -2177,7 +2205,8 @@
         }
       },
       "recommended_venue_html": "in <i>Proc. 2025 IEEE International Conference on Communications (ICC 2025)</i>, Montreal, Canada, pp. 4750–4755, Jun. 2025.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "C7",
@@ -2244,7 +2273,7 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "conference_event": {
@@ -2270,7 +2299,8 @@
         }
       },
       "recommended_venue_html": "in <i>Proc. 2021 IEEE Global Communications Conference (GLOBECOM 2021)</i>, Madrid, Spain, pp. 1–6, Dec. 2021.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "C8",
@@ -2333,7 +2363,7 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "conference_event": {
@@ -2359,7 +2389,8 @@
         }
       },
       "recommended_venue_html": "in <i>Proc. 2021 IEEE 93rd Vehicular Technology Conference (VTC 2021-Spring)</i>, Helsinki, Finland, pp. 1–6, Apr. 2021.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "C9",
@@ -2436,7 +2467,7 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "conference_event": {
@@ -2462,7 +2493,8 @@
         }
       },
       "recommended_venue_html": "in <i>Proc. 2025 IEEE International Conference on Communications Workshops (ICC Workshops 2025)</i>, Montreal, Canada, pp. 794–799, Jun. 2025.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "C10",
@@ -2534,7 +2566,7 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "conference_event": {
@@ -2560,7 +2592,8 @@
         }
       },
       "recommended_venue_html": "in <i>Proc. 2022 IEEE International Symposium on Information Theory (ISIT 2022)</i>, Espoo, Finland, pp. 2910–2915, Jun. 2022.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "C11",
@@ -2631,7 +2664,7 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "conference_event": {
@@ -2657,7 +2690,8 @@
         }
       },
       "recommended_venue_html": "in <i>Proc. 2023 IEEE 97th Vehicular Technology Conference (VTC 2023-Spring)</i>, Florence, Italy, pp. 1–5, Jun. 2023.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "C12",
@@ -2725,7 +2759,7 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "conference_event": {
@@ -2751,7 +2785,8 @@
         }
       },
       "recommended_venue_html": "in <i>Proc. 2023 IEEE Global Communications Conference (GLOBECOM 2023)</i>, Kuala Lumpur, Malaysia, pp. 7176–7181, Dec. 2023.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "C13",
@@ -2828,7 +2863,7 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "conference_event": {
@@ -2854,7 +2889,8 @@
         }
       },
       "recommended_venue_html": "in <i>Proc. 2022 IEEE 95th Vehicular Technology Conference (VTC 2022-Spring)</i>, Helsinki, Finland, pp. 1–5, Jun. 2022.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "C14",
@@ -2922,7 +2958,7 @@
         }
       ],
       "unverified_fields": [],
-      "checked_as_of": "2026-10-10",
+      "checked_as_of": "2026-10-11",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "conference_event": {
@@ -2948,7 +2984,8 @@
         }
       },
       "recommended_venue_html": "in <i>Proc. 2025 IEEE International Conference on Communications (ICC 2025)</i>, Montreal, Canada, pp. 1724–1729, Jun. 2025.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "O1",
@@ -2985,7 +3022,8 @@
       "rejected_candidate_doi": "10.1109/twc.2021.3064024",
       "authors_supplied": "Z. Zhang , Y. Chen, Z. Peng, and L. Dai",
       "recommended_venue_html": "Demonstration at <i>2022 IEEE Global Communications Conference (GLOBECOM 2022)</i>, Rio de Janeiro, Brazil, Dec. 2022.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "O2",
@@ -3021,7 +3059,8 @@
       "rejected_candidate_doi": "10.1109/twc.2021.3064024",
       "authors_supplied": "Z. Zhang , Y. Chen, Z. Wu, Y. Lu, Z. Wan, and L. Dai",
       "recommended_venue_html": "Demonstration at <i>2023 IEEE Global Communications Conference (GLOBECOM 2023)</i>, Kuala Lumpur, Malaysia, Dec. 2023.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     },
     {
       "id": "O3",
@@ -3111,7 +3150,8 @@
       "rejected_candidate_doi": "10.1007/3-540-45327-x_87",
       "authors_supplied": "J. Huo, X. Han, J. Bi, H. Ma, R. Ma, C. Xu, L. Ye, H. Zhang, T. Zhang,  Z. Zhang , and Y. Jiang",
       "recommended_venue_html": "Team description paper, <i>RoboCup@Home 2019, Open Platform League</i>, 2019.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified."
+      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
+      "rechecked_as_of": "2026-10-11"
     }
   ]
 }
