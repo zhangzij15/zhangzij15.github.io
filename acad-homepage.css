@@ -126,6 +126,7 @@ img { max-width: 100%; height: auto; }
 .publication-number { position: absolute; top: 26px; left: 0; min-width: 28px; padding: 1px 4px; border: 1px solid #d7e3ed; border-radius: 4px; background: #f4f8fb; color: var(--section-accent, var(--primary)); font-size: 11px; font-weight: 600; line-height: 1.6; text-align: center; font-variant-numeric: tabular-nums; }
 #layout-content .publication-title { margin: 0 0 8px; color: var(--ink); font-size: 18px; font-weight: 600; line-height: 1.5; }
 .publication-title a { color: var(--primary-dark); }
+#layout-content .patent-title-zh { margin: 0 0 9px; color: var(--primary-dark); font-size: 15px; font-weight: 500; line-height: 1.75; }
 #layout-content .publication-authors { margin: 0 0 3px; color: #5b6b78; font-size: 14px; line-height: 1.65; }
 .publication-authors b, .publication-authors strong { color: var(--ink); font-weight: 650; }
 #layout-content .publication-venue { margin: 0; color: var(--muted); font-size: 13px; line-height: 1.75; }

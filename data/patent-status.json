@@ -47,9 +47,16 @@
       ],
       "conflicts": [],
       "website_title": "Low-power-consumption reconfigurable intelligent surface hardware structure, and precoding method and apparatus",
-      "website_action": "Identifiers rechecked; application and grant publication labels clarified.",
+      "website_action": "Identifiers rechecked; application and grant publication labels clarified. Verified Chinese name added beneath the English title, with Chinese family provenance labelled where applicable.",
       "original_website_text": "IP1 Low-power-consumption reconfigurable intelligent surface hardware structure, and precoding method and apparatus K. Liu, L. Dai, Z. Zhang , S. Xu, and F. Yang PCT Patent WO2022CN102301 , May 2023. (Publication number: WO2023071264A1)",
-      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified."
+      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified.",
+      "chinese_title": "低功耗的智能超表面硬件结构、预编码方法及装置",
+      "chinese_title_source": {
+        "type": "original_document",
+        "document_number": "WO2023071264A1",
+        "url": "https://patentimages.storage.googleapis.com/40/2d/1f/883a2946b647b1/WO2023071264A1.pdf",
+        "note": "正式WO文献首页所列中文题名。"
+      }
     },
     {
       "id": "IP2",
@@ -99,7 +106,12 @@
       "website_title": "Wireless telecommunications network",
       "website_action": "Identifiers rechecked; application and grant publication labels clarified.",
       "original_website_text": "IP2 Wireless telecommunications network L. Dai, K. Liu, Z. Zhang , R. Mackenzie, and M. Hao PCT Patent WO2021CN77059 , Nov. 2021. (Publication number: WO2022174418A1)",
-      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified."
+      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified.",
+      "chinese_title": null,
+      "chinese_title_source": {
+        "type": "no_verified_chinese_title",
+        "note": "原始WO文献为英文，未核实本申请的正式中文题名；保留英文，不自行回译。"
+      }
     },
     {
       "id": "IP3",
@@ -147,9 +159,16 @@
       ],
       "conflicts": [],
       "website_title": "Resource allocation and precoding method and apparatus for cell-free network capable of achieving energy efficiency equilibrium",
-      "website_action": "Identifiers rechecked; application and grant publication labels clarified.",
+      "website_action": "Identifiers rechecked; application and grant publication labels clarified. Verified Chinese name added beneath the English title, with Chinese family provenance labelled where applicable.",
       "original_website_text": "IP3 Resource allocation and precoding method and apparatus for cell-free network capable of achieving energy efficiency equilibrium K. Liu, L. Dai, and Z. Zhang PCT Patent WO2021CN112812 , May 2021. (Publication number: WO2022262104A1)",
-      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified."
+      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified.",
+      "chinese_title": "能效公平无蜂窝网络的资源分配及预编码方法与装置",
+      "chinese_title_source": {
+        "type": "original_document",
+        "document_number": "WO2022262104A1",
+        "url": "https://patentimages.storage.googleapis.com/81/2a/c8/3e1e6b11d5a32f/WO2022262104A1.pdf",
+        "note": "正式WO文献首页所列中文题名。"
+      }
     },
     {
       "id": "IP4",
@@ -199,9 +218,16 @@
         "Google Patents and old website misspell reconfigurable as reconfigureable, but WIPO PDF front page says RECONFIGURABLE. Correct title and PCT/EP2022/051724 instead of WO2022EP51724."
       ],
       "website_title": "Wireless telecommunications network including a multi-layer transmissive reconfigurable intelligent surface",
-      "website_action": "Identifiers rechecked; application and grant publication labels clarified.",
+      "website_action": "Identifiers rechecked; application and grant publication labels clarified. Verified Chinese name added beneath the English title, with Chinese family provenance labelled where applicable.",
       "original_website_text": "IP4 Wireless telecommunications network including a multi-layer transmissive reconfigureable intelligent surface L. Dai, K. Liu, Z. Zhang , R. Mackenzie, and M. Hao PCT Patent WO2022EP51724 , Nov. 2021. (Publication number: WO2022175035A1)",
-      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified."
+      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified.",
+      "chinese_title": "包括多层透射可重新配置智能表面的无线电信网络",
+      "chinese_title_source": {
+        "type": "chinese_family_document",
+        "document_number": "CN116868518B",
+        "url": "https://patentimages.storage.googleapis.com/2e/ed/fc/1c82dd25de032a/CN116868518B.pdf",
+        "note": "中国国家阶段同族文献的正式中文名称；不作为英文原始文献的中文原题名。"
+      }
     },
     {
       "id": "IP5",
@@ -254,9 +280,16 @@
         "Old US2024039592A1 lacks a zero; correct US20240039592A1, published 2024-02-01. Nov. 2021 is not the filing, publication, or grant date."
       ],
       "website_title": "Wireless telecommunications network including a multi-layer transmissive reconfigurable intelligent surface",
-      "website_action": "Identifiers rechecked; application and grant publication labels clarified.",
+      "website_action": "Identifiers rechecked; application and grant publication labels clarified. Verified Chinese name added beneath the English title, with Chinese family provenance labelled where applicable.",
       "original_website_text": "IP5 Wireless telecommunications network including a multi-layer transmissive reconfigureable intelligent surface L. Dai, K. Liu, Z. Zhang , R. Mackenzie, and M. Hao US Patent US2024039592A1 , Nov. 2021. ( Granted , Grant number: US12028139B2)",
-      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified."
+      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified.",
+      "chinese_title": "包括多层透射可重新配置智能表面的无线电信网络",
+      "chinese_title_source": {
+        "type": "chinese_family_document",
+        "document_number": "CN116868518B",
+        "url": "https://patentimages.storage.googleapis.com/2e/ed/fc/1c82dd25de032a/CN116868518B.pdf",
+        "note": "中国国家阶段同族文献的正式中文名称；不作为英文原始文献的中文原题名。"
+      }
     },
     {
       "id": "IP6",
@@ -313,9 +346,16 @@
         "Old EP4295492A1 is an application publication, not the grant number; correct grant EP4295492B1. Application EP22704879.0; Nov. 2021 is not the filing, publication, or grant date."
       ],
       "website_title": "Wireless telecommunications network including a multi-layer transmissive reconfigureable intelligent surface",
-      "website_action": "Identifiers rechecked; application and grant publication labels clarified.",
+      "website_action": "Identifiers rechecked; application and grant publication labels clarified. Verified Chinese name added beneath the English title, with Chinese family provenance labelled where applicable.",
       "original_website_text": "IP6 Wireless telecommunications network including a multi-layer transmissive reconfigureable intelligent surface L. Dai, K. Liu, Z. Zhang , R. Mackenzie, and M. Hao EP Patent EP22704879 , Nov. 2021. ( Granted , Grant number: EP4295492A1)",
-      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified."
+      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified.",
+      "chinese_title": "包括多层透射可重新配置智能表面的无线电信网络",
+      "chinese_title_source": {
+        "type": "chinese_family_document",
+        "document_number": "CN116868518B",
+        "url": "https://patentimages.storage.googleapis.com/2e/ed/fc/1c82dd25de032a/CN116868518B.pdf",
+        "note": "中国国家阶段同族文献的正式中文名称；不作为英文原始文献的中文原题名。"
+      }
     },
     {
       "id": "CN1",
@@ -362,9 +402,16 @@
       ],
       "conflicts": [],
       "website_title": "Resource allocation and precoding method and apparatus for energy-efficiency fairness in cell-free networks",
-      "website_action": "Identifiers rechecked; application and grant publication labels clarified.",
+      "website_action": "Identifiers rechecked; application and grant publication labels clarified. Verified Chinese name added beneath the English title, with Chinese family provenance labelled where applicable.",
       "original_website_text": "CN1 Energy efficiency fair non-cellular network resource allocation and pre-coding method and device K. Liu, L. Dai, and Z. Zhang CN Patent CN202110673957.2 , Oct. 2021. (Publication number: CN113473499A)",
-      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified."
+      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified.",
+      "chinese_title": "能效公平无蜂窝网络的资源分配及预编码方法与装置",
+      "chinese_title_source": {
+        "type": "original_document",
+        "document_number": "CN113473499A",
+        "url": "https://patentimages.storage.googleapis.com/9e/2a/23/fd74cfcd23c925/CN113473499A.pdf",
+        "note": "正式中文题名，取自专利文献首页(54)发明名称。"
+      }
     },
     {
       "id": "CN2",
@@ -418,9 +465,16 @@
       "notes": [],
       "conflicts": [],
       "website_title": "Low-power intelligent metasurface hardware structure, precoding method, and apparatus",
-      "website_action": "Identifiers rechecked; application number and application/grant publication labels clarified. ZL patent number added for confirmed Chinese historical grants.",
+      "website_action": "Identifiers rechecked; application number and application/grant publication labels clarified. ZL patent number added for confirmed Chinese historical grants. Verified Chinese name added beneath the English title, with Chinese family provenance labelled where applicable.",
       "original_website_text": "CN2 Low-power intelligent surface: Hardware structure, precoding, and device K. Liu, L. Dai, Z. Zhang , S. Xu, and F. Yang CN Patent CN202111271506.2 , Feb. 2022. ( Granted , Grant number: CN114040478B)",
-      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified."
+      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified.",
+      "chinese_title": "低功耗的智能超表面硬件结构、预编码方法及装置",
+      "chinese_title_source": {
+        "type": "original_document",
+        "document_number": "CN114040478B",
+        "url": "https://patentimages.storage.googleapis.com/f8/84/76/b33cf919244cc1/CN114040478B.pdf",
+        "note": "正式中文题名，取自专利文献首页(54)发明名称。"
+      }
     },
     {
       "id": "CN3",
@@ -474,9 +528,16 @@
       "notes": [],
       "conflicts": [],
       "website_title": "Joint positioning method and system for wireless networks",
-      "website_action": "Identifiers rechecked; application number and application/grant publication labels clarified. ZL patent number added for confirmed Chinese historical grants.",
+      "website_action": "Identifiers rechecked; application number and application/grant publication labels clarified. ZL patent number added for confirmed Chinese historical grants. Verified Chinese name added beneath the English title, with Chinese family provenance labelled where applicable.",
       "original_website_text": "CN3 Wireless network joint positioning method and system Y. Shen, H. Zhao, and Z. Zhang CN Patent ZL202110138213.0 , Jun. 2021. ( Granted , Grant number: CN112887906B)",
-      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified."
+      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified.",
+      "chinese_title": "一种无线网络联合定位方法及系统",
+      "chinese_title_source": {
+        "type": "original_document",
+        "document_number": "CN112887906B",
+        "url": "https://patentimages.storage.googleapis.com/6f/1c/8f/f8cf09824fb487/CN112887906B.pdf",
+        "note": "正式中文题名，取自专利文献首页(54)发明名称。"
+      }
     },
     {
       "id": "CN4",
@@ -530,9 +591,16 @@
       "notes": [],
       "conflicts": [],
       "website_title": "Relative positioning method for dynamic networks",
-      "website_action": "Identifiers rechecked; application number and application/grant publication labels clarified. ZL patent number added for confirmed Chinese historical grants.",
+      "website_action": "Identifiers rechecked; application number and application/grant publication labels clarified. ZL patent number added for confirmed Chinese historical grants. Verified Chinese name added beneath the English title, with Chinese family provenance labelled where applicable.",
       "original_website_text": "CN4 Dynamic network relative positioning method Y. Shen, Z. Zhang , X. Li, C. Xu, F. Ge, and Q. Zhi CN Patent ZL201810258348.9 , Aug. 2018. ( Granted , Grant number: CN108469600B)",
-      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified."
+      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified.",
+      "chinese_title": "一种动态网络相对定位方法",
+      "chinese_title_source": {
+        "type": "original_document",
+        "document_number": "CN108469600B",
+        "url": "https://patentimages.storage.googleapis.com/40/60/bf/51b499cdff9706/CN108469600B.pdf",
+        "note": "正式中文题名，取自专利文献首页(54)发明名称。"
+      }
     },
     {
       "id": "CN5",
@@ -586,9 +654,16 @@
       "notes": [],
       "conflicts": [],
       "website_title": "Network ranging method and apparatus",
-      "website_action": "Identifiers rechecked; application number and application/grant publication labels clarified. ZL patent number added for confirmed Chinese historical grants.",
+      "website_action": "Identifiers rechecked; application number and application/grant publication labels clarified. ZL patent number added for confirmed Chinese historical grants. Verified Chinese name added beneath the English title, with Chinese family provenance labelled where applicable.",
       "original_website_text": "CN5 Network ranging method and device Y. Shen, Z. Zhang , H. Zhao, and J. Wang CN Patent ZL202010052977.3 , Jun. 2020. ( Granted , Grant number: CN111262755B)",
-      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified."
+      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified.",
+      "chinese_title": "一种网络测距方法及装置",
+      "chinese_title_source": {
+        "type": "original_document",
+        "document_number": "CN111262755B",
+        "url": "https://patentimages.storage.googleapis.com/14/01/20/f2f2ab63dcb4fd/CN111262755B.pdf",
+        "note": "正式中文题名，取自专利文献首页(54)发明名称。"
+      }
     },
     {
       "id": "CN6",
@@ -642,9 +717,16 @@
       "notes": [],
       "conflicts": [],
       "website_title": "Motion planning and cooperative positioning method and apparatus for unmanned vehicle formations",
-      "website_action": "Identifiers rechecked; application number and application/grant publication labels clarified. ZL patent number added for confirmed Chinese historical grants.",
+      "website_action": "Identifiers rechecked; application number and application/grant publication labels clarified. ZL patent number added for confirmed Chinese historical grants. Verified Chinese name added beneath the English title, with Chinese family provenance labelled where applicable.",
       "original_website_text": "CN6 Motion planning and cooperative positioning method and device for unmanned vehicle network formation Y. Shen, X. Li, C. Xu, Z. Zhang , F. Ge, and Q. Zhi CN Patent ZL201810433350.5 , Oct. 2018. ( Granted , Grant number: CN108664024B)",
-      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified."
+      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified.",
+      "chinese_title": "无人车网络编队的运动规划和协作定位方法及装置",
+      "chinese_title_source": {
+        "type": "original_document",
+        "document_number": "CN108664024B",
+        "url": "https://patentimages.storage.googleapis.com/15/b1/6b/69e0053367c04d/CN108664024B.pdf",
+        "note": "正式中文题名，取自专利文献首页(54)发明名称。"
+      }
     },
     {
       "id": "CN7",
@@ -700,9 +782,16 @@
       ],
       "conflicts": [],
       "website_title": "Codebook generation method, channel estimation method, apparatus, and storage medium",
-      "website_action": "Identifiers rechecked; application number and application/grant publication labels clarified. ZL patent number added for confirmed Chinese historical grants.",
+      "website_action": "Identifiers rechecked; application number and application/grant publication labels clarified. ZL patent number added for confirmed Chinese historical grants. Verified Chinese name added beneath the English title, with Chinese family provenance labelled where applicable.",
       "original_website_text": "CN7 Codebook generation method, channel estimation method, device, and storage medium L. Dai, M. Cui, Z. Zhang , S. Suo, H. Qin, and X. Su CN Patent CN202210112147.4 , Oct. 2022. ( Granted , Grant number: CN116566446B)",
-      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified."
+      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified.",
+      "chinese_title": "码本生成方法、信道估计方法、设备和存储介质",
+      "chinese_title_source": {
+        "type": "original_document",
+        "document_number": "CN116566446A",
+        "url": "https://patentimages.storage.googleapis.com/17/08/09/088366c907dbbc/CN116566446A.pdf",
+        "note": "正式中文题名，取自专利文献首页(54)发明名称。"
+      }
     },
     {
       "id": "CN8",
@@ -752,9 +841,16 @@
         "Old inventor list L. Dai, Z. Zhang, J. Li, S. Suo, X. Su differs from public A document. Official list 戴凌龙/张子健/索士强/杨现俊/宋磊/苏昕; use L. Dai, Z. Zhang, S. Suo, X. Yang, L. Song, X. Su (initials transliterated from Chinese)."
       ],
       "website_title": "Method and apparatus for determining a phase-shift matrix",
-      "website_action": "Identifiers rechecked; application and grant publication labels clarified.",
+      "website_action": "Identifiers rechecked; application and grant publication labels clarified. Verified Chinese name added beneath the English title, with Chinese family provenance labelled where applicable.",
       "original_website_text": "CN8 Method and device for determining phase shift matrix L. Dai, Z. Zhang , J. Li, S. Suo, and X. Su CN Patent CN202211578453.3 , Nov. 2022. (Publication number: CN118174757A)",
-      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified."
+      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified.",
+      "chinese_title": "移相矩阵的确定方法及装置",
+      "chinese_title_source": {
+        "type": "original_document",
+        "document_number": "CN118174757A",
+        "url": "https://patentimages.storage.googleapis.com/91/6a/2c/147cefa7d8d672/CN118174757A.pdf",
+        "note": "正式中文题名，取自专利文献首页(54)发明名称。"
+      }
     },
     {
       "id": "CN9",
@@ -817,9 +913,16 @@
         "Old grant CN113452642B belongs to application CN202110708814.0 (Southeast University; 李潇/黄文婷/金石), unrelated to this application. The actual grant CN116260501B matches CN202310539494.X and 戴凌龙/张济达/张子健."
       ],
       "website_title": "RIS and precoding method and apparatus for RIS-assisted OFDM communication systems",
-      "website_action": "Identifiers rechecked; application number and application/grant publication labels clarified. ZL patent number added for confirmed Chinese historical grants.",
+      "website_action": "Identifiers rechecked; application number and application/grant publication labels clarified. ZL patent number added for confirmed Chinese historical grants. Verified Chinese name added beneath the English title, with Chinese family provenance labelled where applicable.",
       "original_website_text": "CN9 Precoding method and device for RIS aided OFDM communication systems L. Dai, J. Zhang, and Z. Zhang CN Patent ZL202310539494.X , Oct. 2023. ( Granted , Grant number: CN113452642B)",
-      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified."
+      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified.",
+      "chinese_title": "RIS及其辅助OFDM通信系统的预编码方法和装置",
+      "chinese_title_source": {
+        "type": "original_document",
+        "document_number": "CN116260501B",
+        "url": "https://patentimages.storage.googleapis.com/d9/f7/06/10182f8a06a3fb/CN116260501B.pdf",
+        "note": "正式中文题名，取自专利文献首页(54)发明名称。"
+      }
     },
     {
       "id": "CN10",
@@ -866,9 +969,16 @@
       ],
       "conflicts": [],
       "website_title": "Distributed positioning and synchronization method for dynamic scenarios",
-      "website_action": "Identifiers rechecked; application and grant publication labels clarified.",
+      "website_action": "Identifiers rechecked; application and grant publication labels clarified. Verified Chinese name added beneath the English title, with Chinese family provenance labelled where applicable.",
       "original_website_text": "CN10 A distributed localization and synchronization method for dynamic scenarios Y. Shen, H. Zhao, H. Gao, and Z. Zhang CN Patent CN202410254042.1 , Mar. 2024. (Publication number: CN118368017A)",
-      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified."
+      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified.",
+      "chinese_title": "一种动态场景分布式定位与同步方法",
+      "chinese_title_source": {
+        "type": "original_document",
+        "document_number": "CN118368017A",
+        "url": "https://patentimages.storage.googleapis.com/66/f0/11/467a2d643a000a/CN118368017A.pdf",
+        "note": "正式中文题名，取自专利文献首页(54)发明名称。"
+      }
     },
     {
       "id": "CN11",
@@ -925,9 +1035,16 @@
         "Old list omitted Richard Mackenzie and Mo Hao; both appear on the formal CN B front page. transparent should be transmissive."
       ],
       "website_title": "Wireless telecommunications network including a multi-layer transmissive reconfigurable intelligent surface",
-      "website_action": "Identifiers rechecked; application number and application/grant publication labels clarified. ZL patent number added for confirmed Chinese historical grants.",
+      "website_action": "Identifiers rechecked; application number and application/grant publication labels clarified. ZL patent number added for confirmed Chinese historical grants. Verified Chinese name added beneath the English title, with Chinese family provenance labelled where applicable.",
       "original_website_text": "CN11 Wireless telecommunications network including multi-layer transparent reconfigurable intelligent surfaces L. Dai, K. Liu, and Z. Zhang CN Patent CN202280015597.X , Jan. 2022. ( Granted , Grant number: CN116868518B)",
-      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified."
+      "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified.",
+      "chinese_title": "包括多层透射可重新配置智能表面的无线电信网络",
+      "chinese_title_source": {
+        "type": "original_document",
+        "document_number": "CN116868518B",
+        "url": "https://patentimages.storage.googleapis.com/2e/ed/fc/1c82dd25de032a/CN116868518B.pdf",
+        "note": "正式中文题名，取自专利文献首页(54)发明名称。"
+      }
     }
   ],
   "schema_version": 2,
@@ -936,6 +1053,8 @@
     "verified_identifiers.application_number": "Application identifier, including the check digit where applicable.",
     "verified_identifiers.publication_number": "Published application identifier, including the country and document kind code.",
     "verified_identifiers.grant_publication_number": "Grant publication identifier, including the country and document kind code; previously named grant_number.",
-    "verified_identifiers.patent_number": "For confirmed Chinese grants, ZL followed by the numeric application identifier and check digit. Distinct from CN...B grant publication."
+    "verified_identifiers.patent_number": "For confirmed Chinese grants, ZL followed by the numeric application identifier and check digit. Distinct from CN...B grant publication.",
+    "chinese_title": "Verified Chinese title; for English-original IP4/IP5/IP6 the title is explicitly attributed to the corresponding Chinese national-stage family document.",
+    "chinese_title_source": "Source document, URL and provenance type. A Chinese family title does not assert an original Chinese title in the English-language grant."
   }
 }

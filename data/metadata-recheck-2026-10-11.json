@@ -12,7 +12,9 @@
     "new_patent_identifier_errors": 0,
     "new_DOI_metadata_mismatches": 0,
     "Chinese_ZL_patent_numbers_added": 8,
-    "grant_publication_labels_clarified": 10
+    "grant_publication_labels_clarified": 10,
+    "Chinese_patent_titles_added": 16,
+    "Chinese_family_titles_explicitly_labelled": 3
   },
   "terminology_source": "https://www.cnipa.gov.cn/jact/front/mailpubdetail.do?sysid=12&transactId=520307",
   "retained_uncertainties": [
@@ -51,7 +53,14 @@
       },
       "limitations": [
         "Current legal force not determined."
-      ]
+      ],
+      "chinese_title": "低功耗的智能超表面硬件结构、预编码方法及装置",
+      "chinese_title_source": {
+        "type": "original_document",
+        "document_number": "WO2023071264A1",
+        "url": "https://patentimages.storage.googleapis.com/40/2d/1f/883a2946b647b1/WO2023071264A1.pdf",
+        "note": "正式WO文献首页所列中文题名。"
+      }
     },
     {
       "id": "IP2",
@@ -81,7 +90,12 @@
       },
       "limitations": [
         "Current legal force not determined."
-      ]
+      ],
+      "chinese_title": null,
+      "chinese_title_source": {
+        "type": "no_verified_chinese_title",
+        "note": "原始WO文献为英文，未核实本申请的正式中文题名；保留英文，不自行回译。"
+      }
     },
     {
       "id": "IP3",
@@ -111,7 +125,14 @@
       },
       "limitations": [
         "Current legal force not determined."
-      ]
+      ],
+      "chinese_title": "能效公平无蜂窝网络的资源分配及预编码方法与装置",
+      "chinese_title_source": {
+        "type": "original_document",
+        "document_number": "WO2022262104A1",
+        "url": "https://patentimages.storage.googleapis.com/81/2a/c8/3e1e6b11d5a32f/WO2022262104A1.pdf",
+        "note": "正式WO文献首页所列中文题名。"
+      }
     },
     {
       "id": "IP4",
@@ -141,7 +162,14 @@
       },
       "limitations": [
         "Current legal force not determined."
-      ]
+      ],
+      "chinese_title": "包括多层透射可重新配置智能表面的无线电信网络",
+      "chinese_title_source": {
+        "type": "chinese_family_document",
+        "document_number": "CN116868518B",
+        "url": "https://patentimages.storage.googleapis.com/2e/ed/fc/1c82dd25de032a/CN116868518B.pdf",
+        "note": "中国国家阶段同族文献的正式中文名称；不作为英文原始文献的中文原题名。"
+      }
     },
     {
       "id": "IP5",
@@ -172,7 +200,14 @@
       },
       "limitations": [
         "Current legal force not determined."
-      ]
+      ],
+      "chinese_title": "包括多层透射可重新配置智能表面的无线电信网络",
+      "chinese_title_source": {
+        "type": "chinese_family_document",
+        "document_number": "CN116868518B",
+        "url": "https://patentimages.storage.googleapis.com/2e/ed/fc/1c82dd25de032a/CN116868518B.pdf",
+        "note": "中国国家阶段同族文献的正式中文名称；不作为英文原始文献的中文原题名。"
+      }
     },
     {
       "id": "IP6",
@@ -202,7 +237,14 @@
       },
       "limitations": [
         "Current legal force not determined."
-      ]
+      ],
+      "chinese_title": "包括多层透射可重新配置智能表面的无线电信网络",
+      "chinese_title_source": {
+        "type": "chinese_family_document",
+        "document_number": "CN116868518B",
+        "url": "https://patentimages.storage.googleapis.com/2e/ed/fc/1c82dd25de032a/CN116868518B.pdf",
+        "note": "中国国家阶段同族文献的正式中文名称；不作为英文原始文献的中文原题名。"
+      }
     },
     {
       "id": "CN1",
@@ -246,7 +288,14 @@
       },
       "limitations": [
         "A publication verified. No matching B grant document was independently confirmed in the accessible sources; this does not prove non-grant or pending legal status. Preserve published application display and unverified grant status."
-      ]
+      ],
+      "chinese_title": "能效公平无蜂窝网络的资源分配及预编码方法与装置",
+      "chinese_title_source": {
+        "type": "original_document",
+        "document_number": "CN113473499A",
+        "url": "https://patentimages.storage.googleapis.com/9e/2a/23/fd74cfcd23c925/CN113473499A.pdf",
+        "note": "正式中文题名，取自专利文献首页(54)发明名称。"
+      }
     },
     {
       "id": "CN2",
@@ -289,7 +338,14 @@
         "inventor_list_and_order": "match",
         "new_errors": []
       },
-      "limitations": []
+      "limitations": [],
+      "chinese_title": "低功耗的智能超表面硬件结构、预编码方法及装置",
+      "chinese_title_source": {
+        "type": "original_document",
+        "document_number": "CN114040478B",
+        "url": "https://patentimages.storage.googleapis.com/f8/84/76/b33cf919244cc1/CN114040478B.pdf",
+        "note": "正式中文题名，取自专利文献首页(54)发明名称。"
+      }
     },
     {
       "id": "CN3",
@@ -332,7 +388,14 @@
         "inventor_list_and_order": "match",
         "new_errors": []
       },
-      "limitations": []
+      "limitations": [],
+      "chinese_title": "一种无线网络联合定位方法及系统",
+      "chinese_title_source": {
+        "type": "original_document",
+        "document_number": "CN112887906B",
+        "url": "https://patentimages.storage.googleapis.com/6f/1c/8f/f8cf09824fb487/CN112887906B.pdf",
+        "note": "正式中文题名，取自专利文献首页(54)发明名称。"
+      }
     },
     {
       "id": "CN4",
@@ -375,7 +438,14 @@
         "inventor_list_and_order": "match",
         "new_errors": []
       },
-      "limitations": []
+      "limitations": [],
+      "chinese_title": "一种动态网络相对定位方法",
+      "chinese_title_source": {
+        "type": "original_document",
+        "document_number": "CN108469600B",
+        "url": "https://patentimages.storage.googleapis.com/40/60/bf/51b499cdff9706/CN108469600B.pdf",
+        "note": "正式中文题名，取自专利文献首页(54)发明名称。"
+      }
     },
     {
       "id": "CN5",
@@ -418,7 +488,14 @@
         "inventor_list_and_order": "match",
         "new_errors": []
       },
-      "limitations": []
+      "limitations": [],
+      "chinese_title": "一种网络测距方法及装置",
+      "chinese_title_source": {
+        "type": "original_document",
+        "document_number": "CN111262755B",
+        "url": "https://patentimages.storage.googleapis.com/14/01/20/f2f2ab63dcb4fd/CN111262755B.pdf",
+        "note": "正式中文题名，取自专利文献首页(54)发明名称。"
+      }
     },
     {
       "id": "CN6",
@@ -461,7 +538,14 @@
         "inventor_list_and_order": "match",
         "new_errors": []
       },
-      "limitations": []
+      "limitations": [],
+      "chinese_title": "无人车网络编队的运动规划和协作定位方法及装置",
+      "chinese_title_source": {
+        "type": "original_document",
+        "document_number": "CN108664024B",
+        "url": "https://patentimages.storage.googleapis.com/15/b1/6b/69e0053367c04d/CN108664024B.pdf",
+        "note": "正式中文题名，取自专利文献首页(54)发明名称。"
+      }
     },
     {
       "id": "CN7",
@@ -506,7 +590,14 @@
       },
       "limitations": [
         "The original B PDF could not be obtained. Grant document number and historical grant date are supported by the fresh B index and GR01 event, with primary A-cover identity confirmation; do not call the grant fields directly primary-cover-verified."
-      ]
+      ],
+      "chinese_title": "码本生成方法、信道估计方法、设备和存储介质",
+      "chinese_title_source": {
+        "type": "original_document",
+        "document_number": "CN116566446A",
+        "url": "https://patentimages.storage.googleapis.com/17/08/09/088366c907dbbc/CN116566446A.pdf",
+        "note": "正式中文题名，取自专利文献首页(54)发明名称。"
+      }
     },
     {
       "id": "CN8",
@@ -550,7 +641,14 @@
       },
       "limitations": [
         "A publication verified. No matching B grant document was independently confirmed in the accessible sources; this does not prove non-grant or pending legal status. Preserve published application display and unverified grant status."
-      ]
+      ],
+      "chinese_title": "移相矩阵的确定方法及装置",
+      "chinese_title_source": {
+        "type": "original_document",
+        "document_number": "CN118174757A",
+        "url": "https://patentimages.storage.googleapis.com/91/6a/2c/147cefa7d8d672/CN118174757A.pdf",
+        "note": "正式中文题名，取自专利文献首页(54)发明名称。"
+      }
     },
     {
       "id": "CN9",
@@ -595,7 +693,14 @@
       },
       "limitations": [
         "Historic grant is verified; the index has a later fee-related termination event. This audit makes no present legal-force conclusion."
-      ]
+      ],
+      "chinese_title": "RIS及其辅助OFDM通信系统的预编码方法和装置",
+      "chinese_title_source": {
+        "type": "original_document",
+        "document_number": "CN116260501B",
+        "url": "https://patentimages.storage.googleapis.com/d9/f7/06/10182f8a06a3fb/CN116260501B.pdf",
+        "note": "正式中文题名，取自专利文献首页(54)发明名称。"
+      }
     },
     {
       "id": "CN10",
@@ -639,7 +744,14 @@
       },
       "limitations": [
         "A publication verified. No matching B grant document was independently confirmed in the accessible sources; this does not prove non-grant or pending legal status. Preserve published application display and unverified grant status."
-      ]
+      ],
+      "chinese_title": "一种动态场景分布式定位与同步方法",
+      "chinese_title_source": {
+        "type": "original_document",
+        "document_number": "CN118368017A",
+        "url": "https://patentimages.storage.googleapis.com/66/f0/11/467a2d643a000a/CN118368017A.pdf",
+        "note": "正式中文题名，取自专利文献首页(54)发明名称。"
+      }
     },
     {
       "id": "CN11",
@@ -682,7 +794,14 @@
         "inventor_list_and_order": "match",
         "new_errors": []
       },
-      "limitations": []
+      "limitations": [],
+      "chinese_title": "包括多层透射可重新配置智能表面的无线电信网络",
+      "chinese_title_source": {
+        "type": "original_document",
+        "document_number": "CN116868518B",
+        "url": "https://patentimages.storage.googleapis.com/2e/ed/fc/1c82dd25de032a/CN116868518B.pdf",
+        "note": "正式中文题名，取自专利文献首页(54)发明名称。"
+      }
     }
   ],
   "papers": [

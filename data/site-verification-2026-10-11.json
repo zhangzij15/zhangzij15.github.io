@@ -54,18 +54,44 @@
   ],
   "B2_retained": true,
   "HTML_jemdoc_data_consistent": true,
-  "CSS_and_other_pages_unchanged": true,
   "browser_layout": [
     {
       "viewport_width": 1280,
       "document_scroll_width": 1265,
+      "Chinese_titles": 16,
+      "Chinese_title_font_size": "15px",
       "overflowing_patent_rows": 0
     },
     {
       "viewport_width": 390,
       "document_scroll_width": 375,
+      "Chinese_titles": 16,
       "overflowing_patent_rows": 0
     }
   ],
-  "issues": []
+  "issues": [],
+  "Chinese_titles_verified": [
+    "IP1",
+    "IP3",
+    "IP4",
+    "IP5",
+    "IP6",
+    "CN1",
+    "CN2",
+    "CN3",
+    "CN4",
+    "CN5",
+    "CN6",
+    "CN7",
+    "CN8",
+    "CN9",
+    "CN10",
+    "CN11"
+  ],
+  "Chinese_title_count": 16,
+  "Chinese_family_title_labels": 3,
+  "English_only_IP2_retained": true,
+  "existing_English_titles_identifiers_dates_links_preserved": true,
+  "other_HTML_pages_unchanged": true,
+  "shared_CSS_change": "Chinese patent title typography added."
 }
