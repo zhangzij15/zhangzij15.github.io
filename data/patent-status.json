@@ -248,7 +248,7 @@
       "title": "Wireless telecommunications network including a multi-layer transmissive reconfigurable intelligent surface",
       "official_title": "Wireless telecommunications network including a multi-layer transmissive reconfigurable intelligent surface",
       "title_is_translation": false,
-      "inventors": "L. Dai, K. Liu, Z. Zhang, R. Mackenzie, and M. Hao",
+      "inventors": "L. Dai, K. Liu, Z. Zhang, R. MacKenzie, and M. Hao",
       "proposed_venue": "U.S. patent, application US18/277,668; published as US20240039592A1, 2024-02-01.",
       "proposed_recognition": "Granted: grant publication US12028139B2; 2024-07-02.",
       "sources": [
@@ -271,16 +271,18 @@
         "source_link",
         "grant_date",
         "grant_number",
-        "granted_label"
+        "granted_label",
+        "co_inventor_name_capitalization"
       ],
       "notes": [
-        "Filed date is the PCT filing date 2022-01-26; U.S. national-stage entry under 35 USC 371 is 2023-08-17, as explicitly shown on the grant front page."
+        "Filed date is the PCT filing date 2022-01-26; U.S. national-stage entry under 35 USC 371 is 2023-08-17, as explicitly shown on the grant front page.",
+        "The USPTO grant front page (72) prints Richard MacKenzie; display the abbreviated surname as R. MacKenzie. This capitalization correction does not change inventor identity, order, identifiers, dates or grant status."
       ],
       "conflicts": [
         "Old US2024039592A1 lacks a zero; correct US20240039592A1, published 2024-02-01. Nov. 2021 is not the filing, publication, or grant date."
       ],
       "website_title": "Wireless telecommunications network including a multi-layer transmissive reconfigurable intelligent surface",
-      "website_action": "Identifiers rechecked; application and grant publication labels clarified. Verified Chinese name added beneath the English title, with Chinese family provenance labelled where applicable.",
+      "website_action": "Identifiers rechecked; application and grant publication labels clarified. Verified Chinese name added beneath the English title, with Chinese family provenance labelled where applicable. U.S. co-inventor surname capitalization corrected to MacKenzie from the grant front page on 2026-10-17.",
       "original_website_text": "IP5 Wireless telecommunications network including a multi-layer transmissive reconfigureable intelligent surface L. Dai, K. Liu, Z. Zhang , R. Mackenzie, and M. Hao US Patent US2024039592A1 , Nov. 2021. ( Granted , Grant number: US12028139B2)",
       "recheck_result": "No newly identified mismatch in application or publication identifiers; terminology clarified.",
       "chinese_title": "包括多层透射可重新配置智能表面的无线电信网络",
@@ -289,7 +291,8 @@
         "document_number": "CN116868518B",
         "url": "https://patentimages.storage.googleapis.com/2e/ed/fc/1c82dd25de032a/CN116868518B.pdf",
         "note": "中国国家阶段同族文献的正式中文名称；不作为英文原始文献的中文原题名。"
-      }
+      },
+      "display_revised_as_of": "2026-10-17"
     },
     {
       "id": "IP6",

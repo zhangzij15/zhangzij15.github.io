@@ -75,52 +75,6 @@
       "rechecked_as_of": "2026-10-11"
     },
     {
-      "id": "B2",
-      "title": "Optimization of Active Metasurfaces",
-      "authors": [],
-      "old_title": "Optimization of Active Metasurfaces",
-      "old_authors": "Z. Zhang , Z. Xu, H. Li, and L. Dai",
-      "old_venue": "in Reconfigurable Metasurfaces for Wireless Communications: Architectures, Modeling, and Optimization , Part B, Springer Nature, 2024.",
-      "venue": null,
-      "volume": null,
-      "issue": null,
-      "pages": null,
-      "article_number": null,
-      "year": null,
-      "month": null,
-      "doi": null,
-      "status": "unverified",
-      "publication_status": "not_verified",
-      "publisher": null,
-      "online_date": null,
-      "print_date": null,
-      "source_urls": [
-        "https://api.crossref.org/works?query.title=Optimization%20of%20Active%20Metasurfaces&rows=6",
-        "https://link.springer.com/book/10.1007/978-981-95-1814-2"
-      ],
-      "evidence": [
-        "Exact title searches, Crossref title search, and Springer searches did not locate this exact chapter/author list. The best Crossref candidate is an unrelated 2014 SPIE item and is rejected. A superficially similar Springer book (10.1007/978-981-95-1814-2, published July 2026) contains Active RISs: Modeling and Optimization pp.227–268 by Tasci/Gavriilidis/Basar/Alexandropoulos, not Zhang/Xu/Li/Dai. Do not use that book or chapter metadata for B2. Existing 2024 citation is supplied content, not verified publication evidence."
-      ],
-      "changes": [],
-      "unverified_fields": [
-        "publisher record for this exact chapter",
-        "DOI",
-        "final book title",
-        "publication status",
-        "year",
-        "chapter number",
-        "pages",
-        "author list"
-      ],
-      "checked_as_of": "2026-10-10",
-      "candidate_similarity": 0.72,
-      "rejected_candidate_doi": "10.1117/12.2040372",
-      "authors_supplied": "Z. Zhang , Z. Xu, H. Li, and L. Dai",
-      "recommended_venue_html": null,
-      "website_action": "Original entry and supplied 2024 information retained unchanged at the user's request on 2026-10-10; no unverified metadata added.",
-      "rechecked_as_of": "2026-10-11"
-    },
-    {
       "id": "J1",
       "title": "Active RIS vs. Passive RIS: Which Will Prevail in 6G?",
       "authors": [
@@ -239,7 +193,8 @@
       "source_urls": [
         "https://api.crossref.org/works/10.1109%2Ftsp.2021.3088755",
         "https://ieeexplore.ieee.org/document/9459505/",
-        "https://doi.org/10.1109/tsp.2021.3088755"
+        "https://doi.org/10.1109/tsp.2021.3088755",
+        "https://signalprocessingsociety.org/our-story/news-updates/2026/01/2025-ieee-signal-processing-society-awards-winners"
       ],
       "evidence": [
         "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record.",
@@ -256,6 +211,12 @@
           "field": "doi",
           "old": null,
           "new": "10.1109/tsp.2021.3088755"
+        },
+        {
+          "field": "displayed_award_name",
+          "old": "IEEE SPS Best Paper Award",
+          "new": "2025 IEEE Signal Processing Society Young Author Best Paper Award",
+          "kind": "Use the verified award category and year."
         }
       ],
       "unverified_fields": [],
@@ -263,8 +224,15 @@
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
       "recommended_venue_html": "<i>IEEE Transactions on Signal Processing</i>, vol. 69, pp. 4085–4101, 2021.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
-      "rechecked_as_of": "2026-10-11"
+      "website_action": "Verified bibliographic fields and DOI retained; award label expanded to the official Young Author Best Paper Award category with the 2025 award year.",
+      "rechecked_as_of": "2026-10-11",
+      "recognition": {
+        "award_name": "IEEE Signal Processing Society Young Author Best Paper Award",
+        "award_year": 2025,
+        "source_url": "https://signalprocessingsociety.org/our-story/news-updates/2026/01/2025-ieee-signal-processing-society-awards-winners",
+        "checked_as_of": "2026-10-17"
+      },
+      "display_revised_as_of": "2026-10-17"
     },
     {
       "id": "J3",
