@@ -1,0 +1,27 @@
+# Inline IEEE citations
+
+The Citation button expands a selectable reference directly below its paper's action row. Each reference opens independently and can be closed with the same button. Native buttons support keyboard activation and expose their expanded state to assistive technology. Text is embedded in the static HTML, so opening a citation requires no metadata API or external service.
+
+Citation-button coverage: the verified book chapter, 21 journal papers, 14 conference papers, the official Tinker@Home team description paper, and all 16 selected papers on Projects. Demonstrations without a citable paper and patent records have no expandable button; their references are included in the compact list described below.
+
+## Maintaining references
+
+Run `python scripts/build_citations.py` after updating `data/publication-metadata.json`. The helper replaces only its marked button/panel fragments and updates the citation assets' version strings. Repeated runs produce identical files. Do not use the legacy jemdoc generator to rebuild these pages.
+
+The helper also generates the compact `publication-list.html` page, linked from Publications. Its 56 entries follow the detailed page's existing order and use continuous bracketed reference numbers: 39 publication/contribution records followed by 6 international and 11 Chinese patent records. Paper/chapter references reuse the same bibliographic fields as the Citation controls. O1/O2 appear as demonstrations, without claiming proceedings status or inventing DOI/pages. This page includes no figures or per-entry JavaScript.
+
+The list also provides compact Paper/Code links, plus Book/Slides for those existing resource types. URLs and ESI/award/grant labels are copied by publication ID from the corresponding detailed entry; no new resource URLs or recognition claims are inferred. Entries without code have no Code link or unavailable-code notice. Resource links remain outside the citation paragraph so reference text stays separate. Print hides resource links while retaining recognition text.
+
+The compact list has a personal display treatment requested by the author: all author names are retained in order, Zijian Zhang is bold in every entry, and a superscript star identifies his corresponding-author papers. The stars are taken only from the explicit author bylines on Publications (currently J10, J11, C8, and C9). Full structured names distinguish Zijian Zhang from Zexu Zhang in J14; only Zijian is bold. Long bylines, including J21 and O3, are expanded so his name remains visible. Supplied demo/patent bylines are highlighted only when they contain one unambiguous Z. Zhang. The page includes a star legend.
+
+Patent citations reuse the audited `data/patent-status.json` records and follow the IEEE Reference Guide's patent pattern: inventor(s), title, jurisdiction/document type, publication identifier, abbreviated month, day, year. Grants cite their grant publication number and issue date; applications cite their application publication number and publication date. PCT documents are labelled international patent applications. Official Chinese titles are retained for Chinese documents with an `(in Chinese)` notation; international documents retain their official English titles, including source spelling. Application numbers and Chinese ZL identifiers are not substituted for publication identifiers. A citation to a grant records the issuance event and makes no claim about present enforceability. Patent-family members remain separate entries, matching the detailed page.
+
+The formatter uses initials before surnames, sentence-case article titles, italic abbreviated journal/proceedings names, volume/issue/pages when verified, abbreviated months, and DOI. The expandable Citation controls use IEEE's first-author-plus-*et al.* convention for more than six authors and omit corresponding-author markers and numbering. The compact personal list uses the complete author lists, emphasis, and stars described above.
+
+- Months: Jan., Feb., Mar., Apr., May, Jun., Jul., Aug., Sep., Oct., Nov., Dec.
+- J2 and J7 retain the verified year without an unconfirmed month or issue.
+- J9 remains early access. IEEE Xplore's [official abstract page](https://ieeexplore.ieee.org/abstract/document/11535312/) reports May 26, 2026. The citation uses that date and DOI while omitting placeholder volume PP, issue 99, and provisional pages 1–6.
+- J6 and C5 retain Robert W. Heath, Jr.'s suffix from the linked paper bylines.
+- B1 has no unverified editors or publication location added. O3 links to the [official RoboCup archive](https://tdp.robocup.org/tdp/2019-tdp-tinker-robocuphome-open-platform/) without invented pages or DOI.
+
+Style follows the IEEE Reference Guide linked from the [IEEE Author Center](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/create-the-text-of-your-article/ieee-editorial-style-manual/). In particular, *IEEE Commun. Standards Mag.* is corroborated by citations on [IEEE Xplore](https://xplorestaging.ieee.org/document/11146402/references). The audited source metadata and existing publication/patent descriptions remain unchanged.
