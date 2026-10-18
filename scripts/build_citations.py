@@ -13,7 +13,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-STYLE_VERSION = '20261018-compact-resources'
+STYLE_VERSION = '20261018-red-recognition'
 MONTHS = ("", "Jan.", "Feb.", "Mar.", "Apr.", "May", "Jun.", "Jul.",
           "Aug.", "Sep.", "Oct.", "Nov.", "Dec.")
 JOURNALS = {
@@ -57,6 +57,44 @@ BUTTON_BLOCK = re.compile(r'<!-- citation-button:[^>]+ -->.*?<!-- /citation-butt
 PANEL_BLOCK = re.compile(r'<!-- citation-panel:[^>]+ -->.*?<!-- /citation-panel -->', re.S)
 SCRIPT_TAG = '<script src="assets/js/citations.js?v=20261017" defer></script>'
 SCRIPT_BLOCK = re.compile(r'<script\b[^>]*src="assets/js/citations\.js(?:\?[^\"]*)?"[^>]*>\s*</script>\n?', re.I)
+RECOGNITION_ROW = re.compile(r'<p class="publication-recognition">(.*?)</p>', re.S)
+RECOGNITION_ICONS = {
+    'esi': '<path d="m12 3 2.8 5.7 6.2.9-4.5 4.4 1.1 6.2-5.6-3-5.6 3 1.1-6.2L3 9.6l6.2-.9Z"/>',
+    'hot': '<path d="M13 3c1 4-2 5-2 8 0 1.4 1 2.4 2.2 2.6 1.3-1.2 1.9-2.6 1.8-4.2 3.2 2.7 4 4.7 4 6.6a7 7 0 0 1-14 0c0-4.4 4.4-6.4 8-13Z"/>',
+    'award': '<path d="M8 3h8v6a4 4 0 0 1-8 0V3Z"/><path d="M8 5H4v3a4 4 0 0 0 4 4m8-7h4v3a4 4 0 0 1-4 4M12 13v5m-4 3h8m-6-3h4v3h-4Z"/>',
+    'support': '<path d="m3 8 9-5 9 5-9 5-9-5Zm4 3v6c3 3 7 3 10 0v-6m4-3v8"/>',
+}
+
+
+def recognition_kind(label):
+    if label.startswith('ESI '):
+        return 'hot' if 'hot paper' in label.lower() else 'esi'
+    return 'award' if 'award' in label.lower() else 'support'
+
+
+def recognition_labels(content):
+    # Badge icons contain SVG paths, with no text or nested span elements.
+    return [html.unescape(re.sub(r'<[^>]+>', '', label)).strip()
+            for label in re.findall(r'<span\b[^>]*>(.*?)</span>', content, re.S)]
+
+
+def recognition_badge_html(label, compact=False):
+    kind = recognition_kind(label)
+    legacy_kind = 'esi' if kind == 'hot' else kind
+    classes = ('reference-badge reference-badge--' + legacy_kind
+               if compact else 'recognition-label')
+    classes += ' recognition-badge recognition-badge--' + kind
+    icon = ('<svg class="recognition-icon" viewBox="0 0 24 24" width="14" height="14" '
+            'aria-hidden="true" focusable="false">' + RECOGNITION_ICONS[kind] + '</svg>')
+    return f'<span class="{classes}">{icon}{html.escape(label)}</span>'
+
+
+def refresh_recognition_row(match):
+    labels = recognition_labels(match[1])
+    if not labels or any(not label for label in labels):
+        raise ValueError('Unrecognized publication-recognition markup')
+    return '<p class="publication-recognition">' + ''.join(
+        recognition_badge_html(label) for label in labels) + '</p>'
 
 
 def sentence_title(title):
@@ -174,6 +212,7 @@ def citation_html(record, personalize=False, corresponding=False):
 def refresh_page(path, records):
     original = path.read_text(encoding='utf-8')
     source = PANEL_BLOCK.sub('', BUTTON_BLOCK.sub('', original))
+    source = RECOGNITION_ROW.sub(refresh_recognition_row, source)
     by_doi = {r['doi'].lower(): r for r in records if r.get('doi')}
     counts = Counter()
 
@@ -271,13 +310,11 @@ def reference_resources_html(entry, title):
             accessible_name = html.escape(label + ' for ' + title, quote=True)
             links.append(f'<a href="{href}"{extras} aria-label="{accessible_name}">{label}</a>')
     links_html = ' <span class="reference-links">' + ''.join(links) + '</span>' if links else ''
-    recognition = re.search(r'<p class="publication-recognition">(.*?)</p>', entry, re.S)
+    recognition = RECOGNITION_ROW.search(entry)
     badges = []
     if recognition:
-        for label in re.findall(r'<span\b[^>]*>(.*?)</span>', recognition[1], re.S):
-            label = html.unescape(re.sub(r'<[^>]+>', '', label)).strip()
-            kind = 'esi' if label.startswith('ESI ') else ('award' if 'award' in label.lower() else 'support')
-            badges.append(f'<span class="reference-badge reference-badge--{kind}">{html.escape(label)}</span>')
+        for label in recognition_labels(recognition[1]):
+            badges.append(recognition_badge_html(label, compact=True))
         if not badges:
             raise ValueError('Unrecognized publication-recognition markup: ' + title)
     badges_html = '<div class="reference-recognition">' + ''.join(badges) + '</div>' if badges else ''

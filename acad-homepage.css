@@ -180,8 +180,8 @@ img { max-width: 100%; height: auto; }
 .publication-actions { display: flex; flex-wrap: wrap; gap: 7px 9px; margin-top: 12px; font-size: 13px; line-height: 1.6; }
 .publication-actions a, .publication-actions .citation-toggle { display: inline-flex; align-items: center; justify-content: center; min-height: 34px; padding: 5px 12px; border: 1px solid #d0e1ee; border-radius: 6px; background: #f4f8fc; line-height: 1.5; }
 .publication-actions a:hover { text-decoration: none; border-color: #8fb4d1; background: #e3f0fa; color: var(--secondary); box-shadow: 0 2px 6px rgba(32, 72, 109, .06); }
-.publication-actions a.publication-action--primary { border-color: #285f9c; background: #2e659b; color: #fff; box-shadow: 0 2px 5px rgba(32, 82, 134, .09); }
-.publication-actions a.publication-action--primary:hover { border-color: #214d79; background: #214f7c; color: #fff; }
+.publication-actions a.publication-action--primary { border-color: #cbddea; background: #edf4fa; color: #38617e; box-shadow: none; }
+.publication-actions a.publication-action--primary:hover { border-color: #a5c3d8; background: #e3eef7; color: #244c70; box-shadow: none; }
 .publication-actions a[href^="codes/"] { border-color: #c8e0df; background: #eff8f6; color: var(--teal); }
 .publication-actions a[href^="codes/"]:hover { border-color: var(--teal); background: #e3f1ed; color: #1d5960; }
 .publication-actions a[href^="https://doi.org/"] { border-color: #d1dfef; background: #eef4fc; color: var(--blue); }
@@ -195,9 +195,36 @@ img { max-width: 100%; height: auto; }
 .citation-panel[hidden] { display: none; }
 .citation-label { display: block; margin-bottom: 4px; color: var(--gold-ink); font-size: 11px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; }
 #layout-content .citation-panel .citation-text { margin: 0; font-size: 14px; line-height: 1.75; user-select: text; }
-#layout-content .publication-recognition { margin: 8px 0 0; color: var(--coral); font-size: 12px; line-height: 1.8; }
-.publication-recognition span { display: inline-block; margin-right: 7px; padding: 1px 7px; border: 1px solid #ead6cf; border-radius: 4px; background: #fcf2ef; }
-.publication-recognition span[style] { color: var(--coral) !important; }
+#layout-content .publication-recognition { display: flex; flex-wrap: wrap; gap: 6px 7px; margin: 9px 0 0; font-size: 12px; line-height: 1.6; }
+/* Light enamel and metal finishes distinguish recognition types without competing with titles. */
+.recognition-badge {
+  --badge-ink: #36566f;
+  --badge-from: #f4f8fc;
+  --badge-to: #e1edf5;
+  --badge-edge: #b9cddd;
+  --badge-shadow: rgba(38, 75, 108, .08);
+  --badge-highlight: rgba(255, 255, 255, .8);
+  --badge-gloss: rgba(255, 255, 255, .14);
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  max-width: 100%;
+  padding: 2px 8px 2px 7px;
+  border: 1px solid var(--badge-edge);
+  border-radius: 6px;
+  color: var(--badge-ink);
+  background: linear-gradient(115deg, transparent 30%, var(--badge-gloss) 48%, transparent 66%), linear-gradient(110deg, var(--badge-from), var(--badge-to));
+  box-shadow: inset 0 1px 0 var(--badge-highlight), 0 2px 4px var(--badge-shadow);
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1.6;
+  text-align: left;
+  overflow-wrap: anywhere;
+}
+.recognition-badge--esi { --badge-ink: #a63d45; --badge-from: #f1f7fb; --badge-to: #e7f2ee; --badge-edge: #c7dcd8; --badge-shadow: rgba(24, 75, 102, .025); --badge-highlight: rgba(255, 255, 255, .9); --badge-gloss: rgba(255, 255, 255, .22); }
+.recognition-badge--hot { --badge-ink: #a63d45; --badge-from: #fff7ee; --badge-to: #faeae3; --badge-edge: #e6d0c3; --badge-shadow: rgba(128, 59, 54, .025); --badge-highlight: rgba(255, 255, 255, .9); --badge-gloss: rgba(255, 255, 255, .25); }
+.recognition-badge--award { --badge-ink: #a63d45; --badge-from: #fff6db; --badge-to: #f0dda1; --badge-edge: #c9aa63; --badge-shadow: rgba(139, 101, 36, .12); --badge-highlight: rgba(255, 255, 255, .95); }
+.recognition-icon { flex: 0 0 14px; width: 14px; height: 14px; fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
 #layout-content .patent-status { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 10px; margin: 9px 0 0; color: var(--muted); font-size: 13px; line-height: 1.8; }
 .patent-badge { display: inline-block; padding: 1px 8px; border: 1px solid var(--line); border-radius: 3px; font-weight: 600; }
 .patent-badge--granted { color: var(--teal); border-color: #c4e0d9; background: #eef8f3; }
@@ -222,14 +249,12 @@ img { max-width: 100%; height: auto; }
 .reference-content { min-width: 0; }
 #layout-content .reference-content > .reference-text { display: inline; }
 .reference-links { display: inline-flex; flex-wrap: wrap; gap: 7px; margin-left: 6px; vertical-align: baseline; font-size: 12px; }
-.reference-links a { display: inline-flex; align-items: center; justify-content: center; padding: 2px 7px; border: 1px solid #285f9c; border-radius: 4px; color: #fff; background: #2e659b; font-weight: 600; line-height: 1.6; text-decoration: none; box-shadow: 0 1px 3px rgba(32, 82, 134, .08); }
-.reference-links a:hover { border-color: #214d79; color: #fff; background: #214f7c; text-decoration: none; }
+.reference-links a { display: inline-flex; align-items: center; justify-content: center; padding: 2px 7px; border: 1px solid #cbddea; border-radius: 4px; color: #38617e; background: #edf4fa; font-weight: 600; line-height: 1.6; text-decoration: none; box-shadow: none; }
+.reference-links a:hover { border-color: #a5c3d8; color: #244c70; background: #e3eef7; text-decoration: none; }
 .reference-links a[href^="codes/"] { border-color: #c8e0df; color: var(--teal); background: #eff8f6; }
 .reference-links a[href^="codes/"]:hover { border-color: var(--teal); color: #1d5960; background: #e3f1ed; }
 .reference-recognition { display: flex; flex-wrap: wrap; gap: 5px 7px; margin-top: 5px; }
-.reference-badge { max-width: 100%; padding: 2px 7px; border: 1px solid #d4e2ee; border-radius: 4px; color: var(--primary); background: #f1f6fb; font-size: 12px; line-height: 1.6; }
-.reference-badge--esi { border-color: #cfe2d8; color: var(--teal); background: #eff7f3; }
-.reference-badge--award { border-color: #e7d9bc; color: var(--gold-ink); background: #fbf6e9; }
+.reference-badge { vertical-align: middle; }
 
 /* Each journal article has a representative figure from its own paper. */
 #layout-content .journal-publication {
@@ -396,7 +421,8 @@ img { max-width: 100%; height: auto; }
 }
 @media print {
   .reference-links { display: none; }
-  .reference-badge { border: 0; padding: 0; color: #000; background: transparent; }
+  .recognition-badge { border: 0; padding: 0; color: #000; background: transparent; box-shadow: none; font-weight: 400; }
+  .recognition-icon { display: none; }
   .reference-back, .publication-list-entry { display: none !important; }
   #layout-content .reference-list > li { padding: 6px 0; font-size: 11pt; }
   .reference-number, #layout-content .reference-text { color: #000; }
