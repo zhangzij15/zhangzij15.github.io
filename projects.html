@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Research projects by Zijian Zhang on dense-array channel estimation, fluid antennas, near-field and holographic MIMO, intelligent surfaces, localization, radio maps, and atomic receivers.">
-<link rel="stylesheet" href="acad-homepage.css?v=20261018-red-recognition">
+<link rel="stylesheet" href="acad-homepage.css?v=20261021-figure-viewer">
 <link rel="shortcut icon" type="image/x-icon" href="Tsinghua.ico">
 <title>Research Projects | Zijian Zhang</title>
 <script src="assets/js/citations.js?v=20261017" defer></script>
@@ -21,7 +21,7 @@
 </aside>
 <article class="site-content" id="main-content" tabindex="-1"><div id="layout-content">
 <div id="toptitle"><h1><span class="decorative-emoji" aria-hidden="true">🔬</span>Projects</h1></div>
-<p class="page-intro">Research in wireless communications and signal processing, organized by topic. The summaries describe the methods and findings of selected journal papers.</p>
+<p class="page-intro">Research projects in wireless communications and signal processing, organized by topic. Each summary outlines the research problem, the approach, and the findings of selected journal papers.</p>
 <p class="publication-note"><a href="publications.html">View all publications &rarr;</a></p>
 <nav class="section-nav" aria-label="Research categories"><a href="#channel-estimation"><span class="decorative-emoji" aria-hidden="true">📡</span>Channel Estimation</a><a href="#fluid-antennas"><span class="decorative-emoji" aria-hidden="true">💧</span>Fluid Antennas</a><a href="#near-field"><span class="decorative-emoji" aria-hidden="true">🎯</span>Near-Field XL-MIMO</a><a href="#holographic-mimo"><span class="decorative-emoji" aria-hidden="true">🌐</span>Holographic MIMO</a><a href="#intelligent-surfaces"><span class="decorative-emoji" aria-hidden="true">🪞</span>Intelligent Surfaces</a><a href="#localization-radio-maps"><span class="decorative-emoji" aria-hidden="true">📍</span>Localization &amp; Maps</a><a href="#atomic-receivers"><span class="decorative-emoji" aria-hidden="true">⚛️</span>Atomic Receivers</a></nav>
 <section class="research-category" id="channel-estimation" aria-labelledby="channel-estimation-heading">
@@ -31,7 +31,7 @@
 <div class="project-body">
 <h3 class="project-title">Observation design: from ice filling to 2D ice filling</h3>
 <p class="project-meta">2025–2026 · Bayesian estimation · Dense arrays · RIS</p>
-<p class="project-summary">Spatial correlation in dense arrays can guide the design of informative pilot observations. This work develops ice filling as a discrete counterpart of water filling and extends it to joint transmit-precoder and receive-combiner design through two-dimensional ice filling and a hybrid-array variant. For RIS-aided links, alternating Riemannian optimization jointly designs receive combiners and RIS phase shifts, while received pilots support adaptive covariance learning. The papers report analytical or simulation evidence of improved estimation accuracy under limited pilot resources.</p>
+<p class="project-summary">Spatial correlation in dense arrays provides prior information for designing pilot observations. These studies develop ice filling as a discrete counterpart to water filling and extend it to joint transmit-precoder and receive-combiner design through two-dimensional ice filling and a hybrid-array variant. For RIS-aided links, alternating Riemannian optimization jointly designs receive combiners and RIS phase shifts, with adaptive covariance learning from received pilots. The papers report gains in estimation accuracy under limited pilot resources, supported by analysis or simulations.</p>
 </div>
 </article>
 <div class="project-selected-publications">
@@ -50,7 +50,7 @@
 <div class="project-body">
 <h3 class="project-title">Successive Bayesian reconstruction of spatially continuous channels</h3>
 <p class="project-meta">2024–2025 · Fluid antennas · Kernel learning · Adaptive sampling</p>
-<p class="project-summary">Fluid antenna systems require channel information across candidate antenna positions, but measuring every position is costly. The successive Bayesian reconstructor (S-BAR) models the spatial channel as a stochastic process and uses an experiential kernel to select measurements and reconstruct unobserved channels. Simulations with matched and mismatched channel models show the benefits of reconstruction aided by prior information, without assuming angular sparsity or slow channel variation.</p>
+<p class="project-summary">Fluid antenna systems need channel estimates across many candidate antenna positions, making exhaustive measurement costly. The successive Bayesian reconstructor (S-BAR) models the spatial channel as a stochastic process. It uses an experiential kernel to guide measurement selection and reconstruct channels at unobserved positions. The method does not rely on angular sparsity or slowly varying channels. Simulations with matched and mismatched channel models evaluate the benefits of using prior information.</p>
 </div>
 </article>
 <div class="project-selected-publications">
@@ -67,7 +67,7 @@
 <div class="project-body">
 <h3 class="project-title">Low-overhead beam training: hierarchical search and Bayesian inference</h3>
 <p class="project-meta">2023–2025 · XL-MIMO · Near-field codebooks · Beam training</p>
-<p class="project-summary">Near-field beams depend on both angle and distance, making exhaustive codebook searches costly. A hierarchical method designs multiresolution codebooks using the Gerchberg–Saxton algorithm and adapts them to hybrid arrays without additional time-delay hardware. A subsequent Bayesian regression method uses correlations between codewords to update a Gaussian process posterior and infer promising beams from a small set of measurements. Simulations evaluate the tradeoff between training overhead and achievable rate.</p>
+<p class="project-summary">Near-field beam training must resolve both angle and distance, which makes exhaustive codebook searches costly. A hierarchical approach constructs multiresolution codebooks with the Gerchberg–Saxton algorithm and adapts them to hybrid arrays without additional time-delay hardware. A subsequent Bayesian regression approach exploits correlations among codewords to update a Gaussian process posterior and infer promising beams from a small set of measurements. Simulations evaluate the tradeoff between training overhead and achievable rate.</p>
 </div>
 </article>
 <div class="project-selected-publications">
@@ -85,7 +85,7 @@
 <div class="project-body">
 <h3 class="project-title">Pattern-division multiplexing for continuous-aperture MIMO</h3>
 <p class="project-meta">2022–2023 · Continuous apertures · Multiuser transmission · Pattern optimization</p>
-<p class="project-summary">Continuous-aperture MIMO requires current patterns to be designed over an aperture. Pattern-division multiplexing (PDM) represents these continuous functions by projecting them onto finite orthogonal bases, reducing a functional optimization problem to a tractable finite-dimensional one. Block coordinate descent optimizes the patterns for multiuser sum rate. Simulations show gains over the evaluated baselines.</p>
+<p class="project-summary">In continuous-aperture MIMO, current patterns are functions defined over an aperture. Pattern-division multiplexing (PDM) projects these functions onto finite orthogonal bases, converting the functional optimization into a tractable finite-dimensional problem. Block coordinate descent then optimizes the patterns for multiuser sum rate. Simulations show gains over the evaluated baselines.</p>
 </div>
 </article>
 <article class="project-entry">
@@ -93,7 +93,7 @@
 <div class="project-body">
 <h3 class="project-title">Electromagnetic information theory and wavenumber-domain processing</h3>
 <p class="project-meta">2023–2026 · Random fields · Spatial degrees of freedom · Wavenumber representation</p>
-<p class="project-summary">Spatially continuous apertures require models of electromagnetic fields and subwavelength correlation. A random-field formulation analyzes mutual information between continuous source and destination regions under white and colored noise. A subsequent overview uses a spatial Fourier plane-wave decomposition to describe holographic MIMO in the wavenumber domain. It relates this channel representation to multiplexing, channel estimation, and waveform design, and discusses open questions in wideband and network-level operation.</p>
+<p class="project-summary">Modeling spatially continuous apertures requires an account of electromagnetic fields and correlations at subwavelength separations. A random-field formulation analyzes mutual information between continuous source and destination regions under white and colored noise. A subsequent overview presents a wavenumber-domain description of holographic MIMO using a spatial Fourier plane-wave decomposition. It connects this representation to multiplexing, channel estimation, and waveform design, and discusses open questions for wideband systems and network-level operation.</p>
 </div>
 </article>
 <div class="project-selected-publications">
@@ -112,7 +112,7 @@
 <div class="project-body">
 <h3 class="project-title">RIS-aided cell-free networks and multi-hop transmissions</h3>
 <p class="project-meta">2020–2023 · Cell-free networks · Joint precoding · Multihop links</p>
-<p class="project-summary">RIS-aided cell-free networks combine distributed base stations with low-cost reflecting surfaces to improve network capacity. The wideband framework jointly optimizes base-station precoders and RIS configurations using fractional programming and alternating optimization. Related studies address fairness in energy efficiency and extend channel modeling and beamforming design to multihop RIS reflections. Simulations evaluate the contribution of these reflected paths.</p>
+<p class="project-summary">RIS-aided cell-free networks combine distributed base stations with low-cost reflecting surfaces to improve network capacity. A wideband precoding framework jointly optimizes base-station precoders and RIS configurations through fractional programming and alternating optimization. Related studies address energy-efficiency fairness and extend channel models and beamforming design to multihop RIS reflections. Simulations assess the contribution of these reflected paths.</p>
 </div>
 </article>
 <article class="project-entry">
@@ -120,7 +120,7 @@
 <div class="project-body">
 <h3 class="project-title">Active RIS: signal modeling, architectures, and wideband beamforming</h3>
 <p class="project-meta">2022–2023 · Active metasurfaces · Hardware modeling · Energy efficiency</p>
-<p class="project-summary">Multiplicative fading limits passive RIS links, especially in the presence of a strong direct link. The active RIS study introduces signal amplification, validates an amplification-and-noise model using a fabricated element, and develops joint transmit and reflection beamforming. Related work examines the energy efficiency of subconnected architectures with shared amplifiers and grouped-subcarrier designs for wideband channels. An overview discusses RIS fundamentals, common misconceptions, and the limits imposed by fading.</p>
+<p class="project-summary">Multiplicative fading limits the benefit of passive RIS links, particularly when a strong direct link is present. Active RISs address this limitation through signal amplification. This work validates an amplification-and-noise model using a fabricated element and jointly designs transmit and reflection beamforming. Related work examines the energy efficiency of subconnected architectures with shared amplifiers, along with grouped-subcarrier designs for wideband channels. An overview discusses RIS fundamentals, common misconceptions, and fading-induced limits.</p>
 </div>
 </article>
 <article class="project-entry">
@@ -128,7 +128,7 @@
 <div class="project-body">
 <h3 class="project-title">Compact user-specific RIS for uplink transmission</h3>
 <p class="project-meta">2021–2022 · User-side arrays · Multilayer surfaces · Transmit beamforming</p>
-<p class="project-summary">Large antenna arrays at user devices face size, cost, and power constraints. This work proposes a compact multilayer user-specific RIS that supports phase control and partial amplitude control of the transmitted signal. Alternating optimization of the beamforming design maximizes the uplink signal-to-noise ratio. Simulations assess the architecture as a compact implementation of a large user-side array.</p>
+<p class="project-summary">Large antenna arrays at user devices are constrained by size, cost, and power consumption. This work proposes a compact multilayer user-specific RIS that supports phase control and partial amplitude control of the transmitted signal. Beamforming is designed by alternating optimization to maximize the uplink signal-to-noise ratio. Simulations assess the architecture as a compact implementation of a large user-side array.</p>
 </div>
 </article>
 <div class="project-selected-publications">
@@ -147,7 +147,7 @@
 <div class="project-body">
 <h3 class="project-title">Signal-multiplexing ranging and asynchronous vehicle localization</h3>
 <p class="project-meta">2019–2024 · Network ranging · Clock-error mitigation · Connected vehicles</p>
-<p class="project-summary">Accurate network ranging must account for clock drift while limiting exchanges between node pairs. Signal-multiplexing network ranging reuses transmissions and timestamp relationships to mitigate clock errors with minimal signaling overhead. Extensions use reflected non-line-of-sight signals for joint localization and sensing, and introduce a network-measuring protocol for relative localization among asynchronous moving vehicles. The studies evaluate ranging accuracy, positioning robustness, and measurement timeliness.</p>
+<p class="project-summary">Accurate network ranging must account for clock drift without excessive exchanges between node pairs. Signal-multiplexing network ranging reuses transmissions and timestamp relationships to mitigate clock errors while limiting signaling overhead. Extensions use reflected non-line-of-sight signals for joint localization and sensing, and introduce a network-measuring protocol for relative localization among asynchronous moving vehicles. The studies evaluate ranging accuracy, positioning robustness, and measurement timeliness.</p>
 </div>
 </article>
 <article class="project-entry">
@@ -155,7 +155,7 @@
 <div class="project-body">
 <h3 class="project-title">Urban 3D radio-map reconstruction from sparse UAV measurements</h3>
 <p class="project-meta">2025 · UAV measurements · Gaussian-process regression · 3D radio maps</p>
-<p class="project-summary">Three-dimensional urban radio maps support UAV communications, but dense measurement campaigns are costly. This work collects an urban dataset using a UAV and develops a Gaussian process regression framework to reconstruct radio maps from sparse observations. Offline clustering and online point selection based on posterior estimates identify informative measurements. Experiments evaluate the framework using the collected data.</p>
+<p class="project-summary">Three-dimensional urban radio maps support UAV communications, but obtaining dense measurements is costly. This work collects an urban dataset using a UAV and develops a Gaussian process regression framework to reconstruct radio maps from sparse observations. Offline clustering and posterior-guided online point selection identify informative measurements. Experiments on the collected dataset evaluate the reconstruction framework.</p>
 </div>
 </article>
 <div class="project-selected-publications">
@@ -174,7 +174,7 @@
 <div class="project-body">
 <h3 class="project-title">Atomic reception for wireless communication and sensing</h3>
 <p class="project-meta">2026 · Rydberg atoms · OFDM experiments · Joint source-channel coding</p>
-<p class="project-summary">Rydberg atomic receivers detect radio signals through atomic transitions. This collaborative article reviews their operating principles and recent developments, and reports OFDM reception and image-transmission experiments using quantized deep joint source-channel coding. It discusses practical limitations and potential applications in multiband communication, sensing, and energy-efficient wireless systems.</p>
+<p class="project-summary">Rydberg atomic receivers detect radio signals through atomic transitions. This collaborative article reviews their operating principles and recent developments, and presents experiments on OFDM reception and image transmission using quantized deep joint source-channel coding. It also discusses practical limitations and potential applications in multiband communication, sensing, and energy-efficient wireless systems.</p>
 </div>
 </article>
 <div class="project-selected-publications">

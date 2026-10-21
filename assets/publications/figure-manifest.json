@@ -17,7 +17,13 @@
       ],
       "width": 1280,
       "height": 780,
-      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]",
+      "full_size": {
+        "image": "assets/publications/full/TCOM.webp",
+        "width": 3199,
+        "height": 1949,
+        "encoding": "lossless WebP rendered directly from the source PDF crop"
+      }
     },
     {
       "journal_number": 2,
@@ -35,7 +41,13 @@
       ],
       "width": 567,
       "height": 308,
-      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]",
+      "full_size": {
+        "image": "assets/publications/full/TSP.webp",
+        "width": 3199,
+        "height": 1734,
+        "encoding": "lossless WebP rendered directly from the source PDF crop"
+      }
     },
     {
       "journal_number": 3,
@@ -53,7 +65,13 @@
       ],
       "width": 582,
       "height": 398,
-      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]",
+      "full_size": {
+        "image": "assets/publications/full/JSAC.webp",
+        "width": 3200,
+        "height": 2183,
+        "encoding": "lossless WebP rendered directly from the source PDF crop"
+      }
     },
     {
       "journal_number": 4,
@@ -71,7 +89,13 @@
       ],
       "width": 638,
       "height": 250,
-      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]",
+      "full_size": {
+        "image": "assets/publications/full/TWC.webp",
+        "width": 3199,
+        "height": 1254,
+        "encoding": "lossless WebP rendered directly from the source PDF crop"
+      }
     },
     {
       "journal_number": 5,
@@ -89,7 +113,13 @@
       ],
       "width": 1222,
       "height": 700,
-      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]",
+      "full_size": {
+        "image": "assets/publications/full/TST.webp",
+        "width": 3200,
+        "height": 1832,
+        "encoding": "lossless WebP rendered directly from the source PDF crop"
+      }
     },
     {
       "journal_number": 6,
@@ -107,7 +137,13 @@
       ],
       "width": 623,
       "height": 360,
-      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]",
+      "full_size": {
+        "image": "assets/publications/full/TWC_FAS.webp",
+        "width": 3200,
+        "height": 1850,
+        "encoding": "lossless WebP rendered directly from the source PDF crop"
+      }
     },
     {
       "journal_number": 7,
@@ -125,7 +161,13 @@
       ],
       "width": 1272,
       "height": 388,
-      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]",
+      "full_size": {
+        "image": "assets/publications/full/TSP_2DIF.webp",
+        "width": 3200,
+        "height": 974,
+        "encoding": "lossless WebP rendered directly from the source PDF crop"
+      }
     },
     {
       "journal_number": 8,
@@ -143,7 +185,13 @@
       ],
       "width": 1215,
       "height": 1014,
-      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]",
+      "full_size": {
+        "image": "assets/publications/full/STDCOMMAG.webp",
+        "width": 3200,
+        "height": 2670,
+        "encoding": "lossless WebP rendered directly from the source PDF crop"
+      }
     },
     {
       "journal_number": 9,
@@ -161,7 +209,13 @@
       ],
       "width": 741,
       "height": 588,
-      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]",
+      "full_size": {
+        "image": "assets/publications/full/TVT.webp",
+        "width": 3200,
+        "height": 2538,
+        "encoding": "lossless WebP rendered directly from the source PDF crop"
+      }
     },
     {
       "journal_number": 10,
@@ -179,7 +233,13 @@
       ],
       "width": 582,
       "height": 525,
-      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]",
+      "full_size": {
+        "image": "assets/publications/full/TWC_IF.webp",
+        "width": 3199,
+        "height": 2886,
+        "encoding": "lossless WebP rendered directly from the source PDF crop"
+      }
     },
     {
       "journal_number": 11,
@@ -197,7 +257,13 @@
       ],
       "width": 726,
       "height": 473,
-      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]",
+      "full_size": {
+        "image": "assets/publications/full/CL_z.webp",
+        "width": 3200,
+        "height": 2082,
+        "encoding": "lossless WebP rendered directly from the source PDF crop"
+      }
     },
     {
       "journal_number": 12,
@@ -215,7 +281,13 @@
       ],
       "width": 744,
       "height": 498,
-      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]",
+      "full_size": {
+        "image": "assets/publications/full/TCOM_k.webp",
+        "width": 3199,
+        "height": 2141,
+        "encoding": "lossless WebP rendered directly from the source PDF crop"
+      }
     },
     {
       "journal_number": 13,
@@ -233,7 +305,13 @@
       ],
       "width": 594,
       "height": 462,
-      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]",
+      "full_size": {
+        "image": "assets/publications/full/CL_k.webp",
+        "width": 3199,
+        "height": 2488,
+        "encoding": "lossless WebP rendered directly from the source PDF crop"
+      }
     },
     {
       "journal_number": 14,
@@ -251,7 +329,13 @@
       ],
       "width": 636,
       "height": 264,
-      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]",
+      "full_size": {
+        "image": "assets/publications/full/WCL_z.webp",
+        "width": 3199,
+        "height": 1328,
+        "encoding": "lossless WebP rendered directly from the source PDF crop"
+      }
     },
     {
       "journal_number": 15,
@@ -269,7 +353,13 @@
       ],
       "width": 729,
       "height": 813,
-      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]",
+      "full_size": {
+        "image": "assets/publications/full/TITS_z.webp",
+        "width": 2869,
+        "height": 3200,
+        "encoding": "lossless WebP rendered directly from the source PDF crop"
+      }
     },
     {
       "journal_number": 16,
@@ -287,7 +377,13 @@
       ],
       "width": 702,
       "height": 519,
-      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]",
+      "full_size": {
+        "image": "assets/publications/full/TST_s.webp",
+        "width": 3199,
+        "height": 2366,
+        "encoding": "lossless WebP rendered directly from the source PDF crop"
+      }
     },
     {
       "journal_number": 17,
@@ -305,7 +401,13 @@
       ],
       "width": 603,
       "height": 378,
-      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]",
+      "full_size": {
+        "image": "assets/publications/full/TCOM_wan.webp",
+        "width": 3199,
+        "height": 2005,
+        "encoding": "lossless WebP rendered directly from the source PDF crop"
+      }
     },
     {
       "journal_number": 18,
@@ -323,7 +425,13 @@
       ],
       "width": 729,
       "height": 579,
-      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]",
+      "full_size": {
+        "image": "assets/publications/full/TCOM_l.webp",
+        "width": 3200,
+        "height": 2541,
+        "encoding": "lossless WebP rendered directly from the source PDF crop"
+      }
     },
     {
       "journal_number": 19,
@@ -341,7 +449,13 @@
       ],
       "width": 732,
       "height": 390,
-      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]",
+      "full_size": {
+        "image": "assets/publications/full/TWC_NFBT.webp",
+        "width": 3200,
+        "height": 1704,
+        "encoding": "lossless WebP rendered directly from the source PDF crop"
+      }
     },
     {
       "journal_number": 20,
@@ -359,7 +473,13 @@
       ],
       "width": 1398,
       "height": 477,
-      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]",
+      "full_size": {
+        "image": "assets/publications/full/TVT_MAP.webp",
+        "width": 3199,
+        "height": 1091,
+        "encoding": "lossless WebP rendered directly from the source PDF crop"
+      }
     },
     {
       "journal_number": 21,
@@ -377,7 +497,13 @@
       ],
       "width": 891,
       "height": 336,
-      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]"
+      "crop_coordinate_system": "PDF points, top-left origin: [left, top, right, bottom]",
+      "full_size": {
+        "image": "assets/publications/full/COMMAG_Ryd.webp",
+        "width": 3200,
+        "height": 1206,
+        "encoding": "lossless WebP rendered directly from the source PDF crop"
+      }
     }
   ]
 }

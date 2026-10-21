@@ -13,7 +13,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-STYLE_VERSION = '20261018-red-recognition'
+STYLE_VERSION = '20261021-figure-viewer'
 MONTHS = ("", "Jan.", "Feb.", "Mar.", "Apr.", "May", "Jun.", "Jul.",
           "Aug.", "Sep.", "Oct.", "Nov.", "Dec.")
 JOURNALS = {

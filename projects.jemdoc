@@ -2,7 +2,7 @@
 # Legacy content reference. The current responsive projects.html is maintained directly.
 = Projects
 
-Research in wireless communications and signal processing, organized by topic. The summaries describe the methods and findings of selected journal papers.
+Research projects in wireless communications and signal processing, organized by topic. Each summary outlines the research problem, the approach, and the findings of selected journal papers.
 
 [publications.html View all publications]
 
@@ -14,7 +14,7 @@ Research in wireless communications and signal processing, organized by topic. T
 
 ~~~
 {}{img_left}{assets/publications/TSP_2DIF.png}{Two-dimensional ice-filling observation design from the densifying MIMO channel-estimation paper}{380px}
-- Spatial correlation in dense arrays can guide the design of informative pilot observations. This work develops ice filling as a discrete counterpart of water filling and extends it to joint transmit-precoder and receive-combiner design through two-dimensional ice filling and a hybrid-array variant. For RIS-aided links, alternating Riemannian optimization jointly designs receive combiners and RIS phase shifts, while received pilots support adaptive covariance learning. The papers report analytical or simulation evidence of improved estimation accuracy under limited pilot resources.
+- Spatial correlation in dense arrays provides prior information for designing pilot observations. These studies develop ice filling as a discrete counterpart to water filling and extend it to joint transmit-precoder and receive-combiner design through two-dimensional ice filling and a hybrid-array variant. For RIS-aided links, alternating Riemannian optimization jointly designs receive combiners and RIS phase shifts, with adaptive covariance learning from received pilots. The papers report gains in estimation accuracy under limited pilot resources, supported by analysis or simulations.
 ~~~
 
 === Selected publications
@@ -31,7 +31,7 @@ Research in wireless communications and signal processing, organized by topic. T
 
 ~~~
 {}{img_left}{assets/publications/TWC_FAS.png}{Fluid-antenna system and successive Bayesian channel reconstruction from the S-BAR paper}{380px}
-- Fluid antenna systems require channel information across candidate antenna positions, but measuring every position is costly. The successive Bayesian reconstructor (S-BAR) models the spatial channel as a stochastic process and uses an experiential kernel to select measurements and reconstruct unobserved channels. Simulations with matched and mismatched channel models show the benefits of reconstruction aided by prior information, without assuming angular sparsity or slow channel variation.
+- Fluid antenna systems need channel estimates across many candidate antenna positions, making exhaustive measurement costly. The successive Bayesian reconstructor (S-BAR) models the spatial channel as a stochastic process. It uses an experiential kernel to guide measurement selection and reconstruct channels at unobserved positions. The method does not rely on angular sparsity or slowly varying channels. Simulations with matched and mismatched channel models evaluate the benefits of using prior information.
 ~~~
 
 === Selected publications
@@ -46,7 +46,7 @@ Research in wireless communications and signal processing, organized by topic. T
 
 ~~~
 {}{img_left}{assets/publications/TWC_NFBT.png}{Bayesian near-field beam-training framework from the near-optimal near-field beam-training paper}{380px}
-- Near-field beams depend on both angle and distance, making exhaustive codebook searches costly. A hierarchical method designs multiresolution codebooks using the Gerchberg–Saxton algorithm and adapts them to hybrid arrays without additional time-delay hardware. A subsequent Bayesian regression method uses correlations between codewords to update a Gaussian process posterior and infer promising beams from a small set of measurements. Simulations evaluate the tradeoff between training overhead and achievable rate.
+- Near-field beam training must resolve both angle and distance, which makes exhaustive codebook searches costly. A hierarchical approach constructs multiresolution codebooks with the Gerchberg–Saxton algorithm and adapts them to hybrid arrays without additional time-delay hardware. A subsequent Bayesian regression approach exploits correlations among codewords to update a Gaussian process posterior and infer promising beams from a small set of measurements. Simulations evaluate the tradeoff between training overhead and achievable rate.
 ~~~
 
 === Selected publications
@@ -62,7 +62,7 @@ Research in wireless communications and signal processing, organized by topic. T
 
 ~~~
 {}{img_left}{photos/CAP-MIMO.jpg}{Pattern-division multiplexing for a continuous-aperture MIMO system}{380px}
-- Continuous-aperture MIMO requires current patterns to be designed over an aperture. Pattern-division multiplexing (PDM) represents these continuous functions by projecting them onto finite orthogonal bases, reducing a functional optimization problem to a tractable finite-dimensional one. Block coordinate descent optimizes the patterns for multiuser sum rate. Simulations show gains over the evaluated baselines.
+- In continuous-aperture MIMO, current patterns are functions defined over an aperture. Pattern-division multiplexing (PDM) projects these functions onto finite orthogonal bases, converting the functional optimization into a tractable finite-dimensional problem. Block coordinate descent then optimizes the patterns for multiuser sum rate. Simulations show gains over the evaluated baselines.
 ~~~
 
 === Electromagnetic information theory and wavenumber-domain processing
@@ -71,7 +71,7 @@ Research in wireless communications and signal processing, organized by topic. T
 
 ~~~
 {}{img_left}{assets/publications/STDCOMMAG.png}{Wavenumber-domain representation of holographic MIMO from the signal-processing overview}{380px}
-- Spatially continuous apertures require models of electromagnetic fields and subwavelength correlation. A random-field formulation analyzes mutual information between continuous source and destination regions under white and colored noise. A subsequent overview uses a spatial Fourier plane-wave decomposition to describe holographic MIMO in the wavenumber domain. It relates this channel representation to multiplexing, channel estimation, and waveform design, and discusses open questions in wideband and network-level operation.
+- Modeling spatially continuous apertures requires an account of electromagnetic fields and correlations at subwavelength separations. A random-field formulation analyzes mutual information between continuous source and destination regions under white and colored noise. A subsequent overview presents a wavenumber-domain description of holographic MIMO using a spatial Fourier plane-wave decomposition. It connects this representation to multiplexing, channel estimation, and waveform design, and discusses open questions for wideband systems and network-level operation.
 ~~~
 
 === Selected publications
@@ -88,7 +88,7 @@ Research in wireless communications and signal processing, organized by topic. T
 
 ~~~
 {}{img_left}{photos/CF.jpg}{System architecture of a reconfigurable intelligent surface-aided cell-free network}{380px}
-- RIS-aided cell-free networks combine distributed base stations with low-cost reflecting surfaces to improve network capacity. The wideband framework jointly optimizes base-station precoders and RIS configurations using fractional programming and alternating optimization. Related studies address fairness in energy efficiency and extend channel modeling and beamforming design to multihop RIS reflections. Simulations evaluate the contribution of these reflected paths.
+- RIS-aided cell-free networks combine distributed base stations with low-cost reflecting surfaces to improve network capacity. A wideband precoding framework jointly optimizes base-station precoders and RIS configurations through fractional programming and alternating optimization. Related studies address energy-efficiency fairness and extend channel models and beamforming design to multihop RIS reflections. Simulations assess the contribution of these reflected paths.
 ~~~
 
 === Active RIS: signal modeling, architectures, and wideband beamforming
@@ -97,7 +97,7 @@ Research in wireless communications and signal processing, organized by topic. T
 
 ~~~
 {}{img_left}{photos/activeRIS.png}{Active reconfigurable intelligent surface prototype and wireless communication system}{380px}
-- Multiplicative fading limits passive RIS links, especially in the presence of a strong direct link. The active RIS study introduces signal amplification, validates an amplification-and-noise model using a fabricated element, and develops joint transmit and reflection beamforming. Related work examines the energy efficiency of subconnected architectures with shared amplifiers and grouped-subcarrier designs for wideband channels. An overview discusses RIS fundamentals, common misconceptions, and the limits imposed by fading.
+- Multiplicative fading limits the benefit of passive RIS links, particularly when a strong direct link is present. Active RISs address this limitation through signal amplification. This work validates an amplification-and-noise model using a fabricated element and jointly designs transmit and reflection beamforming. Related work examines the energy efficiency of subconnected architectures with shared amplifiers, along with grouped-subcarrier designs for wideband channels. An overview discusses RIS fundamentals, common misconceptions, and fading-induced limits.
 ~~~
 
 === Compact user-specific RIS for uplink transmission
@@ -106,7 +106,7 @@ Research in wireless communications and signal processing, organized by topic. T
 
 ~~~
 {}{img_left}{assets/publications/TCOM_k.png}{Multi-layer user-specific reconfigurable intelligent surface architecture from the uplink transmission paper}{380px}
-- Large antenna arrays at user devices face size, cost, and power constraints. This work proposes a compact multilayer user-specific RIS that supports phase control and partial amplitude control of the transmitted signal. Alternating optimization of the beamforming design maximizes the uplink signal-to-noise ratio. Simulations assess the architecture as a compact implementation of a large user-side array.
+- Large antenna arrays at user devices are constrained by size, cost, and power consumption. This work proposes a compact multilayer user-specific RIS that supports phase control and partial amplitude control of the transmitted signal. Beamforming is designed by alternating optimization to maximize the uplink signal-to-noise ratio. Simulations assess the architecture as a compact implementation of a large user-side array.
 ~~~
 
 === Selected publications
@@ -123,7 +123,7 @@ Research in wireless communications and signal processing, organized by topic. T
 
 ~~~
 {}{img_left}{photos/SM-NR.jpg}{Signal-multiplexing network ranging scheme for wireless localization}{380px}
-- Accurate network ranging must account for clock drift while limiting exchanges between node pairs. Signal-multiplexing network ranging reuses transmissions and timestamp relationships to mitigate clock errors with minimal signaling overhead. Extensions use reflected non-line-of-sight signals for joint localization and sensing, and introduce a network-measuring protocol for relative localization among asynchronous moving vehicles. The studies evaluate ranging accuracy, positioning robustness, and measurement timeliness.
+- Accurate network ranging must account for clock drift without excessive exchanges between node pairs. Signal-multiplexing network ranging reuses transmissions and timestamp relationships to mitigate clock errors while limiting signaling overhead. Extensions use reflected non-line-of-sight signals for joint localization and sensing, and introduce a network-measuring protocol for relative localization among asynchronous moving vehicles. The studies evaluate ranging accuracy, positioning robustness, and measurement timeliness.
 ~~~
 
 === Urban 3D radio-map reconstruction from sparse UAV measurements
@@ -132,7 +132,7 @@ Research in wireless communications and signal processing, organized by topic. T
 
 ~~~
 {}{img_left}{assets/publications/TVT_MAP.png}{Urban three-dimensional radio-map estimation from sparse UAV measurements}{380px}
-- Three-dimensional urban radio maps support UAV communications, but dense measurement campaigns are costly. This work collects an urban dataset using a UAV and develops a Gaussian process regression framework to reconstruct radio maps from sparse observations. Offline clustering and online point selection based on posterior estimates identify informative measurements. Experiments evaluate the framework using the collected data.
+- Three-dimensional urban radio maps support UAV communications, but obtaining dense measurements is costly. This work collects an urban dataset using a UAV and develops a Gaussian process regression framework to reconstruct radio maps from sparse observations. Offline clustering and posterior-guided online point selection identify informative measurements. Experiments on the collected dataset evaluate the reconstruction framework.
 ~~~
 
 === Selected publications
@@ -149,7 +149,7 @@ Research in wireless communications and signal processing, organized by topic. T
 
 ~~~
 {}{img_left}{assets/publications/COMMAG_Ryd.png}{Rydberg atomic receiver and wireless communication experiment from the Communications Magazine article}{380px}
-- Rydberg atomic receivers detect radio signals through atomic transitions. This collaborative article reviews their operating principles and recent developments, and reports OFDM reception and image-transmission experiments using quantized deep joint source-channel coding. It discusses practical limitations and potential applications in multiband communication, sensing, and energy-efficient wireless systems.
+- Rydberg atomic receivers detect radio signals through atomic transitions. This collaborative article reviews their operating principles and recent developments, and presents experiments on OFDM reception and image transmission using quantized deep joint source-channel coding. It also discusses practical limitations and potential applications in multiband communication, sensing, and energy-efficient wireless systems.
 ~~~
 
 === Selected publications
