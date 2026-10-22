@@ -175,9 +175,7 @@ def citation_html(record, personalize=False, corresponding=False):
     if record_id.startswith('J'):
         fields = ['<i>' + JOURNALS[record['venue']] + '</i>']
         if record['publication_status'] == 'early_access':
-            # IEEE Xplore abstract/document/11535312/ reports 26 May 2026.
-            # PP/99 and pp. 1–6 are provisional, so omit them from this citation.
-            fields += ['early access', 'May 26, 2026'] if record_id == 'J9' else ['early access', date_text(record)]
+            fields += ['early access', date_text(record)]
         else:
             if record.get('volume'):
                 fields.append('vol. ' + str(record['volume']))

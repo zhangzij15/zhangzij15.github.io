@@ -31,4 +31,6 @@ The Projects page is organized into seven research areas, each with up to three 
 
 Publication metadata and patent records were checked on October 10–11, 2026. Sources and unresolved details are recorded in [`docs/metadata-recheck-2026-10-11.md`](docs/metadata-recheck-2026-10-11.md), with structured records in `data/`. Follow-up display corrections are documented in [`docs/metadata-corrections-2026-10-17.md`](docs/metadata-corrections-2026-10-17.md). The `Granted` label identifies a documented grant event; it does not assert that a patent is currently in force. Update verified citations in both Publications and the selected Projects entries.
 
+An [October 22, 2026 check of all 21 journal papers](docs/journal-publication-status-2026-10-22.md) confirmed their final volume/page assignments against publisher-deposited DOI records. J9 was updated from Early Access to vol. 75, no. 10, pp. 25198–25203, Oct. 2026; no other journal entry required a status conversion.
+
 An October 18, 2026 public-source check of the 17 journal papers without an ESI Highly Cited Paper label found no independently confirmable additions. This is an inconclusive public-source result, not proof of non-selection in the latest ESI release. Coverage, the dated institutional evidence, and access limits are documented in [`docs/esi-audit-2026-10-18.md`](docs/esi-audit-2026-10-18.md).

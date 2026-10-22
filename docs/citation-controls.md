@@ -22,7 +22,7 @@ The formatter uses initials before surnames, sentence-case article titles, itali
 
 - Months: Jan., Feb., Mar., Apr., May, Jun., Jul., Aug., Sep., Oct., Nov., Dec.
 - J2 and J7 retain the verified year without an unconfirmed month or issue.
-- J9 remains early access. IEEE Xplore's [official abstract page](https://ieeexplore.ieee.org/abstract/document/11535312/) reports May 26, 2026. The citation uses that date and DOI while omitting placeholder volume PP, issue 99, and provisional pages 1–6.
+- J9 now has a final issue citation: vol. 75, no. 10, pp. 25198–25203, Oct. 2026. The [IEEE-deposited Crossref record](https://api.crossref.org/works/10.1109%2FTVT.2026.3697200), updated on October 21 and rechecked on October 22, 2026, supplies these fields and points to the [IEEE Xplore article](https://ieeexplore.ieee.org/document/11535312/). This supersedes the earlier May 26, 2026 early-access citation and its provisional pages 1–6.
 - J6 and C5 retain Robert W. Heath, Jr.'s suffix from the linked paper bylines.
 - B1 has no unverified editors or publication location added. O3 links to the [official RoboCup archive](https://tdp.robocup.org/tdp/2019-tdp-tinker-robocuphome-open-platform/) without invented pages or DOI.
 

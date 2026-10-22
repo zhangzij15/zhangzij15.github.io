@@ -632,7 +632,7 @@
     },
     {
       "id": "J9",
-      "title": "Enhancing Channel Estimation in RIS-aided Systems via Observation Matrix Design",
+      "title": "Enhancing Channel Estimation in RIS-Aided Systems via Observation Matrix Design",
       "authors": [
         {
           "given": "Zijian",
@@ -647,20 +647,21 @@
       "old_authors": "Z. Zhang  and M. Cui",
       "old_venue": "IEEE Transactions on Vehicular Technology , May 2026.",
       "venue": "IEEE Transactions on Vehicular Technology",
-      "volume": null,
-      "issue": null,
-      "pages": "1-6",
+      "volume": "75",
+      "issue": "10",
+      "pages": "25198-25203",
       "article_number": null,
       "year": 2026,
-      "month": null,
+      "month": 10,
       "doi": "10.1109/tvt.2026.3697200",
-      "status": "partially_verified",
-      "publication_status": "early_access",
+      "status": "verified",
+      "publication_status": "published",
       "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
       "online_date": null,
       "print_date": [
         [
-          2026
+          2026,
+          10
         ]
       ],
       "source_urls": [
@@ -669,8 +670,8 @@
         "https://doi.org/10.1109/tvt.2026.3697200"
       ],
       "evidence": [
-        "Exact normalized title match in publisher-deposited Crossref DOI record; author order, venue, DOI, volume/issue/pages/year as present verified from that record.",
-        "IEEE-deposited Crossref record has no volume or issue and has page 1–6 only. IEEE Xplore resource is article 11535312. These provisional pages are not evidence of an assigned issue; do not fill a guessed vol.75 or final page range."
+        "Rechecked on 2026-10-22 against the IEEE-deposited Crossref DOI record. The deposit dated 2026-10-21T19:05:22Z assigns volume 75, issue 10, pages 25198-25203, and published-print/issued date October 2026. The record identifies IEEE Xplore article 11535312 as its primary resource.",
+        "Author order remains Zijian Zhang followed by Mingyao Cui. The publisher-deposited title now capitalizes RIS-Aided. The final issue citation supersedes the early-access entry verified on 2026-10-11; the original online-date field remains null because the latest deposit does not supply published-online."
       ],
       "changes": [
         {
@@ -688,20 +689,51 @@
           "field": "publication_status",
           "old": "May 2026 (without qualification)",
           "new": "Early Access, 2026 (no final volume/issue/pages verified)"
+        },
+        {
+          "field": "title",
+          "old": "Enhancing Channel Estimation in RIS-aided Systems via Observation Matrix Design",
+          "new": "Enhancing Channel Estimation in RIS-Aided Systems via Observation Matrix Design",
+          "checked_as_of": "2026-10-22"
+        },
+        {
+          "field": "volume",
+          "old": null,
+          "new": "75",
+          "checked_as_of": "2026-10-22"
+        },
+        {
+          "field": "issue",
+          "old": null,
+          "new": "10",
+          "checked_as_of": "2026-10-22"
+        },
+        {
+          "field": "pages",
+          "old": "1-6",
+          "new": "25198-25203",
+          "checked_as_of": "2026-10-22"
+        },
+        {
+          "field": "month",
+          "old": null,
+          "new": 10,
+          "checked_as_of": "2026-10-22"
+        },
+        {
+          "field": "publication_status",
+          "old": "early_access",
+          "new": "published",
+          "checked_as_of": "2026-10-22"
         }
       ],
-      "unverified_fields": [
-        "assigned volume",
-        "assigned issue",
-        "final page range",
-        "first online month/day"
-      ],
-      "checked_as_of": "2026-10-11",
+      "unverified_fields": [],
+      "checked_as_of": "2026-10-22",
       "candidate_similarity": 1.0,
       "rejected_candidate_doi": null,
-      "recommended_venue_html": "<i>IEEE Transactions on Vehicular Technology</i>, Early Access, 2026.",
-      "website_action": "Verified bibliographic fields applied; DOI added where verified.",
-      "rechecked_as_of": "2026-10-11"
+      "recommended_venue_html": "<i>IEEE Transactions on Vehicular Technology</i>, vol. 75, no. 10, pp. 25198–25203, Oct. 2026.",
+      "website_action": "Replaced the early-access entry with the verified final issue citation on Publications, Projects, the compact publication list, and legacy source entries.",
+      "rechecked_as_of": "2026-10-22"
     },
     {
       "id": "J10",
