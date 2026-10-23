@@ -13,7 +13,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-STYLE_VERSION = '20261021-figure-viewer'
+STYLE_VERSION = '20261023-projects-compact'
 MONTHS = ("", "Jan.", "Feb.", "Mar.", "Apr.", "May", "Jun.", "Jul.",
           "Aug.", "Sep.", "Oct.", "Nov.", "Dec.")
 JOURNALS = {
@@ -337,6 +337,8 @@ def refresh_publication_list(records, patents):
     header = re.search(r'<header class="site-masthead">.*?</header>', source, re.S)[0]
     header = header.replace('aria-current="page"', 'aria-current="location"')
     footer = re.search(r'<footer class="site-footer">.*?</footer>', source, re.S)[0]
+    footer = footer.replace('<a href="publication-list.html">Full publication list</a>',
+                            '<a href="publications.html">Detailed publications</a>')
     groups = [
         ('book-chapters', 'Book Chapters', [r for r in records if r['id'].startswith('B')]),
         ('journal-papers', 'Journal Papers', [r for r in records if r['id'].startswith('J')]),
@@ -374,6 +376,9 @@ def refresh_publication_list(records, patents):
     if expected_ids != page_order:
         raise ValueError('Publication-list order differs from the detailed Publications page')
     body = '\n'.join(sections)
+    navigation = '<nav class="reference-nav" aria-label="Publication categories">' + ''.join(
+        f'<a href="#{anchor}">{label}</a>' for anchor, label, group in groups if group
+    ) + '</nav>'
     output = f'''<!doctype html>
 <html lang="en">
 <head>
@@ -384,15 +389,16 @@ def refresh_publication_list(records, patents):
 <link rel="shortcut icon" type="image/x-icon" href="Tsinghua.ico">
 <title>Publication List | Zijian Zhang</title>
 </head>
-<body class="publications-page publication-list-page">
+<body class="publications-page publication-list-page academic-subpage" id="page-top">
 <a class="skip-link" href="#main-content">Skip to main content</a>
 {header}
 <main class="site-main reference-main">
 <article class="site-content" id="main-content" tabindex="-1"><div id="layout-content">
 <p class="reference-back"><a href="publications.html">← Back to Publications</a></p>
-<div id="toptitle"><h1>Publication List</h1><p class="reference-byline"><strong>Zijian Zhang · 张子健</strong></p></div>
-<p class="page-intro">Book chapters, journal and conference papers, other contributions, and patents, in the same order as the Publications page.</p>
+<div id="toptitle"><h1>Publication List</h1><p class="reference-byline"><strong>Zijian Zhang · 张子健</strong></p>
+<p class="page-intro">Complete IEEE-style references for publications and patents, with direct links to available papers and code.</p></div>
 <p class="publication-note">* denotes the corresponding author.</p>
+{navigation}
 {body}
 </div>{footer}</article>
 </main>

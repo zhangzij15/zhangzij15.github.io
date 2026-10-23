@@ -1,6 +1,10 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 = Publications
 
+Publications and patents in wireless communications, signal processing, and localization, with links to papers, code, and supporting resources where available.
+
+[publication-list.html Full publication list] | [projects.html Research by topic]
+
 == Book Chapters
 . *Z. Zhang*, Y. Chen, Q. Yu, and L. Dai, "IRS Architecture and Hardware Design," in /Intelligent Surfaces Empowered 6G Wireless Network/, Chapter 2, pp. 15–36, Wiley-IEEE Press, Dec. 2023. \[[https://www.wiley.com/en-sg/Intelligent+Surfaces+Empowered+6G+Wireless+Network-p-9781119913092 Book]\] \[[https://doi.org/10.1002/9781119913122.ch2 DOI]\]
 

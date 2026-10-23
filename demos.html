@@ -4,11 +4,11 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Wireless localization, UAV formation, robotics, and embedded-system prototypes by Zijian Zhang.">
-<link rel="stylesheet" href="acad-homepage.css?v=20261017-emoji">
+<link rel="stylesheet" href="acad-homepage.css?v=20261023-academic">
 <link rel="shortcut icon" type="image/x-icon" href="Tsinghua.ico">
 <title>Research Demos | Zijian Zhang</title>
 </head>
-<body class="demos-page">
+<body class="demos-page academic-subpage" id="page-top">
 <a class="skip-link" href="#main-content">Skip to main content</a>
 <header class="site-masthead"><div class="site-masthead__inner"><a class="site-brand" href="index.html">Zijian Zhang <span>/</span> 张子健</a><nav class="site-nav" aria-label="Main navigation"><a href="index.html">About</a><a href="publications.html">Publications</a><a href="projects.html">Projects</a><a class="current" aria-current="page" href="demos.html">Demos</a><a href="awards.html">Awards</a></nav></div></header>
 <main class="site-main">
@@ -20,54 +20,88 @@
 </aside>
 <article class="site-content" id="main-content" tabindex="-1"><div id="layout-content"><div id="toptitle">
 <h1><span class="decorative-emoji" aria-hidden="true">🤖</span>Demos</h1>
+<p class="page-intro">Practical prototypes in wireless localization, robotics, and embedded systems, connecting sensor integration with robotic control.</p>
 </div>
-<p class="page-intro">Hands-on projects in wireless localization, robotics, and embedded systems, from sensor integration to robotic control.</p>
-<table class="imgtable"><tr><td>
-<img src="demos/Tinker.png" alt="Tsinghua Tinker robotics team at RoboCup 2019, with Zijian Zhang second from the right" loading="lazy" width="4032" height="3024" />&nbsp;</td>
-<td align="left">
-<p>Alongside his research on physical-layer signal processing for 5G/6G communications, <a href="https://zhangzij15.github.io">Zijian Zhang</a> (second from the right in the photo) pursues an interest in robotics through hands-on development.</p>
-<p>His experience includes independently developed prototypes, collaborative designs, and participation in extracurricular academic competitions.</p>
-<p>He took part in <a href="https://2019.robocup.org/">RoboCup 2019</a> in Sydney, Australia.</p>
-</td></tr></table>
-<h2>Demo 1: UWB-Based Person-Tracking Vehicle</h2>
-<table class="imgtable"><tr><td>
-<img src="demos/UWB_car.gif" alt="Human-tracking vehicle using ultra-wideband localization" loading="lazy" width="720" height="480" />&nbsp;</td>
-<td align="left">
-<p>Designed by <b>Zijian Zhang</b>, XiaoXiang Li, and Tianyu Wang.</p>
-<p>This small unmanned vehicle follows a person using ultra-wideband (UWB) localization. It integrates a three-antenna array, a Decawave DW1000 UWB transceiver, and an inertial measurement unit (IMU). The vehicle receives signals from a wearable UWB tag and estimates their direction of arrival (DOA) to track the wearer in real time.</p>
-</td></tr></table>
-<h2>Demo 2: Cooperative UAV Formation with UWB and Inertial Sensing</h2>
-<table class="imgtable"><tr><td>
-<img src="demos/UWB_UAV.gif" alt="Cooperative formation of four UAVs using ultra-wideband localization and inertial guidance" loading="lazy" width="720" height="480" />&nbsp;</td>
-<td align="left">
-<p>Designed by <b>Zijian Zhang</b> and Cuijie Xu.</p>
-<p>This four-UAV prototype uses sensor fusion for cooperative localization and maintains the UAVs' relative positions in formation. Each UAV carries an IMU, a UWB module, an optical-flow sensor, and a barometer; an extended Kalman filter (EKF) combines the measurements for cooperative position estimation. The UAVs communicate over ZigBee. Any member can lead the formation, and each UAV can also be operated manually with its own controller.</p>
-</td></tr></table>
-<h2>Demo 3: Medical Robotic Arm with Wireless Control</h2>
-<table class="imgtable"><tr><td>
-<img src="demos/Arm.gif" alt="Programmable medical robotic arm demonstration" loading="lazy" width="720" height="480" />&nbsp;</td>
-<td align="left">
-<p>Designed by <b>Zijian Zhang</b>.</p>
-<p>This flexible medical robotic arm supports programmed automatic operation and manual control through a wireless controller. Zijian Zhang developed its mechanical structure, circuitry, and control software during his internship at EBOND in Beijing. The arm provides centimeter-level positioning control. Its three high-resolution stepper motors are powered by a 48 V supply and controlled by an STM32H7 microcontroller.</p>
-</td></tr></table>
-<h2>Demo 4: Networked Sensor Node for Motor Fault Detection</h2>
-<table class="imgtable"><tr><td>
-<img src="demos/Node.gif" alt="Networked sensor node collecting data for industrial motor fault detection" loading="lazy" width="720" height="480" />&nbsp;</td>
-<td align="left">
-<p>Designed by <b>Zijian Zhang</b>.</p>
-<p>Developed by Zijian Zhang during his internship at Pi2Star Technology Ltd. in Beijing, this networked sensor node collects measurements for industrial motor fault detection. It integrates an IMU with magnetic, infrared, and temperature sensors and can operate as part of an Internet of Things (IoT) system. Mounted on a motor, the node transmits operating data to a host computer over Bluetooth for condition analysis.</p>
-</td></tr></table>
-<h2>Demo 5: Tinker Household Robot for RoboCup@Home</h2>
-<table class="imgtable"><tr><td>
-<img src="demos/Robot.gif" alt="Tinker household robot navigating and manipulating in a domestic environment" loading="lazy" width="720" height="480" />&nbsp;</td>
-<td align="left">
-<p>Designed by the Tinker team at Tsinghua University (team members: Jianghao Huo, Han Zhang, Lubin Ye, Haocheng Ma, Cuijie Xu, <b>Zijian Zhang</b>, Tengfei Zhang, Haitian Shi, Xinyu Han).</p>
-<p>Developed for the RoboCup@Home 2019 Open Platform League, Tinker combines mechanical systems, electronics, and software created by the Tinker team at Tsinghua University. Its implemented functions include autonomous navigation and object manipulation in domestic environments, together with an interface for user interaction. The team description paper below documents the robot's hardware and software.</p>
+<nav class="section-nav" aria-label="Demo navigation"><a href="#demo-uwb-vehicle">Person tracking</a><a href="#demo-uav-formation">UAV formation</a><a href="#demo-robotic-arm">Robotic arm</a><a href="#demo-sensor-node">Sensor node</a><a href="#demo-tinker">Tinker robot</a></nav>
+<section class="demo-entry demo-intro" aria-label="Robotics background">
+<figure class="demo-figure">
+<img src="demos/Tinker.png" alt="Tsinghua Tinker robotics team at RoboCup 2019, with Zijian Zhang second from the right" loading="lazy" width="4032" height="3024" />
+</figure>
+<div class="demo-copy">
+<p>Alongside his research on physical-layer signal processing for 5G/6G communications, <a href="https://zhangzij15.github.io">Zijian Zhang</a> (second from the right in the photo) explores robotics through hands-on development.</p>
+<p>His experience spans independently developed prototypes, collaborative designs, and extracurricular academic competitions, including <a href="https://2019.robocup.org/">RoboCup 2019</a> in Sydney, Australia.</p>
+</div>
+</section>
+<section class="demo-entry" id="demo-uwb-vehicle" aria-labelledby="demo-uwb-vehicle-title">
+<h2 id="demo-uwb-vehicle-title"><span class="demo-index">Demo 1</span> UWB-Based Person-Tracking Vehicle</h2>
+<div class="demo-layout">
+<figure class="demo-figure">
+<img src="demos/UWB_car.gif" alt="Human-tracking vehicle using ultra-wideband localization" loading="lazy" width="720" height="480" />
+</figure>
+<div class="demo-copy">
+<p class="demo-credit">Designed by <b>Zijian Zhang</b>, XiaoXiang Li, and Tianyu Wang.</p>
+<p>This small unmanned vehicle follows a person using ultra-wideband (UWB) localization. A three-antenna array, a Decawave DW1000 UWB transceiver, and an inertial measurement unit (IMU) form its sensing system.</p>
+<p>The vehicle receives signals from a wearable UWB tag and estimates their direction of arrival (DOA) to track the wearer in real time.</p>
+</div>
+</div>
+</section>
+<section class="demo-entry" id="demo-uav-formation" aria-labelledby="demo-uav-formation-title">
+<h2 id="demo-uav-formation-title"><span class="demo-index">Demo 2</span> Cooperative UAV Formation with UWB and Inertial Sensing</h2>
+<div class="demo-layout">
+<figure class="demo-figure">
+<img src="demos/UWB_UAV.gif" alt="Cooperative formation of four UAVs using ultra-wideband localization and inertial guidance" loading="lazy" width="720" height="480" />
+</figure>
+<div class="demo-copy">
+<p class="demo-credit">Designed by <b>Zijian Zhang</b> and Cuijie Xu.</p>
+<p>This four-UAV prototype combines sensor measurements for cooperative localization and maintains the UAVs' relative positions in formation. Each UAV carries an IMU, a UWB module, an optical-flow sensor, and a barometer. An extended Kalman filter (EKF) fuses these measurements to estimate their positions.</p>
+<p>The UAVs communicate over ZigBee. Any member can lead the formation, and each UAV can also be operated manually with its own controller.</p>
+</div>
+</div>
+</section>
+<section class="demo-entry" id="demo-robotic-arm" aria-labelledby="demo-robotic-arm-title">
+<h2 id="demo-robotic-arm-title"><span class="demo-index">Demo 3</span> Medical Robotic Arm with Wireless Control</h2>
+<div class="demo-layout">
+<figure class="demo-figure">
+<img src="demos/Arm.gif" alt="Programmable medical robotic arm demonstration" loading="lazy" width="720" height="480" />
+</figure>
+<div class="demo-copy">
+<p class="demo-credit">Designed by <b>Zijian Zhang</b>.</p>
+<p>This flexible medical robotic arm supports programmed automatic operation and manual operation via a wireless controller. Zijian Zhang developed its mechanical structure, circuitry, and control software during his internship at EBOND in Beijing.</p>
+<p>The arm provides centimeter-level positioning control. Its three high-resolution stepper motors are powered by a 48 V supply and controlled by an STM32H7 microcontroller.</p>
+</div>
+</div>
+</section>
+<section class="demo-entry" id="demo-sensor-node" aria-labelledby="demo-sensor-node-title">
+<h2 id="demo-sensor-node-title"><span class="demo-index">Demo 4</span> Networked Sensor Node for Motor Fault Detection</h2>
+<div class="demo-layout">
+<figure class="demo-figure">
+<img src="demos/Node.gif" alt="Networked sensor node collecting data for industrial motor fault detection" loading="lazy" width="720" height="480" />
+</figure>
+<div class="demo-copy">
+<p class="demo-credit">Designed by <b>Zijian Zhang</b>.</p>
+<p>Developed during Zijian Zhang's internship at Pi2Star Technology Ltd. in Beijing, this networked sensor node collects measurements for industrial motor fault detection. It integrates an IMU with magnetic, infrared, and temperature sensors for use in an Internet of Things (IoT) system.</p>
+<p>Mounted on a motor, the node transmits operating data to a host computer over Bluetooth for condition analysis.</p>
+</div>
+</div>
+</section>
+<section class="demo-entry" id="demo-tinker" aria-labelledby="demo-tinker-title">
+<h2 id="demo-tinker-title"><span class="demo-index">Demo 5</span> Tinker Household Robot for RoboCup@Home</h2>
+<div class="demo-layout">
+<figure class="demo-figure">
+<img src="demos/Robot.gif" alt="Tinker household robot navigating and manipulating in a domestic environment" loading="lazy" width="720" height="480" />
+</figure>
+<div class="demo-copy">
+<p class="demo-credit">Designed by the Tinker team at Tsinghua University (team members: Jianghao Huo, Han Zhang, Lubin Ye, Haocheng Ma, Cuijie Xu, <b>Zijian Zhang</b>, Tengfei Zhang, Haitian Shi, Xinyu Han).</p>
+<p>Developed for the RoboCup@Home 2019 Open Platform League, Tinker combines mechanical systems, electronics, and software created by the Tinker team at Tsinghua University.</p>
+<p>The robot performs autonomous navigation and object manipulation in domestic environments and provides an interface for user interaction. The team description paper documents its hardware and software.</p>
 <ul class="related-publications">
-<li><p>J. Huo, X. Han, J. Bi, H. Ma, R. Ma, C. Xu, L. Ye, H. Zhang, T. Zhang, <b>Z. Zhang</b>, and Y. Jiang, &ldquo;Tinker@Home 2019 team description paper,&rdquo; team description paper, <i>RoboCup@Home 2019, Open Platform League</i>, 2019. [<a href="pubs/Conference_paper/Tinker.pdf">Paper</a>] [<a href="https://www.youtube.com/watch?v=IS0VIExTx0k">Video</a>] [<a href="https://tdp.robocup.org/tdp/2019-tdp-tinker-robocuphome-open-platform/">Official archive</a>]</p>
+<li><p>J. Huo, X. Han, J. Bi, H. Ma, R. Ma, C. Xu, L. Ye, H. Zhang, T. Zhang, <b>Z. Zhang</b>, and Y. Jiang, &ldquo;Tinker@Home 2019 team description paper,&rdquo; team description paper, <i>RoboCup@Home 2019, Open Platform League</i>, 2019.</p>
 </li>
 </ul>
-</td></tr></table></div><footer class="site-footer"><span>Zijian Zhang</span><a href="mailto:zhangzij15@tsinghua.org.cn">Email</a></footer></article>
+<div class="demo-resources" aria-label="Tinker robot resources"><a href="pubs/Conference_paper/Tinker.pdf">Paper</a><a href="https://www.youtube.com/watch?v=IS0VIExTx0k">Video</a><a href="https://tdp.robocup.org/tdp/2019-tdp-tinker-robocuphome-open-platform/">Official archive</a></div>
+</div>
+</div>
+</section></div><footer class="site-footer"><span>Zijian Zhang</span><a href="mailto:zhangzij15@tsinghua.org.cn">Email</a><a href="publication-list.html">Full publication list</a><a class="site-back-to-top" href="#page-top">Back to top <span aria-hidden="true">↑</span></a></footer></article>
 </main>
 </body>
 </html>

@@ -9,29 +9,34 @@
 Room 8-212, Rohm Building, Tsinghua University, Beijing 100084, China \n
 Email: [zhangzij15@tsinghua.org.cn] \n\n
 \[[https://scholar.google.com/citations?user=OUAuynUAAAAJ&hl=en Google Scholar]\] \[[https://www.researchgate.net/profile/Zijian-Zhang-26 ResearchGate]\] \[[https://ieeexplore.ieee.org/author/37088489917 IEEE Xplore]\] \n\n
-!/"He welcomes opportunities for research collaboration."/!
+!/"Research collaboration inquiries are welcome."/!
 ~~~
 
 == About
-Zijian Zhang received the B.E. and Ph.D. degrees in electronic engineering from Tsinghua University, Beijing, China, in 2020 and 2025, respectively. His research focuses on beyond massive MIMO for future wireless systems, spanning hardware architectures, signal modeling, performance analysis, algorithm design, and prototyping. His personal interests also include wireless localization and robotics.
+Zijian Zhang received his B.E. and Ph.D. degrees in electronic engineering from Tsinghua University, Beijing, China, in 2020 and 2025, respectively. His research on beyond massive MIMO for future wireless systems spans hardware architectures, signal modeling, performance analysis, algorithm design, and prototyping. His personal interests also include wireless localization and robotics.
 
-He has published more than 30 papers in SCI-indexed journals and EI-indexed conference proceedings. Publication venues include IEEE JSAC, IEEE TSP, IEEE TWC, IEEE TCOM, IEEE TITS, IEEE WCL, IEEE CL, IEEE ICC, and IEEE GLOBECOM. His work has received more than 3,000 citations on Google Scholar. One article, cited more than 1,400 times, was designated an /ESI Hot Paper (top {{0.1%}})/. Four articles were designated /ESI Highly Cited Papers (top {{1%}})/.
+He has published more than 30 papers in SCI-indexed journals and EI-indexed conference proceedings, including IEEE JSAC, IEEE TSP, IEEE TWC, IEEE TCOM, IEEE TITS, IEEE WCL, IEEE CL, IEEE ICC, and IEEE GLOBECOM. His work has received more than 3,000 citations on Google Scholar. One article, with more than 1,400 citations, was designated an /ESI Hot Paper (top {{0.1%}})/; four articles were designated /ESI Highly Cited Papers (top {{1%}})/.
 
-He co-authored a chapter in /Intelligent Surfaces Empowered 6G Wireless Network/ and is a co-inventor on Chinese and international patent applications. A selection of patent records is available on the [publications.html#international-patents Publications page].
+He co-authored a chapter in /Intelligent Surfaces Empowered 6G Wireless Network/ and is a co-inventor on Chinese and international patent applications. Selected patent records are available on the [publications.html#international-patents Publications page].
 
-He received the IEEE Signal Processing Society Young Author Best Paper Award (2025), the /Tsinghua Science and Technology/ Best Paper Award (2024), the /Tsinghua Science and Technology/ Excellent Paper Award (2024), and the National Scholarship (2019, 2024). He also received Tsinghua University's Special Scholarship in 2024. The scholarship is awarded annually to 10 students from a graduate student body of more than 40,000. He was included in the [https://www.topresearcherslist.com/Home/Profile?AuthFull=Zhang,%20Zijian&FirstYear=2008 World's Top 2\% Scientists list compiled at Stanford University] in 2023 and 2025.
+=== Selected Distinctions
+- *Paper awards.* IEEE Signal Processing Society Young Author Best Paper Award (2025), and the /Tsinghua Science and Technology/ Best Paper Award and Excellent Paper Award (both 2024).
+- *Scholarships.* National Scholarship (2019, 2024) and Tsinghua University's Special Scholarship (2024). The latter is awarded annually to 10 students from a graduate student body of more than 40,000.
+- *Research recognition.* Included in the [https://www.topresearcherslist.com/Home/Profile?AuthFull=Zhang,%20Zijian&FirstYear=2008 World's Top 2\% Scientists list compiled at Stanford University] in 2023 and 2025.
+
+[awards.html View honors and awards]
 
 == Education & Experience
+- Huawei Top Mind program, Huawei, Beijing, China, Aug. 2025 - present
+- Ph.D. in Electrical Engineering, Tsinghua University, Beijing, China, Sep. 2020 - Jun. 2025
 - B.E. in Electrical Engineering, Tsinghua University, Beijing, China, Sep. 2016 - Jun. 2020
 - Second bachelor's degree in Economics, Tsinghua University, Beijing, China, Sep. 2016 - Jun. 2020
-- Ph.D. in Electrical Engineering, Tsinghua University, Beijing, China, Sep. 2020 - Jun. 2025
-- Huawei Top Mind program, Huawei, Beijing, China, Aug. 2025 - present
 
 == Research Interests
-- Statistical signal processing, matrix analysis, and convex optimization
-- Massive MIMO and holographic MIMO (H-MIMO)
-- Reconfigurable intelligent surfaces (RIS) and large intelligent surfaces (LIS)
-- Ranging, network localization, navigation, unmanned aerial vehicles (UAVs), and robotics
+- *Signal Processing & Optimization:* Statistical signal processing, matrix analysis, and convex optimization. [projects.html#channel-estimation Channel estimation]
+- *Beyond Massive MIMO:* Massive MIMO and holographic MIMO (H-MIMO). [projects.html#holographic-mimo Holographic MIMO] | [projects.html#near-field Near-field MIMO]
+- *Intelligent Surfaces:* Reconfigurable intelligent surfaces (RIS) and large intelligent surfaces (LIS). [projects.html#intelligent-surfaces RIS research]
+- *Localization & Robotics:* Ranging, network localization, navigation, unmanned aerial vehicles (UAVs), and robotics. [projects.html#localization-radio-maps Localization] | [demos.html Robotics demos]
 
 == Academic Service
 - Technical program committee member: IEEE GLOBECOM (2022, 2024), IEEE VTC (Fall 2022), and IEEE WCNC (2024, 2025).
