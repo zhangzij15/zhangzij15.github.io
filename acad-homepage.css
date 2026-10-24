@@ -229,7 +229,7 @@ img { max-width: 100%; height: auto; }
 #layout-content .publication-authors { margin: 0 0 3px; color: #506270; font-size: 14px; line-height: 1.65; }
 .publication-authors b, .publication-authors strong { color: var(--ink); font-weight: 650; }
 #layout-content .publication-venue { margin: 0; color: var(--muted); font-size: 14px; line-height: 1.75; }
-.journal-publication .publication-venue > i { font-weight: 700; }
+.journal-publication .publication-venue > i, .publication-list-page #journal-papers .reference-text > i { font-weight: 700; }
 .publication-actions { display: flex; flex-wrap: wrap; gap: 7px 9px; margin-top: 12px; font-size: 13px; line-height: 1.6; }
 .publication-actions a, .publication-actions .citation-toggle { display: inline-flex; align-items: center; justify-content: center; min-height: 34px; padding: 5px 12px; border: 1px solid #d0e1ee; border-radius: 6px; background: #f4f8fc; line-height: 1.5; }
 .publication-actions a:hover { text-decoration: none; border-color: #8fb4d1; background: #e3f0fa; color: var(--secondary); box-shadow: 0 2px 6px rgba(32, 72, 109, .06); }
