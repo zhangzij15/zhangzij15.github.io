@@ -15,6 +15,8 @@ The site consists of static files and requires no build step. For local preview,
 
 The shared theme uses navy and ocean blue as its main colors, with teal, coral, and restrained champagne accents. Gradient title panels, category tabs, and figure frames add visual depth while bibliographic text remains on white backgrounds. EB Garamond is used for page headings and Source Sans 3 for body text. The variable fonts are hosted locally in `assets/fonts`; their licenses and source records are retained there. System fonts provide fallbacks for Chinese and other characters outside the Latin subsets.
 
+The profile sidebar uses six original decorative line icons from `assets/icons/profile.svg`; visible text labels retain the meaning of every link. Keep the icon set consistent across the five pages with sidebars. On smaller screens, the homepage profile and introduction share a continuous white surface, with the nearby profile name replacing the repeated visual title; the main heading remains available to assistive technology and in print.
+
 Small decorative emoji accent selected headings, category tabs, and Citation buttons. They use system emoji fonts, are hidden from assistive technology and print, and are excluded from bibliographic text.
 
 Maintain the current site by editing the HTML pages directly. The `.jemdoc` files and the original generator are retained as legacy content sources. Regenerating them with `jemdoc.py` will replace the current HTML layout, so do not run that generator for routine updates.

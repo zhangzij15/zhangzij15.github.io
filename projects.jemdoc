@@ -2,7 +2,7 @@
 # Legacy content reference. The current responsive projects.html is maintained directly.
 = Projects
 
-Selected research in wireless communications and signal processing, grouped by topic. The summaries introduce the problems, methods, and findings reported in the accompanying journal papers.
+Selected research in wireless communications and signal processing, grouped by topic.
 
 [publications.html View all publications]
 
@@ -14,7 +14,7 @@ Selected research in wireless communications and signal processing, grouped by t
 
 ~~~
 {}{img_left}{assets/publications/TSP_2DIF.png}{Two-dimensional ice-filling observation design from the densifying MIMO channel-estimation paper}{380px}
-- Spatial correlation in dense arrays provides prior information for designing pilot observations. These studies develop ice filling as a discrete counterpart to water filling. Two-dimensional ice filling and a hybrid-array variant extend this approach to joint transmit-precoder and receive-combiner design. For RIS-aided links, alternating Riemannian optimization jointly designs receive combiners and RIS phase shifts, with adaptive covariance learning from received pilots. Analysis or simulations support improvements in estimation accuracy under limited pilot resources.
+- Spatial correlation in dense arrays informs observation design when pilot resources are limited. These studies develop ice filling as a discrete counterpart to water filling. Two-dimensional ice filling and a hybrid-array variant extend this approach to joint transmit-precoder and receive-combiner design. For RIS-aided links, alternating Riemannian optimization jointly designs receive combiners and RIS phase shifts, with adaptive covariance learning from received pilots.
 ~~~
 
 === Selected publications
@@ -88,7 +88,7 @@ Selected research in wireless communications and signal processing, grouped by t
 
 ~~~
 {}{img_left}{photos/CF.jpg}{System architecture of a reconfigurable intelligent surface-aided cell-free network}{380px}
-- RIS-aided cell-free networks combine distributed base stations with low-cost reflecting surfaces to improve network capacity. A wideband precoding framework jointly optimizes base-station precoders and RIS configurations through fractional programming and alternating optimization. Related studies address energy-efficiency fairness and extend channel models and beamforming design to multihop RIS reflections. Simulations assess the contribution of these reflected paths.
+- RIS-aided cell-free networks combine distributed base stations with low-cost reflecting surfaces to improve network capacity. A wideband precoding framework jointly optimizes base-station precoders and RIS configurations through fractional programming and alternating optimization. Related studies address energy-efficiency fairness and extend channel models and beamforming design to multihop RIS reflections.
 ~~~
 
 === Active RIS: signal modeling, architectures, and wideband beamforming
@@ -106,7 +106,7 @@ Selected research in wireless communications and signal processing, grouped by t
 
 ~~~
 {}{img_left}{assets/publications/TCOM_k.png}{Multi-layer user-specific reconfigurable intelligent surface architecture from the uplink transmission paper}{380px}
-- Large antenna arrays at user devices are constrained by size, cost, and power consumption. This work proposes a compact multilayer user-specific RIS that supports phase control and partial amplitude control of the transmitted signal. Beamforming is designed by alternating optimization to maximize the uplink signal-to-noise ratio. Simulations assess the architecture as a compact implementation of a large user-side array.
+- Large antenna arrays at user devices are constrained by size, cost, and power consumption. This work proposes a compact multilayer user-specific RIS that supports phase control and partial amplitude control of the transmitted signal. Beamforming is designed by alternating optimization to maximize the uplink signal-to-noise ratio.
 ~~~
 
 === Selected publications
@@ -132,7 +132,7 @@ Selected research in wireless communications and signal processing, grouped by t
 
 ~~~
 {}{img_left}{assets/publications/TVT_MAP.png}{Urban three-dimensional radio-map estimation from sparse UAV measurements}{380px}
-- Three-dimensional urban radio maps support UAV communications, but obtaining dense measurements is costly. This work collects an urban dataset using a UAV and develops a Gaussian process regression framework to reconstruct radio maps from sparse observations. Offline clustering and posterior-guided online point selection identify informative measurements. Experiments on the collected dataset evaluate the reconstruction framework.
+- Three-dimensional urban radio maps support UAV communications, but obtaining dense measurements is costly. This work collects an urban UAV dataset to develop and evaluate a Gaussian process regression framework for radio-map reconstruction from sparse observations. Offline clustering and posterior-guided online point selection identify informative measurements.
 ~~~
 
 === Selected publications

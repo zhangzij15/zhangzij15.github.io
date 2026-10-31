@@ -13,7 +13,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-STYLE_VERSION = '20261024-journal-names'
+STYLE_VERSION = '20261029-editorial-refinement'
 MONTHS = ("", "Jan.", "Feb.", "Mar.", "Apr.", "May", "Jun.", "Jul.",
           "Aug.", "Sep.", "Oct.", "Nov.", "Dec.")
 JOURNALS = {
@@ -396,7 +396,7 @@ def refresh_publication_list(records, patents):
 <article class="site-content" id="main-content" tabindex="-1"><div id="layout-content">
 <p class="reference-back"><a href="publications.html">← Back to Publications</a></p>
 <div id="toptitle"><h1>Publication List</h1><p class="reference-byline"><strong>Zijian Zhang · 张子健</strong></p>
-<p class="page-intro">Complete IEEE-style references for publications and patents, with direct links to available papers and code.</p></div>
+<p class="page-intro">Complete IEEE-style references for publications and patents.</p></div>
 <p class="publication-note">* denotes the corresponding author.</p>
 {navigation}
 {body}

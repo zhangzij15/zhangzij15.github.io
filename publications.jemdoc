@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 = Publications
 
-Publications and patents in wireless communications, signal processing, and localization, with links to papers, code, and supporting resources where available.
+Publications and patents in wireless communications, signal processing, and localization.
 
 [publication-list.html Full publication list] | [projects.html Research by topic]
 
@@ -56,7 +56,7 @@ Publications and patents in wireless communications, signal processing, and loca
 . J. Huo, X. Han, J. Bi, H. Ma, R. Ma, C. Xu, L. Ye, H. Zhang, T. Zhang, *Z. Zhang*, and Y. Jiang, "Tinker@Home 2019 team description paper," team description paper, /RoboCup@Home 2019, Open Platform League/, 2019. \[[pubs/Conference_paper/Tinker.pdf Paper]\] \[[https://www.youtube.com/watch?v=IS0VIExTx0k Video]\] \[[https://tdp.robocup.org/tdp/2019-tdp-tinker-robocuphome-open-platform/ Official archive]\]
 
 == International Patents
-Selected patent applications and grants are listed below. Related applications within a patent family are shown separately, so multiple entries may refer to the same invention.
+Selected patent applications and grants. Patent-family members are listed separately.
 
 . K. Liu, L. Dai, *Z. Zhang*, S. Xu, and F. Yang, "Low-power-consumption reconfigurable intelligent surface hardware structure, and precoding method and apparatus," （中文名称：低功耗的智能超表面硬件结构、预编码方法及装置） PCT international patent application, application PCT/CN2022/102301; published as WO2023071264A1, 2023-05-04. (Published application) \[[https://patents.google.com/patent/WO2023071264A1/en Patent record]\] \[[https://patentimages.storage.googleapis.com/40/2d/1f/883a2946b647b1/WO2023071264A1.pdf Patent document]\]
 . L. Dai, K. Liu, *Z. Zhang*, R. Mackenzie, and M. Hao, "Wireless telecommunications network," PCT international patent application, application PCT/CN2021/077059; published as WO2022174418A1, 2022-08-25. (Published application) \[[https://patents.google.com/patent/WO2022174418A1/en Patent record]\] \[[https://patentimages.storage.googleapis.com/75/e7/7e/537de977d7693f/WO2022174418A1.pdf Patent document]\]
