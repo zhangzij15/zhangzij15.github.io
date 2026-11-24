@@ -13,7 +13,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-STYLE_VERSION = '20261124-prestige'
+STYLE_VERSION = '20261124-ux'
 MONTHS = ("", "Jan.", "Feb.", "Mar.", "Apr.", "May", "Jun.", "Jul.",
           "Aug.", "Sep.", "Oct.", "Nov.", "Dec.")
 JOURNALS = {
@@ -388,9 +388,22 @@ def refresh_publication_list(records, patents):
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="The complete publication and patent list of Zijian Zhang, presented as IEEE-style references.">
+<link rel="canonical" href="https://zhangzij15.github.io/publication-list.html">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Zijian Zhang">
+<meta property="og:title" content="Publication List | Zijian Zhang">
+<meta property="og:description" content="The complete publication and patent list of Zijian Zhang, presented as IEEE-style references.">
+<meta property="og:url" content="https://zhangzij15.github.io/publication-list.html">
+<meta property="og:image" content="https://zhangzij15.github.io/photos/ZZJ_bio3.jpg">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Publication List | Zijian Zhang">
+<meta name="twitter:description" content="The complete publication and patent list of Zijian Zhang, presented as IEEE-style references.">
+<meta name="twitter:image" content="https://zhangzij15.github.io/photos/ZZJ_bio3.jpg">
+<script>(function(){{try{{var t=localStorage.getItem('zhangzij15-theme');if(t==='dark'||(!t&&window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches)){{document.documentElement.dataset.theme='dark';}}}}catch(e){{}}}})();</script>
 <link rel="stylesheet" href="acad-homepage.css?v={STYLE_VERSION}">
 <link rel="shortcut icon" type="image/x-icon" href="Tsinghua.ico">
 <title>Publication List | Zijian Zhang</title>
+<script src="assets/js/site-ui.js?v=20261124" defer></script>
 </head>
 <body class="publications-page publication-list-page academic-subpage" id="page-top">
 <a class="skip-link" href="#main-content">Skip to main content</a>
