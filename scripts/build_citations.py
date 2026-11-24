@@ -13,7 +13,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-STYLE_VERSION = '20261101-homepage-icons'
+STYLE_VERSION = '20261124-prestige'
 MONTHS = ("", "Jan.", "Feb.", "Mar.", "Apr.", "May", "Jun.", "Jul.",
           "Aug.", "Sep.", "Oct.", "Nov.", "Dec.")
 JOURNALS = {
@@ -55,7 +55,7 @@ TITLE_TERMS = {
 ACTION_ROW = re.compile(r'<div class="publication-actions">(?P<links>.*?)</div>', re.S)
 BUTTON_BLOCK = re.compile(r'<!-- citation-button:[^>]+ -->.*?<!-- /citation-button -->', re.S)
 PANEL_BLOCK = re.compile(r'<!-- citation-panel:[^>]+ -->.*?<!-- /citation-panel -->', re.S)
-SCRIPT_TAG = '<script src="assets/js/citations.js?v=20261017" defer></script>'
+SCRIPT_TAG = '<script src="assets/js/citations.js?v=20261124" defer></script>'
 SCRIPT_BLOCK = re.compile(r'<script\b[^>]*src="assets/js/citations\.js(?:\?[^\"]*)?"[^>]*>\s*</script>\n?', re.I)
 RECOGNITION_ROW = re.compile(r'<p class="publication-recognition">(.*?)</p>', re.S)
 RECOGNITION_ICONS = {
@@ -229,12 +229,15 @@ def refresh_page(path, records):
         button = (f'<!-- citation-button:{record_id} -->'
                   f'<button type="button" class="citation-toggle" aria-expanded="false" '
                   f'aria-controls="{panel_id}" aria-label="Citation for {title}">'
-                  '<span class="decorative-emoji" aria-hidden="true">📑</span>'
+                  '<svg class="citation-icon" viewBox="0 0 24 24" width="13" height="13" '
+                  'aria-hidden="true" focusable="false">'
+                  '<path d="M9.5 8H6a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h2v1.5a2 2 0 0 1-2 2'
+                  'm13.5-10.5H16a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h2v1.5a2 2 0 0 1-2 2"/></svg>'
                   'Citation<span class="citation-chevron" aria-hidden="true"></span></button>'
                   '<!-- /citation-button -->')
         panel = (f'<!-- citation-panel:{record_id} -->'
                  f'<div class="citation-panel" id="{panel_id}" hidden>'
-                 '<span class="citation-label">IEEE citation</span>'
+                 '<div class="citation-header"><span class="citation-label">IEEE citation</span></div>'
                  f'<p class="citation-text">{citation_html(record)}</p></div>'
                  '<!-- /citation-panel -->')
         return '<div class="publication-actions">' + links + button + '</div>' + panel
