@@ -14,13 +14,13 @@
 <main class="site-main">
 <aside class="site-sidebar">
 <img class="site-avatar" src="photos/ZZJ_bio3.jpg" alt="Portrait of Zijian Zhang">
-<div><h2 class="site-author-name">Zijian Zhang<br><span style="font-weight:400">张子健</span></h2><p class="site-author-bio">Ph.D., Tsinghua University<br>Huawei Top Mind program</p></div>
+<div><h2 class="site-author-name">Zijian Zhang<br><span style="font-weight:400">张子健</span></h2><p class="site-author-bio">Ph.D., Tsinghua University<br>Huawei Top Mind Program</p></div>
 <p class="site-profile-intro">Beyond massive MIMO, wireless communications, and signal processing.</p>
 <div class="site-profile-links"><a href="mailto:zhangzij15@tsinghua.org.cn"><svg class="profile-icon" width="24" height="24" aria-hidden="true" focusable="false"><use href="assets/icons/profile.svg#email"></use></svg> Email</a><a href="https://scholar.google.com/citations?user=OUAuynUAAAAJ&amp;hl=en"><svg class="profile-icon" width="24" height="24" aria-hidden="true" focusable="false"><use href="assets/icons/profile.svg#scholar"></use></svg> Google Scholar</a><a href="https://www.researchgate.net/profile/Zijian-Zhang-26"><svg class="profile-icon" width="24" height="24" aria-hidden="true" focusable="false"><use href="assets/icons/profile.svg#research"></use></svg> ResearchGate</a><a href="https://ieeexplore.ieee.org/author/37088489917"><svg class="profile-icon" width="24" height="24" aria-hidden="true" focusable="false"><use href="assets/icons/profile.svg#publications"></use></svg> IEEE Xplore</a><a href="https://www.ee.tsinghua.edu.cn/en/"><svg class="profile-icon" width="24" height="24" aria-hidden="true" focusable="false"><use href="assets/icons/profile.svg#university"></use></svg> Tsinghua EE</a><span><svg class="profile-icon" width="24" height="24" aria-hidden="true" focusable="false"><use href="assets/icons/profile.svg#location"></use></svg> Beijing, China</span></div>
 </aside>
 <article class="site-content" id="main-content" tabindex="-1"><div id="layout-content"><div id="toptitle">
 <h1><svg class="page-hero-icon" width="30" height="30" aria-hidden="true" focusable="false"><use href="assets/icons/homepage.svg#demo"></use></svg><span>Demos</span></h1>
-<p class="page-intro">Practical prototypes in wireless localization, robotics, and embedded systems, connecting sensor integration with robotic control.</p>
+<p class="page-intro">Hardware prototypes in wireless localization, robotics, and embedded systems, bridging multi-sensor integration and real-time control.</p>
 </div>
 <nav class="section-nav" aria-label="Demo navigation"><a href="#demo-uwb-vehicle">Person tracking</a><a href="#demo-uav-formation">UAV formation</a><a href="#demo-robotic-arm">Robotic arm</a><a href="#demo-sensor-node">Sensor node</a><a href="#demo-tinker">Tinker robot</a></nav>
 <section class="demo-entry demo-intro" aria-label="Robotics background">
@@ -28,8 +28,8 @@
 <img src="demos/Tinker.png" alt="Tsinghua Tinker robotics team at RoboCup 2019, with Zijian Zhang second from the right" loading="lazy" width="4032" height="3024" />
 </figure>
 <div class="demo-copy">
-<p>Alongside his research on physical-layer signal processing for 5G/6G communications, <a href="https://zhangzij15.github.io">Zijian Zhang</a> (second from the right in the photo) explores robotics through hands-on development.</p>
-<p>His experience spans independently developed prototypes, collaborative designs, and extracurricular academic competitions, including <a href="https://2019.robocup.org/">RoboCup 2019</a> in Sydney, Australia.</p>
+<p>Alongside his research on physical-layer signal processing for 5G/6G communications, <a href="https://zhangzij15.github.io">Zijian Zhang</a> (second from the right in the photo) builds wireless localization and robotics hardware prototypes.</p>
+<p>His hands-on projects range from independently built embedded systems to collaborative platforms developed for engineering competitions, including <a href="https://2019.robocup.org/">RoboCup 2019</a> in Sydney, Australia.</p>
 </div>
 </section>
 <section class="demo-entry" id="demo-uwb-vehicle" aria-labelledby="demo-uwb-vehicle-title">
@@ -39,9 +39,9 @@
 <img src="demos/UWB_car.gif" alt="Human-tracking vehicle using ultra-wideband localization" loading="lazy" width="720" height="480" />
 </figure>
 <div class="demo-copy">
-<p class="demo-credit">Designed by <b>Zijian Zhang</b>, XiaoXiang Li, and Tianyu Wang.</p>
+<p class="demo-credit">Designed by <b>Zijian Zhang</b>, Xiaoxiang Li, and Tianyu Wang.</p>
 <p>This small unmanned vehicle follows a person using ultra-wideband (UWB) localization. A three-antenna array, a Decawave DW1000 UWB transceiver, and an inertial measurement unit (IMU) form its sensing system.</p>
-<p>The vehicle receives signals from a wearable UWB tag and estimates their direction of arrival (DOA) to track the wearer in real time.</p>
+<p>By estimating the direction of arrival (DOA) of signals from a wearable UWB tag, the vehicle tracks the wearer in real time.</p>
 </div>
 </div>
 </section>
@@ -53,7 +53,7 @@
 </figure>
 <div class="demo-copy">
 <p class="demo-credit">Designed by <b>Zijian Zhang</b> and Cuijie Xu.</p>
-<p>This four-UAV prototype combines sensor measurements for cooperative localization and maintains the UAVs' relative positions in formation. Each UAV carries an IMU, a UWB module, an optical-flow sensor, and a barometer. An extended Kalman filter (EKF) fuses these measurements to estimate their positions.</p>
+<p>This four-UAV prototype combines sensor measurements for cooperative localization and maintains the UAVs' relative positions in formation. Each UAV carries an IMU, a UWB module, an optical-flow sensor, and a barometer. An extended Kalman filter (EKF) fuses these measurements to estimate each UAV's position.</p>
 <p>The UAVs communicate over ZigBee. Any member can lead the formation, and each UAV can also be operated manually with its own controller.</p>
 </div>
 </div>
@@ -66,8 +66,8 @@
 </figure>
 <div class="demo-copy">
 <p class="demo-credit">Designed by <b>Zijian Zhang</b>.</p>
-<p>This flexible medical robotic arm supports programmed automatic operation and manual operation via a wireless controller. Zijian Zhang developed its mechanical structure, circuitry, and control software during his internship at EBOND in Beijing.</p>
-<p>The arm provides centimeter-level positioning control. Its three high-resolution stepper motors are powered by a 48 V supply and controlled by an STM32H7 microcontroller.</p>
+<p>This flexible medical robotic arm supports both programmed autonomous motion and manual control via a wireless controller. Zijian Zhang developed its mechanical structure, circuitry, and control software during his internship at EBOND in Beijing.</p>
+<p>The arm achieves centimeter-level positioning accuracy. Its three high-resolution stepper motors are powered by a 48 V supply and controlled by an STM32H7 microcontroller.</p>
 </div>
 </div>
 </section>
@@ -79,8 +79,8 @@
 </figure>
 <div class="demo-copy">
 <p class="demo-credit">Designed by <b>Zijian Zhang</b>.</p>
-<p>Developed during Zijian Zhang's internship at Pi2Star Technology Ltd. in Beijing, this networked sensor node collects measurements for industrial motor fault detection. It integrates an IMU with magnetic, infrared, and temperature sensors for use in an Internet of Things (IoT) system.</p>
-<p>Mounted on a motor, the node transmits operating data to a host computer over Bluetooth for condition analysis.</p>
+<p>Developed during Zijian Zhang's internship at Pi2Star Technology Ltd. in Beijing, this networked sensor node collects measurements for industrial motor fault detection. It integrates an IMU with magnetic, infrared, and temperature sensors for industrial Internet of Things (IoT) monitoring.</p>
+<p>Mounted directly on a motor, the node streams operating data to a host computer over Bluetooth for condition monitoring and fault diagnosis.</p>
 </div>
 </div>
 </section>

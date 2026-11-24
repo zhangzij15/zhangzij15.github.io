@@ -218,7 +218,7 @@
       }
     },
     {
-      "journal_number": 10,
+      "journal_number": 11,
       "page": 6,
       "figure": "3 (ice-filling panel)",
       "caption": "Comparison between water-filling and ice-filling. The rank of the prior kernel, the number of antennas, and the total pilot length are set as K = 6, M = 128, and Q = 16, respectively. The eigenvalues of the prior kernel are in descending order.",
@@ -242,7 +242,7 @@
       }
     },
     {
-      "journal_number": 11,
+      "journal_number": 12,
       "page": 2,
       "figure": "1",
       "caption": "Comparison between (a) narrowband active RIS and (b) wideband active RIS.",
@@ -266,7 +266,7 @@
       }
     },
     {
-      "journal_number": 12,
+      "journal_number": 13,
       "page": 3,
       "figure": "2",
       "caption": "US-RIS construction. (a) A typical user which is a real-world model of customer-premises equipment (CPE). (b) The proposed architecture with multi-layer US-RIS.",
@@ -290,7 +290,7 @@
       }
     },
     {
-      "journal_number": 13,
+      "journal_number": 14,
       "page": 2,
       "figure": "1",
       "caption": "Comparison between different architectures for active RIS.",
@@ -314,7 +314,7 @@
       }
     },
     {
-      "journal_number": 14,
+      "journal_number": 15,
       "page": 1,
       "figure": "1",
       "caption": "(a) An illustration of a network with two active nodes and one target; (b) The relationship between absolute range and sum range, where i and j are active nodes and kappa is a target.",
@@ -338,7 +338,7 @@
       }
     },
     {
-      "journal_number": 15,
+      "journal_number": 16,
       "pdf": "pubs/Journal_paper/TITS_z.pdf",
       "image": "assets/publications/TITS_z.png",
       "page": 2,
@@ -362,7 +362,7 @@
       }
     },
     {
-      "journal_number": 16,
+      "journal_number": 17,
       "pdf": "pubs/Journal_paper/TST_s.pdf",
       "image": "assets/publications/TST_s.png",
       "page": 3,
@@ -386,7 +386,7 @@
       }
     },
     {
-      "journal_number": 17,
+      "journal_number": 18,
       "pdf": "pubs/Journal_paper/TCOM_wan.pdf",
       "image": "assets/publications/TCOM_wan.png",
       "page": 2,
@@ -410,7 +410,7 @@
       }
     },
     {
-      "journal_number": 18,
+      "journal_number": 19,
       "pdf": "pubs/Journal_paper/TCOM_l.pdf",
       "image": "assets/publications/TCOM_l.png",
       "page": 8,
@@ -434,7 +434,7 @@
       }
     },
     {
-      "journal_number": 19,
+      "journal_number": 20,
       "pdf": "pubs/Journal_paper/TWC_NFBT.pdf",
       "image": "assets/publications/TWC_NFBT.png",
       "page": 3,
@@ -458,7 +458,7 @@
       }
     },
     {
-      "journal_number": 20,
+      "journal_number": 21,
       "pdf": "pubs/Journal_paper/TVT_MAP.pdf",
       "image": "assets/publications/TVT_MAP.png",
       "page": 5,
@@ -482,7 +482,7 @@
       }
     },
     {
-      "journal_number": 21,
+      "journal_number": 22,
       "pdf": "pubs/Journal_paper/COMMAG_Ryd.pdf",
       "image": "assets/publications/COMMAG_Ryd.png",
       "page": 5,

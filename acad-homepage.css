@@ -943,7 +943,7 @@ img { max-width: 100%; height: auto; }
 #layout-content .publication-authors { margin: 0 0 3px; color: var(--muted); font-size: 14px; line-height: 1.65; }
 .publication-authors b, .publication-authors strong { color: var(--ink-strong); font-weight: 650; }
 #layout-content .publication-venue { margin: 0; color: var(--muted); font-size: 14px; line-height: 1.68; }
-.journal-publication .publication-venue > i,
+#journal-papers .publication-venue > i,
 .publication-list-page #journal-papers .reference-text > i { color: var(--ink); font-weight: 700; }
 
 /* Publication Action Pills & Prestige IEEE Citation Slip */

@@ -737,6 +737,67 @@
     },
     {
       "id": "J10",
+      "title": "Joint Observation Matrix Design for Channel Estimation in Active RIS Communications",
+      "authors": [
+        {
+          "given": "Zijian",
+          "family": "Zhang"
+        },
+        {
+          "given": "Mingyao",
+          "family": "Cui"
+        },
+        {
+          "given": "Xiaoru",
+          "family": "Chen"
+        }
+      ],
+      "old_title": "Joint Observation Matrix Design for Channel Estimation in Active RIS Communications",
+      "old_authors": "Z. Zhang, M. Cui, and X. Chen",
+      "old_venue": "IEEE Wireless Communications Letters, Early Access, 2026.",
+      "venue": "IEEE Wireless Communications Letters",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "article_number": null,
+      "year": 2026,
+      "month": null,
+      "doi": "10.1109/lwc.2026.3753131",
+      "status": "verified",
+      "publication_status": "early_access",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "online_date": null,
+      "print_date": [
+        [
+          2026
+        ]
+      ],
+      "source_urls": [
+        "https://api.crossref.org/works/10.1109%2Flwc.2026.3753131",
+        "https://ieeexplore.ieee.org/document/11793706/",
+        "https://doi.org/10.1109/lwc.2026.3753131",
+        "https://scholar.google.com/citations?user=OUAuynUAAAAJ&hl=en"
+      ],
+      "evidence": [
+        "Exact title, author order, journal name, DOI (10.1109/lwc.2026.3753131), and IEEE Xplore primary resource (document 11793706) verified from the IEEE-deposited Crossref DOI record (deposited 2026-11-13) and the author's Google Scholar profile.",
+        "Recorded as Early Access, 2026 without unverified issue/month/final pagination (Crossref reports provisional page 1-1 with no volume or issue)."
+      ],
+      "changes": [],
+      "unverified_fields": [
+        "volume",
+        "issue",
+        "pages",
+        "month"
+      ],
+      "checked_as_of": "2026-11-24",
+      "candidate_similarity": 1.0,
+      "rejected_candidate_doi": null,
+      "recommended_venue_html": "<i>IEEE Wireless Communications Letters</i>, Early Access, 2026.",
+      "website_action": "Added newly published IEEE WCL Early Access article as J10 (first-author block) and renumbered former J10-J21 to J11-J22.",
+      "rechecked_as_of": "2026-11-24"
+    },
+    {
+      "id": "J11",
       "title": "Ice-Filling: Near-Optimal Channel Estimation for Dense Array Systems",
       "authors": [
         {
@@ -807,7 +868,7 @@
       "rechecked_as_of": "2026-10-11"
     },
     {
-      "id": "J11",
+      "id": "J12",
       "title": "Wideband Active RISs: Architecture, Modeling, and Beamforming Design",
       "authors": [
         {
@@ -874,7 +935,7 @@
       "rechecked_as_of": "2026-10-11"
     },
     {
-      "id": "J12",
+      "id": "J13",
       "title": "Compact User-Specific Reconfigurable Intelligent Surfaces for Uplink Transmission",
       "authors": [
         {
@@ -945,7 +1006,7 @@
       "rechecked_as_of": "2026-10-11"
     },
     {
-      "id": "J13",
+      "id": "J14",
       "title": "Active Reconfigurable Intelligent Surface: Fully-Connected or Sub-Connected?",
       "authors": [
         {
@@ -1020,7 +1081,7 @@
       "rechecked_as_of": "2026-10-11"
     },
     {
-      "id": "J14",
+      "id": "J15",
       "title": "A Signal-Multiplexing Ranging Scheme for Integrated Localization and Sensing",
       "authors": [
         {
@@ -1095,7 +1156,7 @@
       "rechecked_as_of": "2026-10-11"
     },
     {
-      "id": "J15",
+      "id": "J16",
       "title": "Enhancing Timeliness in Asynchronous Vehicle Localization: A Signal-Multiplexing Network Measuring Approach",
       "authors": [
         {
@@ -1170,7 +1231,7 @@
       "rechecked_as_of": "2026-10-11"
     },
     {
-      "id": "J16",
+      "id": "J17",
       "title": "Joint Beamforming Design for RIS-Assisted Cell-Free Network with Multi-Hop Transmissions",
       "authors": [
         {
@@ -1237,7 +1298,7 @@
       "rechecked_as_of": "2026-10-11"
     },
     {
-      "id": "J17",
+      "id": "J18",
       "title": "Mutual Information for Electromagnetic Information Theory Based on Random Fields",
       "authors": [
         {
@@ -1312,7 +1373,7 @@
       "rechecked_as_of": "2026-10-11"
     },
     {
-      "id": "J18",
+      "id": "J19",
       "title": "Hierarchical Beam Training for Extremely Large-Scale MIMO: From Far-Field to Near-Field",
       "authors": [
         {
@@ -1379,7 +1440,7 @@
       "rechecked_as_of": "2026-10-11"
     },
     {
-      "id": "J19",
+      "id": "J20",
       "title": "Near-Optimal Near-Field Beam Training: From Searching to Inference",
       "authors": [
         {
@@ -1446,7 +1507,7 @@
       "rechecked_as_of": "2026-10-11"
     },
     {
-      "id": "J20",
+      "id": "J21",
       "title": "High-Efficiency Urban 3D Radio Map Estimation Based on Sparse Measurements",
       "authors": [
         {
@@ -1521,7 +1582,7 @@
       "rechecked_as_of": "2026-10-11"
     },
     {
-      "id": "J21",
+      "id": "J22",
       "title": "Rydberg Atomic Receivers for Net-Zero 6G Wireless Communication and Sensing: Progress, Experiments, and Sustainable Prospects",
       "authors": [
         {

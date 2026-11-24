@@ -302,7 +302,7 @@ def reference_resources_html(entry, title):
     if actions:
         for attributes, caption in re.findall(r'<a\b([^>]+)>(.*?)</a>', actions['links'], re.S):
             label = html.unescape(re.sub(r'<[^>]+>', '', caption)).strip()
-            if label not in ('Paper', 'Code', 'Book', 'Slides'):
+            if label not in ('Paper', 'Code', 'Book', 'Slides', 'IEEE Xplore'):
                 continue
             source_attributes = dict(re.findall(r'([\w-]+)="([^\"]*)"', attributes))
             href = html.escape(html.unescape(source_attributes['href']), quote=True)
