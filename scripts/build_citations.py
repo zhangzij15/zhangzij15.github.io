@@ -140,9 +140,6 @@ def author_name(author, record_id, personalize=False, corresponding=False):
 
 def author_list(record, personalize=False, corresponding=False):
     names = [author_name(a, record['id'], personalize, corresponding) for a in record['authors']]
-    # The personal reading list retains every author so the owner's name is visible.
-    if len(names) > 6 and not personalize:
-        return names[0] + ' <i>et al.</i>'
     if len(names) == 1:
         return names[0]
     if len(names) == 2:

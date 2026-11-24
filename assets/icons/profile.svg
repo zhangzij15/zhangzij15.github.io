@@ -23,6 +23,11 @@
   <symbol id="university" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round">
     <path d="m3 8 9-5 9 5H3ZM6 8v10M10 8v10M14 8v10M18 8v10M5 18h14M3 21h18"/>
   </symbol>
+  <symbol id="orcid" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="9"/>
+    <path d="M8.5 10.5v6M11.5 7.5v9h1.8a4.5 4.5 0 0 0 0-9h-1.8Z"/>
+    <circle cx="8.5" cy="7.6" r=".55" fill="currentColor" stroke="none"/>
+  </symbol>
   <symbol id="location" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round">
     <path d="M19 10c0 5-7 11-7 11S5 15 5 10a7 7 0 0 1 14 0Z"/>
     <circle cx="12" cy="10" r="2.5"/>
